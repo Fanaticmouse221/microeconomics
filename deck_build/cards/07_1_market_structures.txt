@@ -102,10 +102,6 @@ Q: Which market structures describe most real-world industries?
 A: Monopolistic competition and oligopoly.
 
 @ T7.1.6 | explain | 198
-Q: How is market power related to competition?
-A: Market power is the opposite of competition: the greater the market power, the lower the competition and the greater the control over price.
-
-@ T7.1.6 | explain | 198
 Q: Rank the four market structures in order of increasing market power.
 A: Perfect competition (none), monopolistic competition (some), oligopoly (significant), monopoly (very significant).
 

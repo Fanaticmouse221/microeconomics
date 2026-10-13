@@ -58,7 +58,7 @@ ANY_BANNED = [r"\bfigure\s+\d", r"\btable\s+\d", r"\bin the text\b"]
 SPELLING = [
     r"\blabor", r"\bbehavior", r"utiliz", r"organiz", r"analyz", r"\bfavor", r"\bcolor",
     r"\bcenter", r"programme", r"maximiz", r"minimiz", r"subsidiz", r"realiz", r"recogniz",
-    r"\bdefense\b", r"fulfill\b", r"enrollment", r"neighbor", r"\bgasoline\b", r"\bgas price",
+    r"\bdefense\b", r"fulfill\b", r"enrollment", r"neighbor", r"\bgasoline\b",
     r"business cycle", r"criticiz", r"monopoliz", r"privatiz", r"optimiz", r"stabiliz",
     r"prioritiz", r"internaliz", r"specializ", r"emphasiz", r"categoriz", r"characteriz",
     r"rationaliz", r"standardiz", r"\bcatalog\b", r"\bjudgment", r"\btraveling", r"\bmodeling",
@@ -227,6 +227,10 @@ def main():
     sections, items = parse_checklist(os.path.join(HERE, "checklist.txt"))
     card_files = sorted(glob.glob(os.path.join(HERE, "cards", "*.txt")))
     cards = parse_cards(card_files)
+    # Order the deck by checklist item (stable, so file order is kept within an item);
+    # this files the Australian-context cards under the dot point they belong to.
+    order = {iid: n for n, iid in enumerate(items)}
+    cards.sort(key=lambda c: order.get(c["id"], len(order)))
 
     seen = {}
     for c in cards:

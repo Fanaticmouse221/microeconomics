@@ -202,10 +202,6 @@ Q: How does PED affect the tax revenue a government receives from an indirect ta
 A: The lower the PED of the taxed good, the greater the tax revenue: with inelastic demand the tax-induced price rise reduces quantity demanded proportionately less, so more units remain to be taxed.
 
 @ T3.1.7 | diagram | 95
-Q: How does an indirect tax affect the supply curve?
-A: It shifts the supply curve upward (equivalent to a leftward shift) by the amount of the tax per unit, because firms must receive a price higher by the tax for every quantity they supply.
-
-@ T3.1.7 | diagram | 95
 Q: On an indirect tax diagram, how is the government's tax revenue shown?
 A: As the rectangle whose height is the tax per unit (the vertical distance between the two supply curves) and whose width is the after-tax quantity.
 

@@ -16,10 +16,6 @@ A: Governments have numerous policy tools that change market outcomes, but their
 Q: How do indirect taxes help governments earn revenue, and why are they placed on goods like cigarettes, alcohol and petrol?
 A: Indirect taxes are taxes on goods and services. The lower a good's PED, the more tax revenue is raised, so they are imposed on price inelastic goods such as cigarettes, alcohol and petrol.
 
-@ T4.1.1 | distinguish | 113
-Q: Distinguish between indirect taxes and income taxes.
-A: <b>Indirect taxes:</b> taxes on goods and services (spending).<br><b>Income taxes:</b> taxes on the incomes people and firms earn.
-
 @ T4.1.1 | explain | 113
 Q: Why might a government provide support to firms?
 A: To help newly established small firms become strong enough to compete with larger firms; to encourage the growth of particular industries (e.g. wind and solar power); and to protect domestic firms from foreign competition.

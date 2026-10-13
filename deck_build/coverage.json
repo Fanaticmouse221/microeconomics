@@ -424,25 +424,25 @@
    "desc": "Policies inspired by behavioural economics: nudge theory",
    "section": "2.6",
    "topic": "behavioural_economics",
-   "count": 11,
+   "count": 12,
    "pages": [
     75,
     76,
     83
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T2.6.5": {
    "desc": "Policies inspired by behavioural economics: choice architecture (default, restricted and mandated choice)",
    "section": "2.6",
    "topic": "behavioural_economics",
-   "count": 11,
+   "count": 13,
    "pages": [
     76,
     77,
     78
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T2.6.6": {
    "desc": "Evaluate behavioural economics and its policies (mainstream response, advantages, disadvantages)",
@@ -551,7 +551,7 @@
    "desc": "Apply PED: its importance for firms (pricing) and government decision-making (indirect taxes)",
    "section": "3.1",
    "topic": "PED",
-   "count": 6,
+   "count": 5,
    "pages": [
     94,
     95
@@ -673,7 +673,7 @@
    "desc": "Outline key reasons why governments intervene in markets (incl. the Real world issue 2 overview)",
    "section": "4.1",
    "topic": "govt_intervention",
-   "count": 18,
+   "count": 17,
    "pages": [
     111,
     113,
@@ -718,12 +718,12 @@
    "desc": "Price ceilings: consequences for stakeholders and evaluation (incl. rent controls and food price controls)",
    "section": "4.2",
    "topic": "price_controls",
-   "count": 13,
+   "count": 15,
    "pages": [
     117,
     118
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T4.2.4": {
    "desc": "Price floors for agricultural products: explain and draw the consequences for markets (surplus, government purchases, firm inefficiency, overallocation, welfare loss)",
@@ -742,23 +742,23 @@
    "desc": "Price floors for agricultural products: consequences for stakeholders and evaluation",
    "section": "4.2",
    "topic": "price_controls",
-   "count": 8,
+   "count": 9,
    "pages": [
     123,
     126
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T4.2.6": {
    "desc": "Minimum wages: explain and draw the consequences for the economy and stakeholders, and evaluate",
    "section": "4.2",
    "topic": "price_controls",
-   "count": 14,
+   "count": 15,
    "pages": [
     125,
     126
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T4.2.7": {
    "desc": "Fixed prices (e.g. event tickets)",
@@ -774,23 +774,23 @@
    "desc": "The meaning of indirect taxes: excise and general taxes, indirect versus direct, specific versus ad valorem",
    "section": "4.3",
    "topic": "indirect_taxes",
-   "count": 6,
+   "count": 8,
    "pages": [
     127,
     128
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T4.3.2": {
    "desc": "Indirect taxes and resource allocation; why governments impose indirect taxes",
    "section": "4.3",
    "topic": "indirect_taxes",
-   "count": 6,
+   "count": 7,
    "pages": [
     127,
     128
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T4.3.3": {
    "desc": "Draw diagrams and explain the impacts of a specific tax on market outcomes",
@@ -808,11 +808,11 @@
    "desc": "Explain the consequences of indirect taxes for stakeholders",
    "section": "4.3",
    "topic": "indirect_taxes",
-   "count": 4,
+   "count": 5,
    "pages": [
     129
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T4.3.5": {
    "desc": "Evaluate indirect taxes: consumer and producer surplus, welfare loss and allocative inefficiency",
@@ -1005,48 +1005,48 @@
    "desc": "Government responses: carbon taxes (explain, diagram)",
    "section": "5.3",
    "topic": "negative_production_externalities",
-   "count": 6,
+   "count": 7,
    "pages": [
     153,
     154
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T5.3.6": {
    "desc": "Government responses: tradable permits / cap and trade (explain, diagram)",
    "section": "5.3",
    "topic": "negative_production_externalities",
-   "count": 7,
+   "count": 9,
    "pages": [
     154
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T5.3.7": {
    "desc": "Evaluate market-based policies (measurement difficulties, effectiveness, stakeholders; carbon taxes versus tradable permits)",
    "section": "5.3",
    "topic": "negative_production_externalities",
-   "count": 26,
+   "count": 27,
    "pages": [
     154,
     155,
     156,
     157
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T5.3.8": {
    "desc": "Government responses: legislation and regulation (explain, diagram, evaluate)",
    "section": "5.3",
    "topic": "negative_production_externalities",
-   "count": 12,
+   "count": 14,
    "pages": [
     157,
     158,
     161,
     162
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T5.3.9": {
    "desc": "Government responses: collective self-governance (Ostrom) (explain, evaluate)",
@@ -1137,12 +1137,12 @@
    "desc": "Government responses: legislation and regulation (explain, diagram, evaluate)",
    "section": "5.4",
    "topic": "negative_consumption_externalities",
-   "count": 4,
+   "count": 5,
    "pages": [
     167,
     168
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T5.4.7": {
    "desc": "Government responses: education and awareness creation (explain, evaluate)",
@@ -1169,11 +1169,11 @@
    "desc": "Evaluate policies for negative consumption externalities overall (combining policies; sugar taxes)",
    "section": "5.4",
    "topic": "negative_consumption_externalities",
-   "count": 5,
+   "count": 6,
    "pages": [
     169
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T6.1.1": {
    "desc": "Explain positive externalities of production (MSC below MPC) and the resulting underallocation",
@@ -1241,23 +1241,23 @@
    "desc": "Government responses that raise demand: legislation and regulation, education and awareness creation, nudges (explain, diagram)",
    "section": "6.2",
    "topic": "positive_consumption_externalities",
-   "count": 3,
+   "count": 4,
    "pages": [
     179,
     180
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T6.2.5": {
    "desc": "Government responses that raise supply: direct government provision and subsidies (explain, diagram)",
    "section": "6.2",
    "topic": "positive_consumption_externalities",
-   "count": 5,
+   "count": 7,
    "pages": [
     180,
     181
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T6.2.6": {
    "desc": "Evaluate policies to correct positive production and consumption externalities",
@@ -1285,12 +1285,12 @@
    "desc": "Explain public goods as non-rivalrous and non-excludable (and classify private goods, common pool resources, public and quasi-public goods)",
    "section": "6.3",
    "topic": "public_goods",
-   "count": 8,
+   "count": 9,
    "pages": [
     185,
     186
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T6.3.2": {
    "desc": "Explain the free rider problem and why the market fails to provide public goods",
@@ -1360,12 +1360,12 @@
    "desc": "Adverse selection (buyers know more, e.g. health insurance): private and government responses",
    "section": "6.4",
    "topic": "asymmetric_information",
-   "count": 7,
+   "count": 9,
    "pages": [
     189,
     190
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T6.4.5": {
    "desc": "Moral hazard: examples and responses",
@@ -1382,12 +1382,12 @@
    "desc": "Explain why the free market results in an unequal distribution of income (equity and equality; factor ownership and factor prices)",
    "section": "6.5",
    "topic": "equity_distribution",
-   "count": 8,
+   "count": 9,
    "pages": [
     191,
     192
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T6.5.2": {
    "desc": "Draw a circular flow of income diagram to show why free markets give rise to income inequalities",
@@ -1466,7 +1466,7 @@
    "desc": "Compare the four market structures (market power versus competition) and explain why perfect competition is studied",
    "section": "7.1",
    "topic": "market_structures",
-   "count": 5,
+   "count": 4,
    "pages": [
     198
    ],
@@ -1476,7 +1476,7 @@
    "desc": "Explain revenue concepts: total, average and marginal revenue (price takers versus price makers)",
    "section": "7.2",
    "topic": "costs_revenue_profit",
-   "count": 7,
+   "count": 6,
    "pages": [
     199,
     200
@@ -1522,7 +1522,7 @@
    "desc": "Explain profit maximisation (MR = MC; total revenue minus total cost)",
    "section": "7.2",
    "topic": "costs_revenue_profit",
-   "count": 7,
+   "count": 6,
    "pages": [
     205,
     206
@@ -1776,12 +1776,12 @@
    "desc": "Explain market concentration and concentration ratios (and their weaknesses)",
    "section": "7.6",
    "topic": "oligopoly",
-   "count": 9,
+   "count": 10,
    "pages": [
     235,
     236
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T7.6.8": {
    "desc": "Explain allocative inefficiency and market failure in oligopoly; discuss its advantages and disadvantages",
@@ -1809,92 +1809,264 @@
    "desc": "Explain the meaning of abuse of market power (anti-competitive practices) and where it arises",
    "section": "7.7",
    "topic": "abuse_of_market_power",
-   "count": 4,
+   "count": 5,
    "pages": [
     239,
     240
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T7.7.3": {
    "desc": "Evaluate legislation and regulation to protect competition (competition policy, mergers)",
    "section": "7.7",
    "topic": "abuse_of_market_power",
-   "count": 10,
+   "count": 13,
    "pages": [
     240,
     241,
     242,
     243
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T7.7.4": {
    "desc": "Evaluate fines as a response to abuse of market power",
    "section": "7.7",
    "topic": "abuse_of_market_power",
-   "count": 5,
+   "count": 6,
    "pages": [
     241,
     244
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   },
   "T7.7.5": {
    "desc": "Evaluate government ownership and regulation of natural monopolies (marginal cost and average cost pricing)",
    "section": "7.7",
    "topic": "abuse_of_market_power",
-   "count": 10,
+   "count": 12,
    "pages": [
     243,
     244,
     245
    ],
-   "own_knowledge": false
+   "own_knowledge": true
   }
  },
- "verify_cards": [],
+ "verify_cards": [
+  {
+   "id": "T2.6.4",
+   "front": "What is the Australian Government's nudge unit?",
+   "topic": "behavioural_economics"
+  },
+  {
+   "id": "T2.6.5",
+   "front": "Does Australia use an opt-in or opt-out (default) system for organ donation, and what does choice architecture suggest about this?",
+   "topic": "behavioural_economics"
+  },
+  {
+   "id": "T2.6.5",
+   "front": "How does Australia's superannuation system use default choice?",
+   "topic": "behavioural_economics"
+  },
+  {
+   "id": "T4.2.3",
+   "front": "Give an Australian example of a price ceiling in the electricity market.",
+   "topic": "price_controls"
+  },
+  {
+   "id": "T4.2.3",
+   "front": "What temporary price ceilings did Australian governments impose on energy in December 2022, and why?",
+   "topic": "price_controls"
+  },
+  {
+   "id": "T4.2.5",
+   "front": "What was Australia's Wool Reserve Price Scheme, and why did it collapse?",
+   "topic": "price_controls"
+  },
+  {
+   "id": "T4.2.6",
+   "front": "Who sets Australia's national minimum wage, and how?",
+   "topic": "price_controls"
+  },
+  {
+   "id": "T4.3.1",
+   "front": "What is Australia's GST, and what kind of indirect tax is it?",
+   "topic": "indirect_taxes"
+  },
+  {
+   "id": "T4.3.1",
+   "front": "Give Australian examples of excise taxes that are specific taxes.",
+   "topic": "indirect_taxes"
+  },
+  {
+   "id": "T4.3.2",
+   "front": "Give Australian examples of ad valorem taxes on particular goods, including one aimed at luxuries.",
+   "topic": "indirect_taxes"
+  },
+  {
+   "id": "T4.3.4",
+   "front": "Why is the GST considered regressive, and how is this reduced?",
+   "topic": "indirect_taxes"
+  },
+  {
+   "id": "T5.3.5",
+   "front": "What was Australia's Carbon Pricing Mechanism?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.3.6",
+   "front": "What is Australia's Safeguard Mechanism?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.3.6",
+   "front": "How does the Murray-Darling Basin use tradable permits to manage a common pool resource?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.3.7",
+   "front": "How did Australia's Emissions Reduction Fund ('Direct Action') differ from a carbon tax?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.3.8",
+   "front": "How has government regulation and buyback been used to address overuse of water in the Murray-Darling Basin?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.3.8",
+   "front": "How are Australian Commonwealth fisheries protected from overfishing with tradable quotas?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.4.6",
+   "front": "What tobacco packaging regulation did Australia pioneer, and what kind of policy is it?",
+   "topic": "negative_consumption_externalities"
+  },
+  {
+   "id": "T5.4.9",
+   "front": "Does Australia have a tax on sugar-sweetened drinks, and what is used instead?",
+   "topic": "negative_consumption_externalities"
+  },
+  {
+   "id": "T6.2.4",
+   "front": "What is Australia's 'No Jab, No Pay' policy, and what type of policy is it?",
+   "topic": "positive_consumption_externalities"
+  },
+  {
+   "id": "T6.2.5",
+   "front": "What is the Pharmaceutical Benefits Scheme (PBS)?",
+   "topic": "positive_consumption_externalities"
+  },
+  {
+   "id": "T6.2.5",
+   "front": "How does HECS-HELP support the consumption of higher education in Australia?",
+   "topic": "positive_consumption_externalities"
+  },
+  {
+   "id": "T6.3.1",
+   "front": "Give Australian examples of public goods provided by government.",
+   "topic": "public_goods"
+  },
+  {
+   "id": "T6.4.4",
+   "front": "How does Medicare address adverse selection in Australian health care?",
+   "topic": "asymmetric_information"
+  },
+  {
+   "id": "T6.4.4",
+   "front": "What Australian rules counter adverse selection in private health insurance?",
+   "topic": "asymmetric_information"
+  },
+  {
+   "id": "T6.5.1",
+   "front": "How is Australia's personal income tax progressive, and how does it promote equity?",
+   "topic": "equity_distribution"
+  },
+  {
+   "id": "T7.6.7",
+   "front": "Give examples of highly concentrated (oligopolistic) markets in Australia.",
+   "topic": "oligopoly"
+  },
+  {
+   "id": "T7.7.2",
+   "front": "How does Australian law define misuse of market power?",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.3",
+   "front": "What is the ACCC?",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.3",
+   "front": "Which Australian law prohibits cartels and misuse of market power, and how are serious cartels punished?",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.3",
+   "front": "How did Australian merger law change from 1 January 2026?",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.4",
+   "front": "Give an example of a large penalty for cartel conduct in Australia.",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.5",
+   "front": "How does Australia regulate natural monopolies such as electricity networks and broadband?",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.5",
+   "front": "Give examples of privatisation in Australia.",
+   "topic": "abuse_of_market_power"
+  }
+ ],
  "topic_counts": {
   "competitive_markets": 9,
   "demand": 45,
   "supply": 49,
   "market_equilibrium": 25,
   "price_mechanism": 44,
-  "behavioural_economics": 89,
-  "PED": 68,
+  "behavioural_economics": 92,
+  "PED": 67,
   "YED": 32,
   "PES": 29,
-  "govt_intervention": 21,
-  "price_controls": 67,
-  "indirect_taxes": 27,
+  "govt_intervention": 20,
+  "price_controls": 71,
+  "indirect_taxes": 31,
   "subsidies": 29,
   "common_pool_resources": 25,
   "externalities_intro": 18,
-  "negative_production_externalities": 88,
-  "negative_consumption_externalities": 32,
+  "negative_production_externalities": 94,
+  "negative_consumption_externalities": 34,
   "positive_production_externalities": 10,
-  "positive_consumption_externalities": 40,
-  "public_goods": 29,
-  "asymmetric_information": 35,
-  "equity_distribution": 14,
-  "market_structures": 30,
-  "costs_revenue_profit": 36,
+  "positive_consumption_externalities": 43,
+  "public_goods": 30,
+  "asymmetric_information": 37,
+  "equity_distribution": 15,
+  "market_structures": 29,
+  "costs_revenue_profit": 34,
   "perfect_competition": 29,
   "monopoly": 42,
   "monopolistic_competition": 28,
-  "oligopoly": 57,
-  "abuse_of_market_power": 34
+  "oligopoly": 58,
+  "abuse_of_market_power": 41
  },
  "type_counts": {
-  "definition": 230,
-  "explain": 297,
-  "distinguish": 48,
-  "example": 165,
-  "diagram": 141,
+  "definition": 232,
+  "explain": 296,
+  "distinguish": 47,
+  "example": 194,
+  "diagram": 140,
   "chain": 90,
-  "evaluation": 177,
-  "stakeholders": 42
+  "evaluation": 182,
+  "verify": 34,
+  "stakeholders": 43
  },
  "untyped": 0,
- "total": 1081
+ "total": 1110
 }

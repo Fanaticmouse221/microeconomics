@@ -1,0 +1,14 @@
+# Learning objectives that are calculations only (excluded on instruction: no calculation cards).
+# section | learning objective (as worded in the book) | book pages
+2.5 | Calculate consumer and producer surplus from a diagram (AO4) | 68-69
+3.1 | Use the formula for PED to calculate PED, changes in price, changes in quantity and total revenue (AO4) | 85-87, 93-94
+3.2 | Use the formula for YED to calculate YED, change in income and quantity demanded (AO4) | 98, 100-101
+3.3 | Use the formula for PES to calculate PES, changes in price and changes in quantity (AO4) | 104
+4.2 | (HL) Calculate the effects of price ceilings and price floors on markets and stakeholders (AO4) | 119-120, 124-125
+4.3 | (HL) Calculate the effects of indirect taxes on markets and stakeholders (AO4) | 131-133
+4.4 | (HL) Calculate the effects of subsidies on markets and stakeholders (AO4) | 138-140
+5.3 | (HL) Calculate welfare loss that arises from negative externalities of production (AO4) | 151
+5.4 | (HL) Calculate welfare loss that arises from negative externalities of consumption (AO4) | 165
+6.1 | (HL) Calculate welfare loss that arises from positive externalities of production (AO4) | 175
+6.2 | (HL) Calculate welfare loss that arises from positive externalities of consumption (AO4) | 179
+7.2 | (HL) Calculations from data of profit, marginal cost, marginal revenue, average cost, average revenue (AO4) | 199-206

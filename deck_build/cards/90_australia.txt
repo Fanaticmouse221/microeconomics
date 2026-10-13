@@ -1,0 +1,139 @@
+# Australian applications written from general knowledge, NOT from the textbook.
+# Every card here is tagged "verify": check against current FWC, ATO, ACCC, AER, DCCEEW, MDBA,
+# Health and Treasury sources (figures and rules change). Pages column "AU" = own knowledge.
+
+@ T2.6.4 | example verify | AU
+Q: What is the Australian Government's nudge unit?
+A: The Behavioural Economics Team of the Australian Government (BETA), set up in 2016 in the Department of the Prime Minister and Cabinet, which runs trials applying behavioural insights to public policy.
+
+@ T2.6.5 | example verify | AU
+Q: Does Australia use an opt-in or opt-out (default) system for organ donation, and what does choice architecture suggest about this?
+A: Opt-in: people must register on the Australian Organ Donor Register (and families are asked for consent). Default-choice evidence suggests registration rates would be higher under an opt-out default.
+
+@ T2.6.5 | example verify | AU
+Q: How does Australia's superannuation system use default choice?
+A: Employees who do not choose a fund are placed in a default (MySuper) product, and since 2021 an existing fund is 'stapled' to a worker and follows them to new jobs; because of inertia, most people stay with the default.
+
+@ T4.2.6 | example verify | AU
+Q: Who sets Australia's national minimum wage, and how?
+A: The Fair Work Commission, through its Annual Wage Review, which sets the national minimum wage and modern award minimum rates, usually taking effect from 1 July each year.
+
+@ T4.2.5 | example evaluation verify | AU
+Q: What was Australia's Wool Reserve Price Scheme, and why did it collapse?
+A: A price floor for wool: the Australian Wool Corporation bought any wool that failed to sell above the reserve price. The floor was set too high in the late 1980s, demand fell and a stockpile of about 4.7 million bales built up, so the scheme was abandoned in 1991: a classic price-floor surplus.
+
+@ T4.2.3 | example verify | AU
+Q: Give an Australian example of a price ceiling in the electricity market.
+A: The Default Market Offer (DMO), set by the Australian Energy Regulator for parts of NSW, south-east Queensland and South Australia (Victoria has the Victorian Default Offer), caps the price retailers can charge on standing-offer electricity contracts.
+
+@ T4.2.3 | example verify | AU
+Q: What temporary price ceilings did Australian governments impose on energy in December 2022, and why?
+A: A cap of $12 per gigajoule on wholesale gas prices, and (in NSW and Queensland) a $125 per tonne cap on coal for power stations, to limit energy price rises after global prices spiked.
+
+@ T4.3.1 | definition verify | AU
+Q: What is Australia's GST, and what kind of indirect tax is it?
+A: The Goods and Services Tax: a broad-based 10% value-added tax (an ad valorem tax) on most goods and services, introduced on 1 July 2000. Most basic food, many health and education services and exports are GST-free.
+
+@ T4.3.1 | example verify | AU
+Q: Give Australian examples of excise taxes that are specific taxes.
+A: Tobacco excise (per stick or gram), alcohol excise on beer and spirits (per litre of alcohol) and fuel excise (cents per litre). These amounts are usually indexed (adjusted) twice a year.
+
+@ T4.3.2 | example verify | AU
+Q: Give Australian examples of ad valorem taxes on particular goods, including one aimed at luxuries.
+A: The Wine Equalisation Tax (29% of the wholesale value of wine) and the Luxury Car Tax (33% of a car's value above a threshold), which targets goods bought mainly by high-income earners.
+
+@ T4.3.4 | stakeholders evaluation verify | AU
+Q: Why is the GST considered regressive, and how is this reduced?
+A: Lower-income households spend a larger share of their income on consumption, so the GST takes a larger share of their income. Making basic food, health and education GST-free reduces this effect.
+
+@ T6.5.1 | example verify | AU
+Q: How is Australia's personal income tax progressive, and how does it promote equity?
+A: Marginal tax rates rise with taxable income (a tax-free threshold of $18,200 up to a top rate of 45%, plus the 2% Medicare levy), so higher earners pay a larger share of their income in tax. It is a direct, redistributive tax, unlike regressive indirect taxes.
+
+@ T5.3.5 | example verify | AU
+Q: What was Australia's Carbon Pricing Mechanism?
+A: A carbon price on Australia's largest emitters, starting at a fixed price of $23 per tonne of CO2-equivalent on 1 July 2012 and planned to become an emissions trading scheme. It was repealed from 1 July 2014.
+
+@ T5.3.6 | example verify | AU
+Q: What is Australia's Safeguard Mechanism?
+A: A baseline-and-credit scheme for facilities emitting over 100,000 tonnes of CO2-equivalent a year. Since its 2023 reform, baselines fall by 4.9% a year to 2030; facilities below their baseline earn tradable Safeguard Mechanism Credits, and those above must surrender credits.
+
+@ T5.3.7 | example evaluation verify | AU
+Q: How did Australia's Emissions Reduction Fund ('Direct Action') differ from a carbon tax?
+A: Instead of taxing emissions, the government paid for emissions reductions, buying Australian Carbon Credit Units through reverse auctions: a subsidy approach funded by taxpayers rather than a 'polluter pays' approach.
+
+@ T5.3.6 | example verify | AU
+Q: How does the Murray-Darling Basin use tradable permits to manage a common pool resource?
+A: Total water extraction is capped (Sustainable Diversion Limits under the Basin Plan), and water entitlements and annual allocations can be bought and sold, so water moves to its highest-value uses.
+
+@ T5.3.8 | example evaluation verify | AU
+Q: How has government regulation and buyback been used to address overuse of water in the Murray-Darling Basin?
+A: The Basin Plan set legal limits on extraction, and governments bought back water entitlements from irrigators to return water to the environment; buybacks are contested by irrigation communities, who bear the costs.
+
+@ T5.3.8 | example verify | AU
+Q: How are Australian Commonwealth fisheries protected from overfishing with tradable quotas?
+A: The Australian Fisheries Management Authority sets a total allowable catch for fisheries such as southern bluefin tuna and divides it into individual transferable quotas that can be traded.
+
+@ T5.4.6 | example verify | AU
+Q: What tobacco packaging regulation did Australia pioneer, and what kind of policy is it?
+A: Plain packaging (in force from 1 December 2012, a world first): cigarettes must be sold in drab standard packs with large graphic health warnings. It is regulation that also works like a nudge, reducing demand for a demerit good.
+
+@ T5.4.9 | example evaluation verify | AU
+Q: Does Australia have a tax on sugar-sweetened drinks, and what is used instead?
+A: No federal sugar tax has been introduced, despite calls from health groups such as the AMA. Instead Australia relies on information provision such as the voluntary Health Star Rating front-of-pack labelling system.
+
+@ T6.2.5 | example verify | AU
+Q: What is the Pharmaceutical Benefits Scheme (PBS)?
+A: An Australian government scheme that subsidises listed prescription medicines, so patients pay only a capped co-payment (lower for concession card holders): a subsidy that increases consumption of a merit good.
+
+@ T6.2.5 | example verify | AU
+Q: How does HECS-HELP support the consumption of higher education in Australia?
+A: Commonwealth supported places are subsidised, and students can defer their fees through an income-contingent government loan repaid through the tax system once income passes a threshold, so low current income is not a barrier.
+
+@ T6.2.4 | example verify | AU
+Q: What is Australia's 'No Jab, No Pay' policy, and what type of policy is it?
+A: Since 2016, families must keep children's immunisations up to date to receive some family payments and the Child Care Subsidy: a conditional transfer (like a CCT) that raises consumption of a good with positive consumption externalities.
+
+@ T6.3.1 | example verify | AU
+Q: Give Australian examples of public goods provided by government.
+A: National defence (the Australian Defence Force), Bureau of Meteorology forecasts and warnings, lighthouses and navigation aids, flood levees and street lighting.
+
+@ T6.4.4 | example verify | AU
+Q: How does Medicare address adverse selection in Australian health care?
+A: Medicare is universal public health insurance funded by taxes and the 2% Medicare levy, so everyone is covered regardless of health risk, providing free treatment in public hospitals and subsidised doctor visits.
+
+@ T6.4.4 | example verify | AU
+Q: What Australian rules counter adverse selection in private health insurance?
+A: Community rating (premiums cannot vary with health status), Lifetime Health Cover loading (2% extra premium for each year over 30 that hospital cover is delayed) and the Medicare Levy Surcharge on higher earners without cover encourage low-risk people to insure.
+
+@ T7.6.7 | example verify | AU
+Q: Give examples of highly concentrated (oligopolistic) markets in Australia.
+A: Supermarkets (Coles and Woolworths hold about two-thirds of grocery sales), banking (the 'big four' banks), domestic aviation (the Qantas group and Virgin Australia), telecommunications.
+
+@ T7.7.3 | definition verify | AU
+Q: What is the ACCC?
+A: The Australian Competition and Consumer Commission: the independent authority that enforces the Competition and Consumer Act 2010, investigating cartels and misuse of market power, assessing mergers and regulating some monopoly infrastructure.
+
+@ T7.7.3 | definition verify | AU
+Q: Which Australian law prohibits cartels and misuse of market power, and how are serious cartels punished?
+A: The Competition and Consumer Act 2010 (formerly the Trade Practices Act 1974). Serious cartel conduct is a criminal offence (since 2009), with large fines and possible imprisonment.
+
+@ T7.7.2 | definition verify | AU
+Q: How does Australian law define misuse of market power?
+A: A firm with a substantial degree of market power must not engage in conduct that has the purpose, effect or likely effect of substantially lessening competition (section 46, with an 'effects test' since 2017).
+
+@ T7.7.3 | example verify | AU
+Q: How did Australian merger law change from 1 January 2026?
+A: Notification of mergers above set thresholds to the ACCC became mandatory and suspensory: they cannot be completed until the ACCC clears them, replacing the earlier voluntary system.
+
+@ T7.7.4 | example verify | AU
+Q: Give an example of a large penalty for cartel conduct in Australia.
+A: Visy was ordered to pay $36 million in 2007 for price-fixing and market-sharing with Amcor in the cardboard packaging industry.
+
+@ T7.7.5 | example verify | AU
+Q: How does Australia regulate natural monopolies such as electricity networks and broadband?
+A: The Australian Energy Regulator sets the maximum revenue electricity and gas network businesses can earn, based on efficient costs; NBN Co (government-owned) runs the national wholesale broadband network, with prices regulated by the ACCC.
+
+@ T7.7.5 | example verify | AU
+Q: Give examples of privatisation in Australia.
+A: The Commonwealth Bank (1991-1996), Qantas (1993-1995) and Telstra (1997-2006), plus state electricity assets such as Victoria's in the 1990s.

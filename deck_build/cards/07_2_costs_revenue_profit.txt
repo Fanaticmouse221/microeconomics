@@ -7,10 +7,6 @@ Q: What are revenues (for a firm)?
 A: The payments firms receive when they sell the goods and services they produce.
 
 @ T7.2.1 | definition | 199
-Q: What is a firm's total revenue (TR)?
-A: The price at which a good is sold multiplied by the number of units sold.
-
-@ T7.2.1 | definition | 199
 Q: What is average revenue (AR), and why is it always equal to price?
 A: Revenue per unit of output sold (total revenue divided by output). Since total revenue is price times quantity, revenue per unit is simply the price.
 
@@ -117,10 +113,6 @@ A: The minimum revenue that makes it worthwhile to stay in business is exactly t
 @ T7.2.4 | explain | 207
 Q: Why would the owner of a firm earning only normal profit (zero economic profit) keep the business open?
 A: Normal profit includes the payment for entrepreneurship (organising, managing, risk-taking), so the owner is still being paid for all their work as an entrepreneur.
-
-@ T7.2.5 | definition | 205
-Q: What does profit maximisation involve?
-A: Determining the level of output that makes the firm's profit as large as possible.
 
 @ T7.2.5 | explain | 205
 Q: If a firm is making a loss, what output does it aim to produce before deciding whether to shut down?
