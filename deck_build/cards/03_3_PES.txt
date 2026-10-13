@@ -1,0 +1,118 @@
+# 3.3 Price elasticity of supply (book p104-110)
+# Excluded: PES formula and calculations (p104, p108 question 5).
+
+@ T3.3.1 | definition | 104
+Q: What is price elasticity of supply (PES)?
+A: A measure of the responsiveness of the quantity of a good supplied to changes in its price, measured along a given supply curve.
+
+@ T3.3.1 | distinguish | 104
+Q: In general terms, distinguish between price elastic and price inelastic supply.
+A: <b>Elastic supply:</b> quantity supplied is relatively responsive to a change in price.<br><b>Inelastic supply:</b> quantity supplied responds relatively little.
+
+@ T3.3.1 | explain | 105
+Q: Why is PES always positive, and what is its range of values?
+A: Price and quantity supplied are positively related (the law of supply), so PES is positive. It ranges from zero to infinity.
+
+@ T3.3.1 | definition | 105
+Q: When is supply price inelastic, in terms of percentage changes and the value of PES?
+A: When the percentage change in quantity supplied is smaller than the percentage change in price: PES is between zero and one, so quantity supplied is relatively unresponsive to price.
+
+@ T3.3.1 | definition | 105
+Q: When is supply price elastic, in terms of percentage changes and the value of PES?
+A: When the percentage change in quantity supplied is larger than the percentage change in price: PES is greater than one, so quantity supplied is relatively responsive to price.
+
+@ T3.3.1 | definition | 105-106
+Q: When is supply unit elastic (unitary PES)?
+A: When the percentage change in quantity supplied equals the percentage change in price, so PES equals one.
+
+@ T3.3.1 | definition example | 106
+Q: What is perfectly inelastic supply? Give examples.
+A: Quantity supplied does not change whatever happens to price (PES of zero), e.g. fish at the moment the boats return from sea, a season's entire harvest of fresh produce brought to market, Picasso paintings.
+
+@ T3.3.1 | definition | 106
+Q: What is perfectly elastic supply?
+A: Any change in price leads to an infinitely large response in quantity supplied (PES of infinity).
+
+@ T3.3.1 | explain | 106
+Q: Which PES values are most commonly found in the real world, and which are special cases?
+A: <b>Common:</b> elastic and inelastic supply.<br><b>Special cases</b> (used in theory): perfectly elastic, perfectly inelastic and unit elastic supply.
+
+@ T3.3.1 | example | 110
+Q: Give examples of goods with price inelastic supply and goods with price elastic supply.
+A: <b>Inelastic:</b> oil and petrol, some agricultural products.<br><b>Elastic:</b> any good that can be produced quickly.
+
+@ T3.3.2 | diagram | 105
+Q: For a straight-line supply curve, where does the curve (or its extension) meet the axes if supply is price inelastic?
+A: It extends upward and to the right from the horizontal (quantity) axis: its end-point cuts the horizontal axis.
+
+@ T3.3.2 | diagram | 105
+Q: For a straight-line supply curve, where does the curve (or its extension) meet the axes if supply is price elastic?
+A: It extends upward and to the right from the vertical (price) axis: its end-point cuts the vertical axis.
+
+@ T3.3.2 | diagram | 106
+Q: What is the PES of any straight-line supply curve that passes through the origin?
+A: Exactly one (unit elastic), however steep or flat it is, because between any two points the percentage change in price equals the percentage change in quantity.
+
+@ T3.3.2 | evaluation | 106
+Q: Why should you not judge the PES of straight-line supply curves through the origin by their steepness?
+A: Every such line has unitary PES, so a steeper one is not less elastic; steepness and elasticity must not be confused.
+
+@ T3.3.2 | diagram | 106
+Q: Describe the supply curves for perfectly inelastic and perfectly elastic supply.
+A: <b>Perfectly inelastic:</b> vertical at a fixed quantity.<br><b>Perfectly elastic:</b> horizontal at a given price.
+
+@ T3.3.2 | diagram | 106
+Q: When can the PESs of two supply curves be compared by their steepness?
+A: Only when the curves intersect (share a price–quantity combination): at any given price the flatter curve is the more elastic.
+
+@ T3.3.3 | chain | 107
+Q: How does the length of time firms have to adjust affect PES?
+A: Very short time → firms cannot change their inputs → supply highly (even perfectly) inelastic; more time → firms can hire more labour, then add capital → quantity supplied becomes more responsive → PES rises.
+
+@ T3.3.3 | example | 107
+Q: Use the example of a fishing boat to show how PES changes over time.
+A: When the boat returns from a trip, its catch is fixed (perfectly inelastic). Over a short period it can go out more often with more labour (inelastic). Over a long period the owner can buy more boats (elastic).
+
+@ T3.3.3 | explain example | 107
+Q: How does the mobility of factors of production affect PES?
+A: The more easily and quickly resources can be shifted into producing the good whose price is rising, the higher the PES, e.g. a farm worker can move from strawberries to corn far more easily than to car production.
+
+@ T3.3.3 | explain | 107
+Q: How does spare (unused) capacity affect PES?
+A: The more spare capacity a firm has (e.g. factories or equipment idle for some hours), the easier it is to raise output when price rises, so the more elastic its supply. At full capacity supply is less elastic.
+
+@ T3.3.3 | explain | 107
+Q: How does the ability to store stocks affect PES?
+A: Firms that can store stocks of output can respond to a price rise by releasing stocks, so their PES is higher than that of firms that cannot store output.
+
+@ T3.3.3 | chain example | 107
+Q: How does the rate at which costs rise with output affect PES?
+A: Costs of extra output rise rapidly → firms reluctant to expand → inelastic supply; costs rise slowly → easy to expand → elastic supply. E.g. rapidly rising fertiliser prices lower a farm's PES.
+
+@ T3.3.4 | explain | 108
+Q: What is the main reason primary commodities usually have a lower PES than manufactured products?
+A: The time needed for quantity supplied to respond to a price change: resources take a long time to shift into and out of primary production.
+
+@ T3.3.4 | explain | 108
+Q: Why can't farmers quickly expand output by planting more land when prices rise?
+A: They need at least a planting season to respond, and in most areas little new land can be brought into cultivation; in some regions farmland is shrinking through environmental destruction (over-farming depleting the soil).
+
+@ T3.3.4 | explain | 108
+Q: Why does raising agricultural output per unit of land (crop yields) take a long time?
+A: It requires technological change (new, more productive seeds and inputs) and more and better irrigation systems, while many countries face growing water shortages.
+
+@ T3.3.4 | explain | 108
+Q: Why is the supply of oil, natural gas and minerals slow to respond to price rises?
+A: Time is needed to make investments and begin production, and because of the costs involved firms wait for a serious shortage to emerge before increasing production.
+
+@ T3.3.4 | diagram | 108-109
+Q: Diagram: why do shifts in demand cause larger price fluctuations for primary commodities than for manufactured products?
+A: With inelastic (steep) supply, a demand shift causes a large change in price; with elastic (flatter) supply, the same demand shift causes a much smaller price change.
+
+@ T3.3.4 | stakeholders | 108
+Q: How does inelastic supply contribute to instability for primary commodity producers?
+A: It produces large price fluctuations when demand changes, which mean large fluctuations in producers' revenues and incomes.
+
+@ T3.3.4 | example | 109
+Q: How does the PES of agricultural products such as vegetables differ between the short term and the long term?
+A: Short-term PES is low (well below one, e.g. about 0.14 for carrots), while long-term PES is much higher (around or above one, e.g. 4.4 for green peas), because producers have more time to adjust.

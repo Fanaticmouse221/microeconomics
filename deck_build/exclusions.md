@@ -8,6 +8,11 @@
 - p58 (2.4) | Reading/computing the size of shortages and surpluses from demand and supply schedules (Table 2.6)
 - p79 (2.6) | Pizza restaurant profit arithmetic (profit = revenue - costs)
 - p80 (2.6) | Market share percentage arithmetic
+- p85-87 (3.1) | PED formula; calculating PED, percentage change in price and percentage change in quantity - learning objective 'use the formula for PED to calculate PED, changes in price, changes in quantity and total revenue (AO4)'
+- p86 (3.1) | Midpoint (arc) formula for PED (footnote; book says not required)
+- p93-94 (3.1) | Calculating total revenue (P x Q) at different points on demand curves and the change in TR
+- p98, p100-101 (3.2) | YED formula; calculating YED, percentage change in income and in quantity demanded - learning objective 'use the formula for YED to calculate YED, change in income and quantity demanded (AO4)'; calculating YED from an Engel curve; the 'ratio of slopes' proof of the Engel curve rule
+- p104 (3.3) | PES formula; calculating PES, percentage changes in price and quantity supplied - learning objective 'use the formula for PES to calculate PES, changes in price and changes in quantity (AO4)'
 
 ## TOK
 - p71 | Theory of knowledge 2.1: The meaning and implications of maximum social welfare
@@ -24,6 +29,11 @@
 - p83 | Inquiry and reflection questions (chapter 2) - only the definition of 'libertarian paternalism' (Q4) was carded
 - p81 | Revenue maximisation - the book flags it as 'not in the syllabus' but it is in the PDF, so it is carded (4 cards); suspend them if unwanted
 - p73 | Footnote 5: how diminishing marginal utility is used to show utility maximisation - beyond the book's scope; not carded
+- p92 | Real world focus 3.1 (lemonade and the diabetic boy) - carded as one example card
+- p102 | Real world focus 3.2 (World Bank, demand for rice and wheat) - carded as one example card
+- p109-110 | Table 3.4 summary of PED, YED and PES - its examples are carded; the table itself is not
+- p110 | Inquiry and reflection questions (chapter 3) - not carded
+- p111 | 'Real world issue 2' unit opener (conceptual understandings) - carded under 4.1 (3 cards)
 
 ## CORRECTIONS
 - p67 | The book states consumer surplus is "the area under the demand curve and below the price paid". The card uses the standard (correct) wording: under the demand curve and ABOVE the price paid, up to the quantity bought.

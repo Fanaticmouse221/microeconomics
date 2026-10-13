@@ -23,6 +23,18 @@
   "2.6": {
    "topic": "behavioural_economics",
    "title": "Critique of the maximising behaviour of consumers and producers (HL)"
+  },
+  "3.1": {
+   "topic": "PED",
+   "title": "Price elasticity of demand (PED)"
+  },
+  "3.2": {
+   "topic": "YED",
+   "title": "Income elasticity of demand (YED)"
+  },
+  "3.3": {
+   "topic": "PES",
+   "title": "Price elasticity of supply (PES)"
   }
  },
  "items": {
@@ -384,6 +396,198 @@
     81
    ],
    "own_knowledge": false
+  },
+  "T3.1.1": {
+   "desc": "Define PED and identify the various degrees and range of values for PED (sign, use of percentages)",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 16,
+   "pages": [
+    84,
+    85,
+    86,
+    87,
+    88,
+    109
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.2": {
+   "desc": "Draw diagrams showing the range of values for PED (relatively elastic and inelastic; perfectly elastic, perfectly inelastic, unitary) and PED versus steepness",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 7,
+   "pages": [
+    87,
+    88,
+    89
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.3": {
+   "desc": "(HL) Explain and illustrate changing PED along a straight-line downward-sloping demand curve",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 5,
+   "pages": [
+    90
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.4": {
+   "desc": "Analyse the determinants of PED",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 10,
+   "pages": [
+    91,
+    92
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.5": {
+   "desc": "Explain the relationship between PED and total revenue",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 7,
+   "pages": [
+    92,
+    93,
+    94
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.6": {
+   "desc": "Draw a diagram to show how total revenue changes in response to a price change with elastic, inelastic or unit elastic demand",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 4,
+   "pages": [
+    93
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.7": {
+   "desc": "Apply PED: its importance for firms (pricing) and government decision-making (indirect taxes)",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 6,
+   "pages": [
+    94,
+    95
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.8": {
+   "desc": "(HL) Analyse why primary commodities generally have a lower PED than manufactured products (and the consequences for prices and producer revenues)",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 13,
+   "pages": [
+    96,
+    97
+   ],
+   "own_knowledge": false
+  },
+  "T3.2.1": {
+   "desc": "Define YED and, depending on the sign of YED, distinguish between normal and inferior goods",
+   "section": "3.2",
+   "topic": "YED",
+   "count": 6,
+   "pages": [
+    85,
+    98,
+    99
+   ],
+   "own_knowledge": false
+  },
+  "T3.2.2": {
+   "desc": "Depending on the value of YED (less than or greater than one), distinguish between necessities, luxuries and services",
+   "section": "3.2",
+   "topic": "YED",
+   "count": 9,
+   "pages": [
+    99
+   ],
+   "own_knowledge": false
+  },
+  "T3.2.3": {
+   "desc": "Draw an Engel curve diagram to show income elastic, income inelastic and inferior goods",
+   "section": "3.2",
+   "topic": "YED",
+   "count": 5,
+   "pages": [
+    100,
+    101
+   ],
+   "own_knowledge": false
+  },
+  "T3.2.4": {
+   "desc": "(HL) Apply YED: discuss its relevance to firms",
+   "section": "3.2",
+   "topic": "YED",
+   "count": 4,
+   "pages": [
+    101,
+    102
+   ],
+   "own_knowledge": false
+  },
+  "T3.2.5": {
+   "desc": "(HL) Apply YED: discuss changes in the sectoral structure of an economy",
+   "section": "3.2",
+   "topic": "YED",
+   "count": 8,
+   "pages": [
+    102,
+    103
+   ],
+   "own_knowledge": false
+  },
+  "T3.3.1": {
+   "desc": "Define PES and identify the various degrees and range of values for PES",
+   "section": "3.3",
+   "topic": "PES",
+   "count": 10,
+   "pages": [
+    104,
+    105,
+    106,
+    110
+   ],
+   "own_knowledge": false
+  },
+  "T3.3.2": {
+   "desc": "Draw diagrams showing the range of values for PES (relatively elastic and inelastic; perfectly elastic, perfectly inelastic, unitary)",
+   "section": "3.3",
+   "topic": "PES",
+   "count": 6,
+   "pages": [
+    105,
+    106
+   ],
+   "own_knowledge": false
+  },
+  "T3.3.3": {
+   "desc": "Analyse the determinants of PES",
+   "section": "3.3",
+   "topic": "PES",
+   "count": 6,
+   "pages": [
+    107
+   ],
+   "own_knowledge": false
+  },
+  "T3.3.4": {
+   "desc": "(HL) Apply PES: why primary commodities generally have a lower PES than manufactured products (and the consequences)",
+   "section": "3.3",
+   "topic": "PES",
+   "count": 7,
+   "pages": [
+    108,
+    109
+   ],
+   "own_knowledge": false
   }
  },
  "verify_cards": [],
@@ -393,18 +597,21 @@
   "supply": 49,
   "market_equilibrium": 25,
   "price_mechanism": 44,
-  "behavioural_economics": 89
+  "behavioural_economics": 89,
+  "PED": 68,
+  "YED": 32,
+  "PES": 29
  },
  "type_counts": {
-  "definition": 83,
-  "explain": 67,
-  "distinguish": 12,
-  "example": 31,
-  "diagram": 29,
-  "chain": 30,
-  "evaluation": 27,
-  "stakeholders": 1
+  "definition": 107,
+  "explain": 105,
+  "distinguish": 16,
+  "example": 56,
+  "diagram": 56,
+  "chain": 44,
+  "evaluation": 30,
+  "stakeholders": 7
  },
  "untyped": 0,
- "total": 261
+ "total": 390
 }

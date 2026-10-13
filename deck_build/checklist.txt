@@ -47,3 +47,26 @@ T2.6.5 | Policies inspired by behavioural economics: choice architecture (defaul
 T2.6.6 | Evaluate behavioural economics and its policies (mainstream response, advantages, disadvantages)
 T2.6.7 | Business objectives: profit maximisation
 T2.6.8 | Alternative business objectives: corporate social responsibility, market share, growth, satisficing (and revenue maximisation)
+
+[3.1 | PED | Price elasticity of demand (PED)]
+T3.1.1 | Define PED and identify the various degrees and range of values for PED (sign, use of percentages)
+T3.1.2 | Draw diagrams showing the range of values for PED (relatively elastic and inelastic; perfectly elastic, perfectly inelastic, unitary) and PED versus steepness
+T3.1.3 | (HL) Explain and illustrate changing PED along a straight-line downward-sloping demand curve
+T3.1.4 | Analyse the determinants of PED
+T3.1.5 | Explain the relationship between PED and total revenue
+T3.1.6 | Draw a diagram to show how total revenue changes in response to a price change with elastic, inelastic or unit elastic demand
+T3.1.7 | Apply PED: its importance for firms (pricing) and government decision-making (indirect taxes)
+T3.1.8 | (HL) Analyse why primary commodities generally have a lower PED than manufactured products (and the consequences for prices and producer revenues)
+
+[3.2 | YED | Income elasticity of demand (YED)]
+T3.2.1 | Define YED and, depending on the sign of YED, distinguish between normal and inferior goods
+T3.2.2 | Depending on the value of YED (less than or greater than one), distinguish between necessities, luxuries and services
+T3.2.3 | Draw an Engel curve diagram to show income elastic, income inelastic and inferior goods
+T3.2.4 | (HL) Apply YED: discuss its relevance to firms
+T3.2.5 | (HL) Apply YED: discuss changes in the sectoral structure of an economy
+
+[3.3 | PES | Price elasticity of supply (PES)]
+T3.3.1 | Define PES and identify the various degrees and range of values for PES
+T3.3.2 | Draw diagrams showing the range of values for PES (relatively elastic and inelastic; perfectly elastic, perfectly inelastic, unitary)
+T3.3.3 | Analyse the determinants of PES
+T3.3.4 | (HL) Apply PES: why primary commodities generally have a lower PES than manufactured products (and the consequences)

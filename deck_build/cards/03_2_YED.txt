@@ -1,0 +1,130 @@
+# 3.2 Income elasticity of demand (book p97-103)
+# Excluded: YED formula and calculations of YED, % change in income and % change in quantity (p98, p100-101).
+
+@ T3.2.1 | definition | 98
+Q: What is income elasticity of demand (YED)?
+A: A measure of the responsiveness of demand to changes in income. It involves shifts of the demand curve.
+
+@ T3.2.1 | explain | 98
+Q: What two pieces of information does YED give about demand?
+A: The direction of the change in demand when income changes (from its sign) and the size of the change, i.e. how far the demand curve shifts (from its value).
+
+@ T3.2.1 | distinguish | 85, 98
+Q: Distinguish between what PED and YED show on a demand diagram.
+A: <b>PED:</b> responsiveness of quantity demanded along a given demand curve (movement along it).<br><b>YED:</b> responsiveness of demand to income, shown by shifts of the demand curve.
+
+@ T3.2.1 | definition | 99
+Q: What does a positive YED indicate about a good?
+A: The good is normal: demand and income change in the same direction (both rise or both fall). Most goods are normal.
+
+@ T3.2.1 | definition example | 99
+Q: What does a negative YED indicate about a good? Give examples.
+A: The good is inferior: demand and income move in opposite directions, e.g. bus rides, used clothes and used cars (as income rises consumers switch to new cars and clothes).
+
+@ T3.2.1 | diagram | 99
+Q: Diagram: consumer incomes rise. How do the demand curves for a normal good and an inferior good shift?
+A: <b>Normal good</b> (positive YED): demand shifts right.<br><b>Inferior good</b> (negative YED): demand shifts left.
+
+@ T3.2.2 | definition | 99
+Q: What does a YED that is positive but less than one indicate?
+A: Income inelastic demand: a percentage rise in income gives a smaller percentage rise in quantity demanded. The good is a necessity (a normal good).
+
+@ T3.2.2 | definition | 99
+Q: What does a YED greater than one indicate?
+A: Income elastic demand: a percentage rise in income gives a larger percentage rise in quantity demanded. Typical of luxuries and many services.
+
+@ T3.2.2 | example | 99
+Q: Give examples of necessities, which have income inelastic demand.
+A: Food, clothing and housing.
+
+@ T3.2.2 | example | 99
+Q: Give examples of goods and services with income elastic demand.
+A: Luxuries such as jewellery and expensive cars; services such as travel to other countries, private education and eating in restaurants.
+
+@ T3.2.2 | explain | 99
+Q: As incomes rise, how does spending on food change relative to income?
+A: People buy more food, but spending on food rises more slowly than income: food is income inelastic.
+
+@ T3.2.2 | example | 99
+Q: Roughly what is the YED for food in developed countries, and in poor countries?
+A: About 0.15 to 0.2 in developed countries; about 0.8 in poor countries.
+
+@ T3.2.2 | explain example | 99
+Q: Why does whether a good counts as a necessity or a luxury depend on income levels?
+A: For people with very low incomes even food and clothing can be luxuries; as incomes rise, former luxuries become necessities (e.g. Coca-Cola and coffee are luxuries for many poor people but necessities in developed countries).
+
+@ T3.2.2 | explain | 99
+Q: Why is the YED for food much higher in poor countries than in rich countries?
+A: At very low incomes food is closer to a luxury, so spending on it responds strongly to extra income; in rich countries food is a basic necessity, so spending rises much more slowly than income.
+
+@ T3.2.2 | diagram | 99
+Q: Diagram: incomes rise. Compare the shift of the demand curve for a necessity with that for a luxury.
+A: <b>Necessity</b> (YED below one): a relatively small rightward shift.<br><b>Luxury or service</b> (YED above one): a larger rightward shift.
+
+@ T3.2.3 | definition | 100
+Q: What is an Engel curve?
+A: A curve showing the relationship between a consumer's income (vertical axis) and the quantity of a good bought (horizontal axis). Named after 19th-century German statistician Ernst Engel, it shows YED more accurately than demand curve shifts.
+
+@ T3.2.3 | diagram | 100
+Q: On an Engel curve, how can you tell whether a good is normal or inferior?
+A: <b>Upward-sloping section</b> (income and quantity both rise): positive YED, normal good.<br><b>Negatively sloped section</b> (quantity falls as income rises): negative YED, inferior good.
+
+@ T3.2.3 | diagram | 100
+Q: On the upward-sloping part of an Engel curve, what is the rule for telling a luxury from a necessity?
+A: Extend the segment backwards: if it meets the vertical (income) axis, YED is greater than one (luxury or service); if it meets the horizontal (quantity) axis, YED is less than one (necessity).
+
+@ T3.2.3 | diagram | 100
+Q: What does a vertical section of an Engel curve show?
+A: The quantity bought stays the same as income rises: demand is not responding to income (YED of zero) over that income range.
+
+@ T3.2.3 | diagram | 101
+Q: What continuum does a typical Engel curve show as income rises?
+A: At very low incomes the good may be a luxury (YED above one); as income rises it becomes a necessity (YED below one); at high incomes it becomes inferior (negative YED).
+
+@ T3.2.4 | chain | 101
+Q: Why do industries producing income elastic goods expand faster than the economy as a whole?
+A: Economic growth → incomes ↑ → demand for goods with YED above one (e.g. restaurants, films, health care, foreign travel) grows faster than income → those industries grow faster than total income.
+
+@ T3.2.4 | example | 101
+Q: Give examples of products whose demand grows more slowly than income as an economy grows.
+A: Food, clothing and furniture (income inelastic demand).
+
+@ T3.2.4 | stakeholders | 101-102
+Q: Why are producers interested in knowing the YED of goods and services?
+A: The higher a product's YED, the greater the likely future expansion of its market as incomes grow, so producers seeking expanding markets can use YED to decide what to produce.
+
+@ T3.2.4 | chain stakeholders | 102
+Q: In a recession, how are firms selling goods with high YED, low YED and negative YED affected?
+A: Incomes ↓ → <b>high YED</b> (above one): hardest hit, largest falls in sales; <b>low YED</b> (below one): avoid large falls in sales; <b>inferior goods</b> (negative YED): sales may even rise.
+
+@ T3.2.5 | definition | 102
+Q: What are the three sectors of an economy?
+A: <b>Primary:</b> agriculture, forestry, fishing, extractive industries.<br><b>Manufacturing</b> (secondary).<br><b>Services</b> (tertiary): e.g. entertainment, travel, banking, insurance, health care, education.
+
+@ T3.2.5 | chain | 102
+Q: Why does agriculture's share of total output shrink as an economy grows?
+A: Food has income inelastic demand (YED positive but below one) → as society's income grows, demand for agricultural output grows more slowly than income → agriculture's share of output falls.
+
+@ T3.2.5 | explain | 102
+Q: Why do cotton and rubber have a low income elasticity of demand?
+A: They have synthetic substitutes, so as incomes rise a larger proportion is spent on synthetic materials and a smaller fraction on cotton and rubber.
+
+@ T3.2.5 | chain | 102
+Q: Why does manufacturing's share of output rise as an economy grows, and why do services later grow even faster?
+A: Manufactured goods usually have YED above one, so their demand grows faster than income; many services have even higher YEDs, so with continued growth services expand at the expense of both agriculture and manufacturing.
+
+@ T3.2.5 | explain | 103
+Q: How does the sectoral structure of less developed countries typically differ from that of more developed countries?
+A: Less developed countries are usually dominated by a large primary sector (agriculture, extractive activities); more developed countries are dominated by services.
+
+@ T3.2.5 | example | 103
+Q: Which industries are among the fastest-growing in developed countries today, and why?
+A: Services such as education, health care, travel and financial services, because they have high income elasticities of demand.
+
+@ T3.2.5 | evaluation | 103
+Q: If a sector's share of total output falls as an economy grows, does the sector's output have to fall?
+A: No. If total output is rising, a falling share most likely means the sector's output is growing, but more slowly than total output.
+
+@ T3.2.5 | example | 102
+Q: Why did the World Bank expect growth in global demand for rice and wheat to slow?
+A: As incomes rise, consumers switch from commodities like rice and wheat to foods high in protein and fat, so rice and wheat have a lower YED than those foods.
