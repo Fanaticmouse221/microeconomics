@@ -1,0 +1,49 @@
+# Checklist = the textbook's own learning objectives for each section (Tragakes, Economics for the
+# IB Diploma, 3rd ed., Chapters 2-7, book pages 41-245). The generic "define all the terms" objective
+# is folded into the objective each term belongs to. Format:
+#   [section | topic tag | section title]
+#   <dot-point ID> | <learning objective>
+
+[2.1 | competitive_markets | Introduction to competitive markets]
+T2.1.1 | Define a market; local, national and international markets; product and resource markets
+T2.1.2 | Outline the meaning of a competitive market (competition vs market power)
+
+[2.2 | demand | Demand]
+T2.2.1 | Explain the law of demand (individual demand, ceteris paribus, demand schedule)
+T2.2.2 | Draw a demand curve
+T2.2.3 | Explain the relationship between individual demand and market demand
+T2.2.4 | Analyse the non-price determinants of demand as causes of demand curve shifts
+T2.2.5 | Using diagrams, distinguish between movements along and shifts of the demand curve
+T2.2.6 | (HL) Assumptions underlying the law of demand: the law of diminishing marginal utility
+T2.2.7 | (HL) Assumptions underlying the law of demand: the income and substitution effects
+
+[2.3 | supply | Supply]
+T2.3.1 | Explain the law of supply (individual supply, supply schedule)
+T2.3.2 | Draw a supply curve (including the vertical supply curve)
+T2.3.3 | Explain the relationship between individual supply and market supply
+T2.3.4 | Analyse the non-price determinants of supply as causes of supply curve shifts
+T2.3.5 | Using diagrams, distinguish between movements along and shifts of the supply curve
+T2.3.6 | (HL) Assumptions underlying the law of supply: the law of diminishing marginal returns
+T2.3.7 | (HL) Assumptions underlying the law of supply: increasing marginal costs and the firm's supply curve
+
+[2.4 | market_equilibrium | Competitive market equilibrium: demand and supply]
+T2.4.1 | Draw a diagram to illustrate how demand and supply interact to determine market equilibrium
+T2.4.2 | Analyse demand and supply curve shifts that give rise to a new equilibrium, using excess demand (shortage) and excess supply (surplus)
+T2.4.3 | Draw diagrams to illustrate how shifts in demand and supply give rise to a new equilibrium (incl. free and economic goods)
+
+[2.5 | price_mechanism | The role of the price mechanism and market efficiency]
+T2.5.1 | Analyse the price mechanism: resource allocation through the signalling and incentive functions of prices
+T2.5.2 | Analyse the price mechanism: rationing (price and non-price rationing)
+T2.5.3 | Explain consumer surplus, producer surplus and social (community) surplus (MB and MC interpretation of demand and supply)
+T2.5.4 | Draw a diagram showing maximum social surplus at competitive market equilibrium
+T2.5.5 | Explain the conditions for allocative efficiency at competitive market equilibrium (MB = MC, maximum social surplus) and why intervention may still be needed
+
+[2.6 | behavioural_economics | Critique of the maximising behaviour of consumers and producers (HL)]
+T2.6.1 | Evaluate the assumptions of consumer rationality, utility maximisation and perfect information
+T2.6.2 | Behavioural critique: biases (rules of thumb, anchoring, framing, availability)
+T2.6.3 | Behavioural critique: bounded rationality, bounded self-control, bounded selfishness, imperfect information
+T2.6.4 | Policies inspired by behavioural economics: nudge theory
+T2.6.5 | Policies inspired by behavioural economics: choice architecture (default, restricted and mandated choice)
+T2.6.6 | Evaluate behavioural economics and its policies (mainstream response, advantages, disadvantages)
+T2.6.7 | Business objectives: profit maximisation
+T2.6.8 | Alternative business objectives: corporate social responsibility, market share, growth, satisficing (and revenue maximisation)

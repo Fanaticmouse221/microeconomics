@@ -1,0 +1,410 @@
+{
+ "sections": {
+  "2.1": {
+   "topic": "competitive_markets",
+   "title": "Introduction to competitive markets"
+  },
+  "2.2": {
+   "topic": "demand",
+   "title": "Demand"
+  },
+  "2.3": {
+   "topic": "supply",
+   "title": "Supply"
+  },
+  "2.4": {
+   "topic": "market_equilibrium",
+   "title": "Competitive market equilibrium: demand and supply"
+  },
+  "2.5": {
+   "topic": "price_mechanism",
+   "title": "The role of the price mechanism and market efficiency"
+  },
+  "2.6": {
+   "topic": "behavioural_economics",
+   "title": "Critique of the maximising behaviour of consumers and producers (HL)"
+  }
+ },
+ "items": {
+  "T2.1.1": {
+   "desc": "Define a market; local, national and international markets; product and resource markets",
+   "section": "2.1",
+   "topic": "competitive_markets",
+   "count": 4,
+   "pages": [
+    42
+   ],
+   "own_knowledge": false
+  },
+  "T2.1.2": {
+   "desc": "Outline the meaning of a competitive market (competition vs market power)",
+   "section": "2.1",
+   "topic": "competitive_markets",
+   "count": 5,
+   "pages": [
+    42
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.1": {
+   "desc": "Explain the law of demand (individual demand, ceteris paribus, demand schedule)",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 6,
+   "pages": [
+    43,
+    44
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.2": {
+   "desc": "Draw a demand curve",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 2,
+   "pages": [
+    44
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.3": {
+   "desc": "Explain the relationship between individual demand and market demand",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 3,
+   "pages": [
+    44,
+    45
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.4": {
+   "desc": "Analyse the non-price determinants of demand as causes of demand curve shifts",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 16,
+   "pages": [
+    45,
+    46
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.5": {
+   "desc": "Using diagrams, distinguish between movements along and shifts of the demand curve",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 5,
+   "pages": [
+    47
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.6": {
+   "desc": "(HL) Assumptions underlying the law of demand: the law of diminishing marginal utility",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 7,
+   "pages": [
+    47,
+    48
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.7": {
+   "desc": "(HL) Assumptions underlying the law of demand: the income and substitution effects",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 6,
+   "pages": [
+    48,
+    49
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.1": {
+   "desc": "Explain the law of supply (individual supply, supply schedule)",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 5,
+   "pages": [
+    49,
+    50
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.2": {
+   "desc": "Draw a supply curve (including the vertical supply curve)",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 5,
+   "pages": [
+    50,
+    51
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.3": {
+   "desc": "Explain the relationship between individual supply and market supply",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 2,
+   "pages": [
+    50,
+    51
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.4": {
+   "desc": "Analyse the non-price determinants of supply as causes of supply curve shifts",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 15,
+   "pages": [
+    51,
+    52,
+    53
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.5": {
+   "desc": "Using diagrams, distinguish between movements along and shifts of the supply curve",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 3,
+   "pages": [
+    52,
+    53
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.6": {
+   "desc": "(HL) Assumptions underlying the law of supply: the law of diminishing marginal returns",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 11,
+   "pages": [
+    54,
+    55,
+    56
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.7": {
+   "desc": "(HL) Assumptions underlying the law of supply: increasing marginal costs and the firm's supply curve",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 8,
+   "pages": [
+    55,
+    56,
+    57
+   ],
+   "own_knowledge": false
+  },
+  "T2.4.1": {
+   "desc": "Draw a diagram to illustrate how demand and supply interact to determine market equilibrium",
+   "section": "2.4",
+   "topic": "market_equilibrium",
+   "count": 10,
+   "pages": [
+    58,
+    59
+   ],
+   "own_knowledge": false
+  },
+  "T2.4.2": {
+   "desc": "Analyse demand and supply curve shifts that give rise to a new equilibrium, using excess demand (shortage) and excess supply (surplus)",
+   "section": "2.4",
+   "topic": "market_equilibrium",
+   "count": 5,
+   "pages": [
+    59,
+    60
+   ],
+   "own_knowledge": false
+  },
+  "T2.4.3": {
+   "desc": "Draw diagrams to illustrate how shifts in demand and supply give rise to a new equilibrium (incl. free and economic goods)",
+   "section": "2.4",
+   "topic": "market_equilibrium",
+   "count": 10,
+   "pages": [
+    59,
+    60,
+    61
+   ],
+   "own_knowledge": false
+  },
+  "T2.5.1": {
+   "desc": "Analyse the price mechanism: resource allocation through the signalling and incentive functions of prices",
+   "section": "2.5",
+   "topic": "price_mechanism",
+   "count": 9,
+   "pages": [
+    63,
+    64
+   ],
+   "own_knowledge": false
+  },
+  "T2.5.2": {
+   "desc": "Analyse the price mechanism: rationing (price and non-price rationing)",
+   "section": "2.5",
+   "topic": "price_mechanism",
+   "count": 6,
+   "pages": [
+    65
+   ],
+   "own_knowledge": false
+  },
+  "T2.5.3": {
+   "desc": "Explain consumer surplus, producer surplus and social (community) surplus (MB and MC interpretation of demand and supply)",
+   "section": "2.5",
+   "topic": "price_mechanism",
+   "count": 13,
+   "pages": [
+    65,
+    66,
+    67,
+    68,
+    69
+   ],
+   "own_knowledge": false
+  },
+  "T2.5.4": {
+   "desc": "Draw a diagram showing maximum social surplus at competitive market equilibrium",
+   "section": "2.5",
+   "topic": "price_mechanism",
+   "count": 2,
+   "pages": [
+    67,
+    68
+   ],
+   "own_knowledge": false
+  },
+  "T2.5.5": {
+   "desc": "Explain the conditions for allocative efficiency at competitive market equilibrium (MB = MC, maximum social surplus) and why intervention may still be needed",
+   "section": "2.5",
+   "topic": "price_mechanism",
+   "count": 14,
+   "pages": [
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.1": {
+   "desc": "Evaluate the assumptions of consumer rationality, utility maximisation and perfect information",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 10,
+   "pages": [
+    72,
+    73,
+    75
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.2": {
+   "desc": "Behavioural critique: biases (rules of thumb, anchoring, framing, availability)",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 8,
+   "pages": [
+    73
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.3": {
+   "desc": "Behavioural critique: bounded rationality, bounded self-control, bounded selfishness, imperfect information",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 7,
+   "pages": [
+    74
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.4": {
+   "desc": "Policies inspired by behavioural economics: nudge theory",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 11,
+   "pages": [
+    75,
+    76,
+    83
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.5": {
+   "desc": "Policies inspired by behavioural economics: choice architecture (default, restricted and mandated choice)",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 11,
+   "pages": [
+    76,
+    77,
+    78
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.6": {
+   "desc": "Evaluate behavioural economics and its policies (mainstream response, advantages, disadvantages)",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 15,
+   "pages": [
+    78,
+    79
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.7": {
+   "desc": "Business objectives: profit maximisation",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 2,
+   "pages": [
+    79
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.8": {
+   "desc": "Alternative business objectives: corporate social responsibility, market share, growth, satisficing (and revenue maximisation)",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 25,
+   "pages": [
+    79,
+    80,
+    81
+   ],
+   "own_knowledge": false
+  }
+ },
+ "verify_cards": [],
+ "topic_counts": {
+  "competitive_markets": 9,
+  "demand": 45,
+  "supply": 49,
+  "market_equilibrium": 25,
+  "price_mechanism": 44,
+  "behavioural_economics": 89
+ },
+ "type_counts": {
+  "definition": 83,
+  "explain": 67,
+  "distinguish": 12,
+  "example": 31,
+  "diagram": 29,
+  "chain": 30,
+  "evaluation": 27,
+  "stakeholders": 1
+ },
+ "untyped": 0,
+ "total": 261
+}

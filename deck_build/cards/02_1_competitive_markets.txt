@@ -1,0 +1,37 @@
+# 2.1 Introduction to competitive markets (book p42)
+
+@ T2.1.1 | definition | 42
+Q: In economics, what is a market?
+A: Any arrangement where buyers and sellers of goods, services or resources are linked together to carry out an exchange.
+
+@ T2.1.1 | explain | 42
+Q: Must buyers and sellers meet face to face for a market to exist?
+A: No. A market can be one physical place (e.g. a vegetable market) or many places (e.g. the oil market); buyers and sellers can communicate by phone, internet, ads or any method that conveys information about price, quantity and quality.
+
+@ T2.1.1 | distinguish example | 42
+Q: Distinguish between local, national and international markets, with an example of each.
+A: <b>Local:</b> buyers and sellers come from a local area (e.g. a neighbourhood bakery).<br><b>National:</b> from anywhere within one country (e.g. most labour markets).<br><b>International:</b> from anywhere in the world (e.g. the world oil market).
+
+@ T2.1.1 | distinguish | 42
+Q: Distinguish between product markets and resource (factor) markets.
+A: <b>Product markets:</b> goods and services are bought and sold.<br><b>Resource (factor) markets:</b> factors of production are bought and sold.
+
+@ T2.1.2 | explain | 42
+Q: What does 'competition' mean in its everyday (non-technical) sense?
+A: A process in which rivals compete to achieve some objective, e.g. firms competing over sales, consumers over a scarce product, workers over the best jobs, countries over export markets.
+
+@ T2.1.2 | definition | 42
+Q: What does 'competition' mean in microeconomics?
+A: A situation with many buyers and sellers acting independently, so that no one has the ability to influence the price at which the product is sold.
+
+@ T2.1.2 | definition | 42
+Q: What is market power (also called monopoly power)?
+A: The control that a seller has over the price of the product it sells.
+
+@ T2.1.2 | explain | 42
+Q: How is the degree of competition between sellers related to their market power?
+A: Inversely: the greater the competition between sellers, the smaller their market power and the weaker their control over price; the greater the market power, the greater the control over price.
+
+@ T2.1.2 | definition | 42
+Q: What is a competitive market?
+A: A market with large numbers of buyers and sellers acting independently, so no individual seller (or small group of sellers) can control price; price is determined by the interaction of demand and supply.
