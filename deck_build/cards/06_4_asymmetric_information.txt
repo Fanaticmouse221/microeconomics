@@ -1,0 +1,141 @@
+# 6.4 Asymmetric information (HL) (book p187-191)
+
+@ T6.4.1 | definition | 188
+Q: What is asymmetric information?
+A: A situation where buyers and sellers do not have equal access to information: sometimes buyers know more than sellers, sometimes sellers know more than buyers.
+
+@ T6.4.1 | explain | 188
+Q: Why is asymmetric information a form of market failure?
+A: The competitive market assumes complete information. When information is unequal, the usual result is an underallocation of resources to the good or service (sometimes an overallocation): allocative inefficiency.
+
+@ T6.4.1 | definition | 188
+Q: What is adverse selection?
+A: A situation where one party in a transaction has more information about the quality of the product being sold than the other party.
+
+@ T6.4.1 | definition | 190
+Q: What is moral hazard?
+A: A situation where one party takes risks but does not face their full costs, because the costs are borne by another party; it usually arises when a buyer of insurance changes their behaviour after getting insured, against the insurer's interests.
+
+@ T6.4.1 | distinguish | 188-190
+Q: Distinguish between adverse selection and moral hazard.
+A: <b>Adverse selection:</b> one party knows more about the quality (or risk) of what is being traded, e.g. a used car seller hiding a defect.<br><b>Moral hazard:</b> one party takes more risk because someone else bears the costs, e.g. being less careful after insuring a car.
+
+@ T6.4.1 | explain | 190
+Q: Does the term 'moral hazard' refer to immoral or unethical behaviour?
+A: No. It is a historical remnant of a very old insurance term that originally meant 'subjective'.
+
+@ T6.4.2 | example | 188
+Q: Give examples of adverse selection where sellers know more than buyers.
+A: Used car sellers hiding a car's defects; sellers of unsafe food or of ineffective or dangerous medicines; untrained people claiming to be doctors.
+
+@ T6.4.2 | chain | 188
+Q: How does adverse selection where sellers know more usually affect resource allocation?
+A: Consumers aware of possible hidden dangers become cautious → lower demand → less production and lower sales → underallocation of resources to the good or service.
+
+@ T6.4.2 | explain | 188
+Q: When can adverse selection where sellers know more lead to overallocation instead?
+A: When consumers are unaware of hidden dangers (e.g. unsafe food or toys), they buy too much, so too many resources go to producing these goods.
+
+@ T6.4.2 | explain example | 188
+Q: How can regulation correct adverse selection where sellers know more?
+A: Laws and regulations set quality standards and safety features that producers and sellers must maintain, e.g. for food, medications, private schools, toys, buildings and construction.
+
+@ T6.4.2 | evaluation | 188
+Q: What are the drawbacks of regulation as a response to asymmetric information?
+A: It is time-consuming and bureaucratic and can slow economic activity (testing new medicines is slow and costly), and regulation and quality control carry very large opportunity costs (e.g. monitoring food safety from farm to table).
+
+@ T6.4.2 | explain example | 188
+Q: How can governments use the provision of information to correct asymmetric information?
+A: By supplying information directly or forcing producers to provide it, e.g. on the quality of medical care, communicable diseases, crime rates by neighbourhood, health hazards and nutritional labels; some European countries set fee schedules for legal, medical and architectural services.
+
+@ T6.4.2 | evaluation | 188
+Q: What are the limitations of information provision as a response to asymmetric information?
+A: <b>Government as provider:</b> difficulty collecting and spreading all the information, accuracy, opportunity costs.<br><b>Private sellers as providers:</b> doubts about whether information on hazards and quality is accurate and complete.
+
+@ T6.4.2 | definition example | 189
+Q: What is supplier-induced demand? Give an example.
+A: Demand created by a better-informed supplier that would not appear if the client had equal information, e.g. doctors or lawyers selectively revealing information so clients demand more services than necessary.
+
+@ T6.4.2 | evaluation | 189
+Q: Why can some information asymmetries never be fully eliminated?
+A: Whatever regulations and information are provided, sellers with specialised technical knowledge (e.g. doctors, lawyers) still have room to hide some information from buyers.
+
+@ T6.4.2 | explain | 189
+Q: What is licensure as a response to asymmetric information?
+A: Laws requiring professionals (doctors, and in many countries teachers, lawyers, plumbers and electricians) to hold a licence, which is granted only on proof of adequate competence.
+
+@ T6.4.2 | evaluation stakeholders | 189
+Q: Why do some economists criticise licensing of professions?
+A: It may limit the supply of people in a profession, raising the price of their services and their incomes at the expense of consumers (a form of market power).
+
+@ T6.4.3 | definition example | 189
+Q: What is screening? Give examples.
+A: A method used by the party with less information (here the buyer) to find out more about the product or seller, e.g. checking online for reliable used car dealers, or asking friends about health care or legal service providers.
+
+@ T6.4.3 | evaluation | 189
+Q: What is the limitation of screening by buyers?
+A: It cannot on its own provide systematic, complete information to match what is available on the seller's side.
+
+@ T6.4.3 | definition example | 189
+Q: What is signalling? Give examples.
+A: A method used by the party with more information (here the seller) to convince buyers that the product is of good quality, e.g. warranties, brand names that suggest reliability, service records for used cars, fancy showrooms.
+
+@ T6.4.3 | evaluation | 189
+Q: What is the limitation of signalling by sellers?
+A: It is unlikely to give buyers full information, and may even be inaccurate or misleading, since sellers are eager to promote their products.
+
+@ T6.4.3 | distinguish | 189
+Q: Distinguish between screening and signalling.
+A: <b>Screening:</b> used by the party with less information, to find out more.<br><b>Signalling:</b> used by the party with more information, to convince the other party of quality.
+
+@ T6.4.4 | example | 189
+Q: Give an example of adverse selection where the buyer knows more than the seller.
+A: Health insurance: buyers know more about their own health than insurers, and those with health problems are unlikely to tell the insurance company the full truth.
+
+@ T6.4.4 | chain | 189
+Q: How does adverse selection by buyers affect the market for health insurance?
+A: Insurers fear covering very high risks → they reduce the supply of insurance → underallocation of resources to health insurance and high insurance costs for buyers.
+
+@ T6.4.4 | definition | 189
+Q: In insurance, what is a deductible?
+A: The out-of-pocket payment the insured person must make towards the cost of a claim.
+
+@ T6.4.4 | explain | 189
+Q: How do private insurers respond to adverse selection by buyers, and what kind of response is this?
+A: They offer a range of policies: cheaper ones with higher deductibles and dearer ones with lower deductibles, so buyers' choices reveal their perceived health risk. It is screening by the less-informed seller.
+
+@ T6.4.4 | evaluation stakeholders | 189-190
+Q: Why does screening through deductibles work badly in health insurance?
+A: Lower-income earners choose cheap, high-deductible policies because they are affordable, whatever their health (inequitable), and insurers often refuse to insure elderly people. So the poor and elderly, who most need cover, get little or none.
+
+@ T6.4.4 | explain | 190
+Q: How can governments respond to adverse selection in health insurance?
+A: By directly providing health care at low or zero prices to the whole population, financed by taxes (e.g. a National Health Service), or through social health insurance covering everyone or only vulnerable groups (as in the US).
+
+@ T6.4.4 | evaluation | 190
+Q: What are the benefit and the potential problem of government-funded or social health care systems?
+A: <b>Benefit:</b> with universal coverage, no one in need of health care goes without it.<br><b>Problem:</b> difficulty controlling costs, and growing burdens on the government or social insurance budget.
+
+@ T6.4.5 | example | 190
+Q: Give examples of moral hazard in insurance.
+A: Car theft insurance buyers become less careful about protecting their cars; doctors with malpractice insurance may be less careful to avoid malpractice; unemployment insurance may make people less hesitant about becoming unemployed.
+
+@ T6.4.5 | chain | 190
+Q: How does moral hazard affect the market for insurance?
+A: Buyers know their future (riskier) intentions but insurers do not → insurers protect themselves against higher costs → underallocation of resources to insurance services.
+
+@ T6.4.5 | example | 190
+Q: Why is the global financial crisis that began in 2008 seen partly as a case of moral hazard?
+A: Many financial institutions made risky loans and transactions believing the government would support them if they got into difficulty (which it did), a kind of 'insurance'.
+
+@ T6.4.5 | explain | 190
+Q: How do insurers deal with moral hazard?
+A: By making buyers pay part of the cost of damages through deductibles, so they face the consequences of risky behaviour and take fewer risks.
+
+@ T6.4.5 | evaluation stakeholders | 190
+Q: Why do deductibles reduce moral hazard differently across income groups?
+A: Higher-income earners tend to choose dearer, low-deductible policies (more protection, so more likely to take risks); lower-income earners choose cheap, high-deductible policies (so less likely to take risks).
+
+@ T6.4.5 | evaluation | 190-191
+Q: How is moral hazard dealt with in the financial sector, and has it been effective?
+A: Through government regulation of financial institutions to prevent highly risky behaviour. Regulation increased in Europe and the US after 2008, but there are concerns it has not gone far enough, especially in the US.

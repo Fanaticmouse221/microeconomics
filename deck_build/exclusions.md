@@ -19,6 +19,8 @@
 - p138-140 (4.4) | HL subsidy calculations: new supply curve, prices, consumer expenditure, producer revenue, government expenditure, consumer and producer surplus, welfare loss - learning objective 'calculate the effects of subsidies on markets and stakeholders (HL only, AO4)'
 - p151 (5.3) | HL calculation of welfare loss from a negative production externality (triangle area) - learning objective 'calculate welfare loss that arises from negative externalities of production (HL only, AO4)'
 - p165 (5.4) | HL calculation of welfare loss from a negative consumption externality - learning objective 'calculate welfare loss that arises from negative externalities of consumption (HL only, AO4)'
+- p175 (6.1) | HL calculation of welfare loss from a positive production externality - learning objective 'calculate welfare loss that arises from positive externalities of production (HL only, AO4)'
+- p179 (6.2) | HL calculation of welfare loss from a positive consumption externality - learning objective 'calculate welfare loss that arises from positive externalities of consumption (HL only, AO4)'
 
 ## TOK
 - p71 | Theory of knowledge 2.1: The meaning and implications of maximum social welfare
@@ -27,6 +29,7 @@
 - p140-142 | Theory of knowledge 4.1: Allocative efficiency: is it really value-free? (Pareto optimality, Myrdal) - note: this box is the only place Pareto optimality is defined
 - p162-164 | Theory of knowledge 5.1: Economic thinking on sustainability and Elinor Ostrom - note: contains Ostrom's policy implication that governments should support local institutions (courts, scientific knowledge) for resource users
 - p170-171 | Theory of knowledge 5.2: The ethical dimensions of sustainability and preserving the global climate (polluter pays principle, intergenerational equity)
+- p193-194 | Theory of knowledge 6.1: Inequality in relation to market failure (why maximum social surplus is possible with extreme inequality: efficiency counts only demand backed by ability to pay) - note: useful evaluation point
 
 ## BORDERLINE
 - p41 | Chapter 2 opener ("Before you start" questions) - no new content
@@ -55,6 +58,10 @@
 - p168 | 'A tax on producers or consumers?' - points to the digital coursebook (not in the PDF)
 - p169-170 | Real world focus 5.3 (sugar taxes) - carded as three example cards
 - p171-172 | Inquiry and reflection (chapter 5) - only Q6's content (air travel emissions, CORSIA) was carded
+- p175, p179 | Supplementary material: welfare loss of positive externalities in terms of consumer and producer surplus (area algebra) - not carded
+- p182 | Real world focus 6.1 (Bolsa Familia conditional cash transfers) - carded as two cards
+- p183 | Table 6.1 summary of externalities - carded as five policy-set cards
+- p194 | Inquiry and reflection questions (chapter 6) - not carded
 
 ## CORRECTIONS
 - p67 | The book states consumer surplus is "the area under the demand curve and below the price paid". The card uses the standard (correct) wording: under the demand curve and ABOVE the price paid, up to the quantity bought.

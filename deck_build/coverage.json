@@ -67,6 +67,26 @@
   "5.4": {
    "topic": "negative_consumption_externalities",
    "title": "Negative consumption externalities"
+  },
+  "6.1": {
+   "topic": "positive_production_externalities",
+   "title": "Positive production externalities"
+  },
+  "6.2": {
+   "topic": "positive_consumption_externalities",
+   "title": "Positive consumption externalities"
+  },
+  "6.3": {
+   "topic": "public_goods",
+   "title": "Market failure and public goods"
+  },
+  "6.4": {
+   "topic": "asymmetric_information",
+   "title": "Asymmetric information (HL)"
+  },
+  "6.5": {
+   "topic": "equity_distribution",
+   "title": "Equity in the distribution of income and wealth (HL)"
   }
  },
  "items": {
@@ -1126,6 +1146,242 @@
     169
    ],
    "own_knowledge": false
+  },
+  "T6.1.1": {
+   "desc": "Explain positive externalities of production (MSC below MPC) and the resulting underallocation",
+   "section": "6.1",
+   "topic": "positive_production_externalities",
+   "count": 4,
+   "pages": [
+    174
+   ],
+   "own_knowledge": false
+  },
+  "T6.1.2": {
+   "desc": "Explain and draw the welfare loss from positive production externalities",
+   "section": "6.1",
+   "topic": "positive_production_externalities",
+   "count": 2,
+   "pages": [
+    175
+   ],
+   "own_knowledge": false
+  },
+  "T6.1.3": {
+   "desc": "Government responses: direct government provision and subsidies (explain, diagram)",
+   "section": "6.1",
+   "topic": "positive_production_externalities",
+   "count": 4,
+   "pages": [
+    176
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.1": {
+   "desc": "Explain positive externalities of consumption (MSB above MPB) and the resulting underallocation",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 5,
+   "pages": [
+    177,
+    178
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.2": {
+   "desc": "Explain and draw the welfare loss from positive consumption externalities",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 2,
+   "pages": [
+    178,
+    179
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.3": {
+   "desc": "Explain the meaning of merit goods (reasons for underprovision)",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 5,
+   "pages": [
+    179
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.4": {
+   "desc": "Government responses that raise demand: legislation and regulation, education and awareness creation, nudges (explain, diagram)",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 3,
+   "pages": [
+    179,
+    180
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.5": {
+   "desc": "Government responses that raise supply: direct government provision and subsidies (explain, diagram)",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 5,
+   "pages": [
+    180,
+    181
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.6": {
+   "desc": "Evaluate policies to correct positive production and consumption externalities",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 9,
+   "pages": [
+    181,
+    182
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.7": {
+   "desc": "Summary of externalities and rules for drawing externality diagrams",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 11,
+   "pages": [
+    183,
+    184
+   ],
+   "own_knowledge": false
+  },
+  "T6.3.1": {
+   "desc": "Explain public goods as non-rivalrous and non-excludable (and classify private goods, common pool resources, public and quasi-public goods)",
+   "section": "6.3",
+   "topic": "public_goods",
+   "count": 8,
+   "pages": [
+    185,
+    186
+   ],
+   "own_knowledge": false
+  },
+  "T6.3.2": {
+   "desc": "Explain the free rider problem and why the market fails to provide public goods",
+   "section": "6.3",
+   "topic": "public_goods",
+   "count": 3,
+   "pages": [
+    185
+   ],
+   "own_knowledge": false
+  },
+  "T6.3.3": {
+   "desc": "Evaluate direct government provision of public goods (incl. cost-benefit analysis)",
+   "section": "6.3",
+   "topic": "public_goods",
+   "count": 8,
+   "pages": [
+    186
+   ],
+   "own_knowledge": false
+  },
+  "T6.3.4": {
+   "desc": "Evaluate contracting out the provision of public goods to the private sector",
+   "section": "6.3",
+   "topic": "public_goods",
+   "count": 10,
+   "pages": [
+    186,
+    187
+   ],
+   "own_knowledge": false
+  },
+  "T6.4.1": {
+   "desc": "Explain asymmetric information and distinguish between adverse selection and moral hazard",
+   "section": "6.4",
+   "topic": "asymmetric_information",
+   "count": 6,
+   "pages": [
+    188,
+    189,
+    190
+   ],
+   "own_knowledge": false
+  },
+  "T6.4.2": {
+   "desc": "Adverse selection (sellers know more): evaluate government responses (regulation, provision of information, licensure)",
+   "section": "6.4",
+   "topic": "asymmetric_information",
+   "count": 11,
+   "pages": [
+    188,
+    189
+   ],
+   "own_knowledge": false
+  },
+  "T6.4.3": {
+   "desc": "Adverse selection (sellers know more): evaluate private responses (screening and signalling)",
+   "section": "6.4",
+   "topic": "asymmetric_information",
+   "count": 5,
+   "pages": [
+    189
+   ],
+   "own_knowledge": false
+  },
+  "T6.4.4": {
+   "desc": "Adverse selection (buyers know more, e.g. health insurance): private and government responses",
+   "section": "6.4",
+   "topic": "asymmetric_information",
+   "count": 7,
+   "pages": [
+    189,
+    190
+   ],
+   "own_knowledge": false
+  },
+  "T6.4.5": {
+   "desc": "Moral hazard: examples and responses",
+   "section": "6.4",
+   "topic": "asymmetric_information",
+   "count": 6,
+   "pages": [
+    190,
+    191
+   ],
+   "own_knowledge": false
+  },
+  "T6.5.1": {
+   "desc": "Explain why the free market results in an unequal distribution of income (equity and equality; factor ownership and factor prices)",
+   "section": "6.5",
+   "topic": "equity_distribution",
+   "count": 8,
+   "pages": [
+    191,
+    192
+   ],
+   "own_knowledge": false
+  },
+  "T6.5.2": {
+   "desc": "Draw a circular flow of income diagram to show why free markets give rise to income inequalities",
+   "section": "6.5",
+   "topic": "equity_distribution",
+   "count": 2,
+   "pages": [
+    191,
+    192
+   ],
+   "own_knowledge": false
+  },
+  "T6.5.3": {
+   "desc": "Explain inequalities in wealth (income versus wealth) and how inequality relates to market failure",
+   "section": "6.5",
+   "topic": "equity_distribution",
+   "count": 4,
+   "pages": [
+    192,
+    193
+   ],
+   "own_knowledge": false
   }
  },
  "verify_cards": [],
@@ -1146,18 +1402,23 @@
   "common_pool_resources": 25,
   "externalities_intro": 18,
   "negative_production_externalities": 88,
-  "negative_consumption_externalities": 32
+  "negative_consumption_externalities": 32,
+  "positive_production_externalities": 10,
+  "positive_consumption_externalities": 40,
+  "public_goods": 29,
+  "asymmetric_information": 35,
+  "equity_distribution": 14
  },
  "type_counts": {
-  "definition": 157,
-  "explain": 175,
-  "distinguish": 29,
-  "example": 105,
-  "diagram": 100,
-  "chain": 68,
-  "evaluation": 94,
-  "stakeholders": 34
+  "definition": 175,
+  "explain": 214,
+  "distinguish": 35,
+  "example": 131,
+  "diagram": 117,
+  "chain": 75,
+  "evaluation": 124,
+  "stakeholders": 37
  },
  "untyped": 0,
- "total": 697
+ "total": 825
 }
