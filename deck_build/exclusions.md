@@ -17,12 +17,16 @@
 - p124-125 (4.2) | HL calculations for a price floor: surplus, consumer expenditure, producer revenue, government expenditure, consumer and producer surplus, welfare loss
 - p131-133 (4.3) | HL indirect tax calculations: drawing the new supply curve, prices paid and received, consumer expenditure, producer revenue, government revenue, consumer and producer surplus, welfare loss - learning objective 'calculate the effects of indirect taxes on markets and stakeholders (HL only, AO4)'
 - p138-140 (4.4) | HL subsidy calculations: new supply curve, prices, consumer expenditure, producer revenue, government expenditure, consumer and producer surplus, welfare loss - learning objective 'calculate the effects of subsidies on markets and stakeholders (HL only, AO4)'
+- p151 (5.3) | HL calculation of welfare loss from a negative production externality (triangle area) - learning objective 'calculate welfare loss that arises from negative externalities of production (HL only, AO4)'
+- p165 (5.4) | HL calculation of welfare loss from a negative consumption externality - learning objective 'calculate welfare loss that arises from negative externalities of consumption (HL only, AO4)'
 
 ## TOK
 - p71 | Theory of knowledge 2.1: The meaning and implications of maximum social welfare
 - p74-75 | Theory of knowledge 2.2: Altruism, perceptions of fairness and self-interested behaviour (homo economicus, Simon, Smith's moral sentiments)
 - p82 | Theory of knowledge 2.3: How important are the criticisms of profit maximisation as the firm's main goal? (Friedman vs Samuelson on unrealistic assumptions) - note: contains evaluation points on profit maximisation you may want
 - p140-142 | Theory of knowledge 4.1: Allocative efficiency: is it really value-free? (Pareto optimality, Myrdal) - note: this box is the only place Pareto optimality is defined
+- p162-164 | Theory of knowledge 5.1: Economic thinking on sustainability and Elinor Ostrom - note: contains Ostrom's policy implication that governments should support local institutions (courts, scientific knowledge) for resource users
+- p170-171 | Theory of knowledge 5.2: The ethical dimensions of sustainability and preserving the global climate (polluter pays principle, intergenerational equity)
 
 ## BORDERLINE
 - p41 | Chapter 2 opener ("Before you start" questions) - no new content
@@ -44,8 +48,16 @@
 - p128 | Ad valorem tax diagrams - the book studies only specific taxes, so no ad valorem diagram card
 - p137-138 | Real world focus 4.2 (US farm subsidies) - carded as two example cards
 - p142 | Inquiry and reflection questions (chapter 4) - not carded
+- p151-152 | Supplementary material: welfare loss in terms of consumer and producer surplus (area-letter algebra) - not carded
+- p156-157 | Real world focus 5.1 (carbon taxes versus tradable permits) - fully carded (evaluation points)
+- p161-162 | Real world focus 5.2 (sulfoxaflor and bees) - carded as two example cards
+- p165-166 | Supplementary material: welfare loss of a negative consumption externality in terms of consumer and producer surplus - not carded
+- p168 | 'A tax on producers or consumers?' - points to the digital coursebook (not in the PDF)
+- p169-170 | Real world focus 5.3 (sugar taxes) - carded as three example cards
+- p171-172 | Inquiry and reflection (chapter 5) - only Q6's content (air travel emissions, CORSIA) was carded
 
 ## CORRECTIONS
 - p67 | The book states consumer surplus is "the area under the demand curve and below the price paid". The card uses the standard (correct) wording: under the demand curve and ABOVE the price paid, up to the quantity bought.
 - p74 | The book gives Herbert Simon's Nobel Prize year as 1971; it was 1978. The card omits the year.
 - p121 | The book's key-point box says a price floor is 'set below the equilibrium price'; the text and diagram (correctly) set it ABOVE equilibrium. Cards use 'above'.
+- p160 | The book states the Paris Agreement goal as limiting warming to '1.5%'; the card uses 1.5°C. (The formal goal is to hold warming well below 2°C and pursue efforts to limit it to 1.5°C.)

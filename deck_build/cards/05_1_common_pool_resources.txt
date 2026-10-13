@@ -1,0 +1,102 @@
+# 5.1 The meaning of common pool resources (book p143-147)
+# Excluded: average catch arithmetic in the fishing boat example (p145-146).
+
+@ T5.1.1 | definition example | 144
+Q: What are common pool resources? Give examples.
+A: Resources that are not owned by anyone, have no price and are available for anyone to use without payment or other restriction, e.g. clean air, lakes, rivers, fish in the open seas, forests, biodiversity, the ozone layer, a stable global climate.
+
+@ T5.1.1 | definition | 144
+Q: What were common pool resources called in the previous IB syllabus?
+A: Common access resources.
+
+@ T5.1.1 | definition | 144
+Q: What does it mean for a good or resource to be rivalrous?
+A: Its consumption by one person reduces its availability for someone else (e.g. your computer, textbook or clothes). Most goods are rivalrous.
+
+@ T5.1.1 | definition | 144
+Q: What does it mean for a good or resource to be excludable?
+A: It is possible to exclude people from using it, usually by charging a price, so those unwilling or unable to pay do not get the benefit. Most goods are excludable.
+
+@ T5.1.1 | definition | 144
+Q: What two characteristics define a private good?
+A: It is rivalrous and excludable.
+
+@ T5.1.1 | explain example | 144
+Q: Why are common pool resources rivalrous?
+A: Their use reduces what is left for others: using up clean air leaves less for others, catching fish in the open sea leaves fewer fish, and destroying the stability of the global climate removes it for future generations.
+
+@ T5.1.1 | definition | 144
+Q: What does non-excludable mean, and why are common pool resources non-excludable?
+A: It is not possible to exclude someone from using the good or resource. Common pool resources have no price or other means of excluding users, so anyone can use them without payment or restriction.
+
+@ T5.1.1 | chain | 144
+Q: Why does the combination of rivalry and non-excludability threaten the environment?
+A: Non-excludability → resources can be used abundantly without restriction; rivalry → each use reduces what is available to others → overuse, degradation and depletion of the resource.
+
+@ T5.1.1 | example | 144-145
+Q: Give examples of the overuse, depletion or degradation of common pool resources.
+A: Pollution of air, oceans, rivers and lakes by fossil fuel users (contributing to global warming); overfishing; deforestation causing loss of biodiversity; overgrazing; soil erosion and salinisation; destruction of wildlife habitats.
+
+@ T5.1.2 | explain | 145
+Q: What is the 'tragedy of the commons'?
+A: A story of herders sharing a fertile common pasture: each profitably adds more cattle until the pasture is overfilled, the grass is gone, the soil is eroded and it can no longer be used. It illustrates overuse of a resource when there are no restrictions on its use.
+
+@ T5.1.2 | explain | 145
+Q: How does the tragedy of the commons illustrate rivalry and non-excludability?
+A: <b>Rivalry:</b> grass eaten by one animal is not available to another.<br><b>Non-excludability:</b> no herder can exclude the others from using the pasture.
+
+@ T5.1.2 | explain | 145
+Q: Whose ideas challenged the tragedy of the commons, and how?
+A: Elinor Ostrom's: she showed that communities can manage common pool resources sustainably through collective self-governance.
+
+@ T5.1.3 | definition | 145
+Q: In connection with the environment, what does sustainability mean?
+A: Using resources in ways that do not result in fewer or lower-quality resources for future generations.
+
+@ T5.1.3 | distinguish | 145
+Q: Distinguish between sustainable and unsustainable production.
+A: <b>Sustainable production:</b> uses resources without degrading or depleting them.<br><b>Unsustainable production:</b> uses resources in ways that deplete or degrade them.
+
+@ T5.1.3 | definition | 146
+Q: What is sustainable resource use?
+A: Using resources at a rate that allows them to reproduce themselves, so they do not become degraded or depleted.
+
+@ T5.1.3 | explain | 145-146
+Q: As more and more boats fish a common pool fishery, how does the catch change?
+A: <b>Constant average yield:</b> fish are plentiful, each boat catches the same.<br><b>Decreasing average yield:</b> stocks come under pressure, so each extra boat catches less.<br><b>Absolutely decreasing yield:</b> the fish population can no longer reproduce itself, so the total catch falls.
+
+@ T5.1.3 | definition | 146
+Q: What is the maximum sustainable yield of a common pool resource?
+A: The maximum use that can be made of the resource while it can still reproduce itself (the point of maximum yield).
+
+@ T5.1.3 | diagram | 146
+Q: On a diagram of yield against the number of users of a common pool resource, what do points to the left and right of the maximum sustainable yield show?
+A: <b>Left:</b> sustainable levels of use.<br><b>Right:</b> unsustainable use (depletion or degradation), worse the further right. Many real-world common pool resources are used to the right.
+
+@ T5.1.3 | evaluation | 146
+Q: What is the practical problem with the concept of maximum sustainable yield?
+A: It is easy to discuss in theory, but very difficult in practice to determine what it actually is for any resource.
+
+@ T5.1.3 | definition example | 146
+Q: What are non-renewable resources? Give examples.
+A: Resources with a finite supply that need tens of thousands or millions of years to reproduce themselves, e.g. metals, minerals and fossil fuels (oil, natural gas, coal).
+
+@ T5.1.3 | distinguish | 146
+Q: How do fossil fuels differ from other non-renewable resources such as metals?
+A: Metals and minerals are not destroyed by use and could last indefinitely through effective recycling. Fossil fuels are destroyed when used and also damage the atmosphere, global climate and ozone layer.
+
+@ T5.1.3 | definition example | 146
+Q: What are renewable resources? Give examples.
+A: Resources that can last indefinitely if managed properly (not overused), because natural processes reproduce them over relatively short periods, e.g. forests, wildlife, fish, biomass, water resources, geothermal power, soil fertility, biodiversity.
+
+@ T5.1.3 | explain | 146
+Q: Why does the idea of sustainable resource use apply mainly to renewable resources?
+A: With appropriate management, renewable resources can be made to last forever, while overuse depletes them. Non-renewable resources could only be used sustainably if they were not used at all.
+
+@ T5.1.3 | explain | 146
+Q: In what sense is sustainability still relevant to fossil fuels?
+A: Through the negative externalities created by their use (pollution and climate change), rather than through the resource reproducing itself.
+
+@ T5.1.3 | explain | 146-147
+Q: Why can cutting down a small amount of forest over a long period be consistent with environmental sustainability?
+A: If the rate of cutting is slow enough for the forest to regrow (reproduce itself), the resource is not depleted or degraded.

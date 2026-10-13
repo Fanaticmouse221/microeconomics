@@ -51,6 +51,22 @@
   "4.4": {
    "topic": "subsidies",
    "title": "Subsidies"
+  },
+  "5.1": {
+   "topic": "common_pool_resources",
+   "title": "The meaning of common pool resources"
+  },
+  "5.2": {
+   "topic": "externalities_intro",
+   "title": "Market failure and externalities: diverging private and social benefits and costs"
+  },
+  "5.3": {
+   "topic": "negative_production_externalities",
+   "title": "Negative production externalities"
+  },
+  "5.4": {
+   "topic": "negative_consumption_externalities",
+   "title": "Negative consumption externalities"
   }
  },
  "items": {
@@ -814,6 +830,302 @@
     138
    ],
    "own_knowledge": false
+  },
+  "T5.1.1": {
+   "desc": "Explain the meaning of common pool resources in terms of rivalry and non-excludability",
+   "section": "5.1",
+   "topic": "common_pool_resources",
+   "count": 9,
+   "pages": [
+    144,
+    145
+   ],
+   "own_knowledge": false
+  },
+  "T5.1.2": {
+   "desc": "Explain the tragedy of the commons",
+   "section": "5.1",
+   "topic": "common_pool_resources",
+   "count": 3,
+   "pages": [
+    145
+   ],
+   "own_knowledge": false
+  },
+  "T5.1.3": {
+   "desc": "Explain the meaning of sustainable and unsustainable production (maximum sustainable yield; renewable and non-renewable resources)",
+   "section": "5.1",
+   "topic": "common_pool_resources",
+   "count": 13,
+   "pages": [
+    145,
+    146,
+    147
+   ],
+   "own_knowledge": false
+  },
+  "T5.2.1": {
+   "desc": "Explain market failure as the failure of the market to achieve allocative efficiency",
+   "section": "5.2",
+   "topic": "externalities_intro",
+   "count": 3,
+   "pages": [
+    147,
+    148
+   ],
+   "own_knowledge": false
+  },
+  "T5.2.2": {
+   "desc": "Explain that socially optimum output is produced when MSC = MSB and social surplus is maximum (MPB, MSB, MPC, MSC)",
+   "section": "5.2",
+   "topic": "externalities_intro",
+   "count": 8,
+   "pages": [
+    148,
+    149
+   ],
+   "own_knowledge": false
+  },
+  "T5.2.3": {
+   "desc": "Draw a diagram illustrating allocative efficiency and socially optimum output",
+   "section": "5.2",
+   "topic": "externalities_intro",
+   "count": 2,
+   "pages": [
+    148,
+    149
+   ],
+   "own_knowledge": false
+  },
+  "T5.2.4": {
+   "desc": "Explain the meaning of externalities as an example of market failure",
+   "section": "5.2",
+   "topic": "externalities_intro",
+   "count": 5,
+   "pages": [
+    148,
+    149
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.1": {
+   "desc": "Explain negative externalities of production (MSC above MPC) and the resulting overallocation",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 7,
+   "pages": [
+    150,
+    151,
+    161,
+    162
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.2": {
+   "desc": "Explain and draw the welfare loss from negative production externalities",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 3,
+   "pages": [
+    151
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.3": {
+   "desc": "Explain that negative production externalities can illustrate the overuse of common pool resources",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 3,
+   "pages": [
+    152
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.4": {
+   "desc": "Government responses: indirect (Pigouvian) taxes (explain, diagram)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 5,
+   "pages": [
+    128,
+    152,
+    153
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.5": {
+   "desc": "Government responses: carbon taxes (explain, diagram)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 6,
+   "pages": [
+    153,
+    154
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.6": {
+   "desc": "Government responses: tradable permits / cap and trade (explain, diagram)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 7,
+   "pages": [
+    154
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.7": {
+   "desc": "Evaluate market-based policies (measurement difficulties, effectiveness, stakeholders; carbon taxes versus tradable permits)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 26,
+   "pages": [
+    154,
+    155,
+    156,
+    157
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.8": {
+   "desc": "Government responses: legislation and regulation (explain, diagram, evaluate)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 12,
+   "pages": [
+    157,
+    158,
+    161,
+    162
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.9": {
+   "desc": "Government responses: collective self-governance (Ostrom) (explain, evaluate)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 6,
+   "pages": [
+    159,
+    160
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.10": {
+   "desc": "Government responses: education and awareness creation (explain, evaluate)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 3,
+   "pages": [
+    159,
+    160
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.11": {
+   "desc": "Government responses: international agreements (explain, evaluate)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 10,
+   "pages": [
+    160,
+    161
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.1": {
+   "desc": "Explain negative externalities of consumption (MSB below MPB) and the resulting overallocation",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 6,
+   "pages": [
+    164,
+    165
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.2": {
+   "desc": "Explain and draw the welfare loss from negative consumption externalities",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 2,
+   "pages": [
+    165
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.3": {
+   "desc": "Negative consumption externalities and the overuse of common pool resources",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 3,
+   "pages": [
+    166,
+    172
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.4": {
+   "desc": "Explain the meaning of demerit goods",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 2,
+   "pages": [
+    166
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.5": {
+   "desc": "Government responses: indirect (Pigouvian) taxes (explain, diagram, evaluate)",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 5,
+   "pages": [
+    167
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.6": {
+   "desc": "Government responses: legislation and regulation (explain, diagram, evaluate)",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 4,
+   "pages": [
+    167,
+    168
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.7": {
+   "desc": "Government responses: education and awareness creation (explain, evaluate)",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 3,
+   "pages": [
+    168
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.8": {
+   "desc": "(HL) Government responses: nudges (explain, evaluate)",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 2,
+   "pages": [
+    168,
+    169
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.9": {
+   "desc": "Evaluate policies for negative consumption externalities overall (combining policies; sugar taxes)",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 5,
+   "pages": [
+    169
+   ],
+   "own_knowledge": false
   }
  },
  "verify_cards": [],
@@ -830,18 +1142,22 @@
   "govt_intervention": 21,
   "price_controls": 67,
   "indirect_taxes": 27,
-  "subsidies": 29
+  "subsidies": 29,
+  "common_pool_resources": 25,
+  "externalities_intro": 18,
+  "negative_production_externalities": 88,
+  "negative_consumption_externalities": 32
  },
  "type_counts": {
-  "definition": 128,
-  "explain": 144,
-  "distinguish": 20,
-  "example": 72,
-  "diagram": 79,
-  "chain": 58,
-  "evaluation": 49,
-  "stakeholders": 31
+  "definition": 157,
+  "explain": 175,
+  "distinguish": 29,
+  "example": 105,
+  "diagram": 100,
+  "chain": 68,
+  "evaluation": 94,
+  "stakeholders": 34
  },
  "untyped": 0,
- "total": 534
+ "total": 697
 }

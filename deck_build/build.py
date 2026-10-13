@@ -65,6 +65,9 @@ SPELLING = [
     r"\bfiber\b", r"\bmeter\b", r"\bliter\b", r"\bton\b", r"\btons\b",
 ]
 
+# Proper nouns that keep their official (non-Australian) spelling.
+PROPER_NOUNS = [r"World Health Organization", r"World Trade Organization"]
+
 MARKDOWN = [r"\*\*", r"__", r"`", r"^\s*[-*] ", r"^\s*#", r"\[[^\]]+\]\([^)]+\)"]
 
 # Heuristics for formula / worked-number content (calculations are excluded).
@@ -254,8 +257,11 @@ def main():
             for pat in MARKDOWN:
                 if re.search(pat, text, re.M):
                     fail(f"{where}: {label} looks like markdown ({pat})", errors)
+            plain = strip_html(text)
+            for pn in PROPER_NOUNS:
+                plain = re.sub(pn, "", plain)
             for pat in SPELLING:
-                if re.search(pat, strip_html(text), re.I):
+                if re.search(pat, plain, re.I):
                     fail(f"{where}: {label} non-Australian spelling/term ({pat})", errors)
             for pat in ANY_BANNED:
                 if re.search(pat, strip_html(text), re.I):

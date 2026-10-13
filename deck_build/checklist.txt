@@ -98,3 +98,38 @@ T4.4.2 | Why governments grant subsidies (and why subsidies are controversial)
 T4.4.3 | Draw diagrams and explain the impacts of a subsidy on market outcomes
 T4.4.4 | Explain the consequences of subsidies for stakeholders
 T4.4.5 | Evaluate subsidies: consumer and producer surplus, welfare loss and allocative inefficiency
+
+[5.1 | common_pool_resources | The meaning of common pool resources]
+T5.1.1 | Explain the meaning of common pool resources in terms of rivalry and non-excludability
+T5.1.2 | Explain the tragedy of the commons
+T5.1.3 | Explain the meaning of sustainable and unsustainable production (maximum sustainable yield; renewable and non-renewable resources)
+
+[5.2 | externalities_intro | Market failure and externalities: diverging private and social benefits and costs]
+T5.2.1 | Explain market failure as the failure of the market to achieve allocative efficiency
+T5.2.2 | Explain that socially optimum output is produced when MSC = MSB and social surplus is maximum (MPB, MSB, MPC, MSC)
+T5.2.3 | Draw a diagram illustrating allocative efficiency and socially optimum output
+T5.2.4 | Explain the meaning of externalities as an example of market failure
+
+[5.3 | negative_production_externalities | Negative production externalities]
+T5.3.1 | Explain negative externalities of production (MSC above MPC) and the resulting overallocation
+T5.3.2 | Explain and draw the welfare loss from negative production externalities
+T5.3.3 | Explain that negative production externalities can illustrate the overuse of common pool resources
+T5.3.4 | Government responses: indirect (Pigouvian) taxes (explain, diagram)
+T5.3.5 | Government responses: carbon taxes (explain, diagram)
+T5.3.6 | Government responses: tradable permits / cap and trade (explain, diagram)
+T5.3.7 | Evaluate market-based policies (measurement difficulties, effectiveness, stakeholders; carbon taxes versus tradable permits)
+T5.3.8 | Government responses: legislation and regulation (explain, diagram, evaluate)
+T5.3.9 | Government responses: collective self-governance (Ostrom) (explain, evaluate)
+T5.3.10 | Government responses: education and awareness creation (explain, evaluate)
+T5.3.11 | Government responses: international agreements (explain, evaluate)
+
+[5.4 | negative_consumption_externalities | Negative consumption externalities]
+T5.4.1 | Explain negative externalities of consumption (MSB below MPB) and the resulting overallocation
+T5.4.2 | Explain and draw the welfare loss from negative consumption externalities
+T5.4.3 | Negative consumption externalities and the overuse of common pool resources
+T5.4.4 | Explain the meaning of demerit goods
+T5.4.5 | Government responses: indirect (Pigouvian) taxes (explain, diagram, evaluate)
+T5.4.6 | Government responses: legislation and regulation (explain, diagram, evaluate)
+T5.4.7 | Government responses: education and awareness creation (explain, evaluate)
+T5.4.8 | (HL) Government responses: nudges (explain, evaluate)
+T5.4.9 | Evaluate policies for negative consumption externalities overall (combining policies; sugar taxes)

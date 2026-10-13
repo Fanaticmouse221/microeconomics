@@ -1,0 +1,354 @@
+# 5.3 Negative production externalities (book p150-164)
+# Excluded: HL welfare loss calculation (p151); supplementary area algebra for welfare loss (p151-152); TOK 5.1 (p162-164).
+
+@ T5.3.1 | definition | 150
+Q: What are negative production externalities?
+A: External costs created by producers: side-effects of production activities that impose costs on third parties, e.g. environmental pollution.
+
+@ T5.3.1 | example | 150
+Q: Give an example of a negative production externality and the third parties it affects.
+A: A cement factory that emits smoke into the air and dumps waste into the ocean: costs spill over onto local inhabitants, swimmers, sea life, the fishing industry and the marine ecosystem.
+
+@ T5.3.1 | diagram | 150
+Q: Describe a negative production externality diagram.
+A: D = MPB = MSB slopes down; S = MPC slopes up; MSC lies above MPC, the vertical gap being the external cost. The market produces Qm at Pm (MPB = MPC); the social optimum is Qopt at Popt (MSB = MSC), with Qopt less than Qm and Popt above Pm.
+
+@ T5.3.1 | diagram | 150
+Q: On any externality diagram, which intersections give the free market outcome and the socially optimum outcome?
+A: <b>Free market:</b> where MPB meets MPC (Qm, Pm).<br><b>Social optimum:</b> where MSB meets MSC (Qopt, Popt).
+
+@ T5.3.1 | diagram | 150
+Q: On a negative production externality diagram, why is the demand curve labelled D = MPB = MSB?
+A: The externality involves only production, so the benefit of consumption to consumers equals the benefit to society.
+
+@ T5.3.1 | chain | 151
+Q: Why does a negative production externality lead to an overallocation of resources?
+A: Firms ignore external costs → they produce where MPB equals MPC → market output Qm exceeds Qopt → too many resources go to the good; at Qm, MSC exceeds MSB.
+
+@ T5.3.2 | diagram | 151
+Q: On a negative production externality diagram, where is the welfare loss?
+A: The triangle between MSC and MSB (the demand curve) over the overproduced units from Qopt to Qm; the point of the triangle lies at Qopt.
+
+@ T5.3.2 | explain | 151
+Q: What does the welfare loss from a negative production externality represent?
+A: The loss of social benefits caused by overproduction: for every unit beyond Qopt, MSC exceeds MSB, so society would be better off producing less. It disappears if the externality is corrected.
+
+@ T5.3.2 | diagram | 151
+Q: Where does the point of the welfare loss triangle always lie on an externality diagram?
+A: At the socially optimum quantity of output, Qopt.
+
+@ T5.3.3 | explain | 152
+Q: How can a negative production externality diagram illustrate the overuse of common pool resources?
+A: The gap between MPC and MSC can be read as the external cost of the firm overusing common pool resources it does not pay for, such as clean air, water, sea life and a stable global climate.
+
+@ T5.3.3 | example | 152
+Q: How can a fishing firm in the open seas be analysed as a negative production externality?
+A: MPC is the firm's private costs; the external costs are depletion of fish stocks and disruption of the marine ecosystem (common pool resources overused but not paid for); MSC is private plus external costs.
+
+@ T5.3.3 | explain | 152
+Q: If a polluting firm were made to pay for its use of common pool resources, would it stop using them?
+A: Not necessarily; it would probably not stop polluting entirely, but it would stop overusing the resources, moving towards sustainable use.
+
+@ T5.3.4 | definition | 152
+Q: What are market-based policies to correct externalities, and how do they work?
+A: Policies such as taxes and tradable permits that rely on the market: they work by changing the incentives faced by firms.
+
+@ T5.3.4 | definition | 153
+Q: What is a Pigouvian tax?
+A: An indirect tax imposed to correct a negative externality, named after English economist Arthur Cecil Pigou, who first proposed the idea.
+
+@ T5.3.4 | diagram | 153
+Q: Diagram: how does an optimal Pigouvian tax on output correct a negative production externality?
+A: The tax equals the external cost per unit, so S = MPC shifts up until it coincides with MSC. The new equilibrium (MSC meets D) gives the lower optimal quantity Qopt at the higher optimal price Popt.
+
+@ T5.3.4 | distinguish | 128, 153
+Q: How does the effect of an indirect tax on allocative efficiency differ between an efficient market and a market with a negative externality?
+A: <b>Efficient market:</b> the tax creates allocative inefficiency and welfare loss.<br><b>Negative externality:</b> a Pigouvian tax is intended to bring about allocative efficiency.
+
+@ T5.3.4 | diagram | 153
+Q: After a Pigouvian tax, what price do consumers pay and what price do producers receive?
+A: Consumers pay Popt (the new market price, Pc); producers receive Pp, which is Pc minus the tax per unit.
+
+@ T5.3.5 | definition | 153
+Q: What is a carbon tax?
+A: A tax per unit of carbon emissions from fossil fuels: since fuels emit different amounts of carbon when burned, the more carbon a fuel emits, the higher the tax.
+
+@ T5.3.5 | explain | 153
+Q: What problem are carbon taxes designed to address?
+A: Global warming caused by greenhouse gas emissions, mainly carbon dioxide, from man-made processes, specifically the burning of fossil fuels (oil, coal, natural gas).
+
+@ T5.3.5 | chain | 153
+Q: How does a carbon tax reduce pollution by more than just cutting output?
+A: Tax raises the price of high-carbon fuels → firms have an incentive to switch to lower-carbon or non-carbon energy sources and less polluting technologies → external cost per unit of output falls.
+
+@ T5.3.5 | diagram | 153
+Q: Diagram: a carbon tax leads firms to switch to less polluting energy. What happens to MSC and the optimum output?
+A: External costs fall, so MSC shifts down towards MPC (MSC1 to MSC2) and the optimum quantity of output rises (Qopt1 to Qopt2). The tax needed is also smaller.
+
+@ T5.3.5 | example | 153-154
+Q: Name some countries that use carbon taxes.
+A: Denmark, Finland, France, Ireland, Japan, Mexico, Poland and Sweden, as well as some states and provinces in Canada and the US.
+
+@ T5.3.5 | distinguish | 154
+Q: Distinguish between the effects of a tax on a polluter's output and a tax on its emissions.
+A: <b>Tax on output:</b> cuts the quantity produced (correcting overallocation) but gives no incentive to cut pollution per unit.<br><b>Tax on emissions</b> (e.g. carbon tax): gives incentives to use less polluting resources and technologies, shrinking the externality and raising optimum output.
+
+@ T5.3.6 | definition | 154
+Q: What are tradable permits (cap and trade schemes)?
+A: Permits to pollute issued to firms by a government or international body, which can be bought and sold in a market. Also called an Emissions Trading System (ETS).
+
+@ T5.3.6 | explain | 154
+Q: How does a tradable permit scheme work for individual firms?
+A: Each firm is granted permits to emit a set level of pollutants over a period. A firm that emits less than its permits allow can sell its extra permits; a firm that needs to emit more must buy permits. The permit price is set by supply and demand.
+
+@ T5.3.6 | diagram | 154
+Q: Describe a diagram of the market for tradable pollution permits.
+A: The supply of permits is vertical (perfectly inelastic), fixed by the government or international authority; the demand for permits slopes down; their intersection gives the price of permits.
+
+@ T5.3.6 | diagram chain | 154
+Q: Diagram: as an economy grows, what happens in the market for tradable pollution permits?
+A: Firms raise output → demand for permits shifts right → with supply fixed (vertical), the price of permits rises.
+
+@ T5.3.6 | explain | 154
+Q: For a tradable permit scheme to reduce pollution, what condition must the total number of permits meet?
+A: The total pollution allowed by the permits must be less than the amount of pollution that would be created with no permits.
+
+@ T5.3.6 | chain | 154
+Q: How do tradable permits create incentives to reduce pollution?
+A: Permits have a market price → a firm that cuts emissions (e.g. by switching to less polluting resources) can sell spare permits and add to profits → emissions fall → external cost falls, so MSC shifts towards MPC and optimum output rises.
+
+@ T5.3.6 | example | 154
+Q: Give examples of tradable permit schemes at national, regional and international level.
+A: <b>National:</b> Kazakhstan (2013), Switzerland (2008), New Zealand (2008).<br><b>Regional:</b> the EU Emissions Trading System (2005).<br><b>International:</b> under the Paris Agreement (2016).
+
+@ T5.3.7 | definition | 154
+Q: What does it mean to 'internalise' an externality?
+A: To make costs that were previously external internal, so they are paid for by the producers and consumers who are parties to the transaction (e.g. through taxes or tradable permits).
+
+@ T5.3.7 | evaluation | 154-155
+Q: Why do economists usually prefer market-based policies to regulations for correcting negative production externalities?
+A: Taxes and tradable permits internalise the externality and reduce pollution more efficiently (at lower overall cost), provided the particular externality allows their use.
+
+@ T5.3.7 | evaluation chain | 154-155
+Q: Why do taxes on emissions reduce pollution at a lower overall cost to society?
+A: Firms differ in their costs of cutting pollution → low-cost firms cut emissions to avoid the tax, while high-cost firms pay the tax → pollution is cut by the firms that can do so most cheaply.
+
+@ T5.3.7 | evaluation | 155
+Q: Why do tradable permits reduce pollution at a lower overall cost?
+A: Firms that can cut emissions cheaply do so and sell their excess permits, while firms that can only cut at high cost buy extra permits, so the cuts happen where they are cheapest.
+
+@ T5.3.7 | evaluation | 155
+Q: What is the main scientific difficulty in designing carbon taxes and tradable permit schemes?
+A: Although man-made greenhouse gases are known to cause global warming, there is great uncertainty about the precise contribution of each gas to rising temperatures.
+
+@ T5.3.7 | evaluation | 155
+Q: What measurement questions must be answered to design a tax equal to the value of pollution?
+A: Which production methods produce which pollutants; which pollutants are harmful (scientists disagree); what the harm is worth in money (who is harmed, how to value it); and what size of tax equals that harm.
+
+@ T5.3.7 | definition | 157
+Q: What is a regressive tax?
+A: A tax that takes a higher fraction of income from low-income earners than from high-income earners, going against the principle of equity.
+
+@ T5.3.7 | stakeholders | 155, 157
+Q: Who bears a carbon tax imposed on firms, and why is it considered inequitable?
+A: It is an indirect tax paid partly by producers and partly by consumers. It is regressive: it raises household energy prices, so lower-income consumers pay a higher proportion of their income.
+
+@ T5.3.7 | evaluation | 155
+Q: Why are carbon taxes often ineffective in practice?
+A: They are usually set too low to make a significant impact, because it is politically difficult to impose carbon taxes high enough (the OECD says carbon prices are far below the actual cost of emissions).
+
+@ T5.3.7 | evaluation | 155
+Q: Even when a pollution tax is imposed, what risk remains?
+A: Some polluting firms may not reduce their pollution, continuing to pollute and simply paying the tax.
+
+@ T5.3.7 | evaluation | 155
+Q: What is the 'cap' in a tradable permit scheme, and why is it difficult to set?
+A: The maximum acceptable level of a pollutant. Setting it requires technical information on environmentally acceptable quantities of each pollutant, which is often not available.
+
+@ T5.3.7 | evaluation chain | 155
+Q: What happens if the cap in a tradable permit scheme is set too high, or too low?
+A: <b>Too high:</b> little or no effect on cutting pollution.<br><b>Too low:</b> permits become very costly → hardship for firms that need to buy them.
+
+@ T5.3.7 | evaluation | 155
+Q: What problem arises in distributing tradable permits to firms?
+A: A fair method of distribution must be found, and political favouritism may arise as governments give preferential treatment to their friends and supporters.
+
+@ T5.3.7 | evaluation | 155
+Q: For which pollutants have tradable permits been developed so far?
+A: Only a few, such as carbon dioxide and sulfur dioxide.
+
+@ T5.3.7 | evaluation | 155
+Q: Realistically, what can market-based policies achieve in correcting negative production externalities?
+A: A shift of MPC towards MSC and some reduction in the size of the externality, but they are unlikely to achieve the optimal result.
+
+@ T5.3.7 | distinguish | 156
+Q: Distinguish between how carbon taxes and cap and trade schemes control carbon emissions.
+A: <b>Carbon taxes</b> fix the price of the pollutant and let the quantity emitted vary with firms' responses.<br><b>Cap and trade</b> fixes the quantity of the pollutant and lets its price vary with supply and demand.
+
+@ T5.3.7 | evaluation | 156
+Q: Carbon taxes vs tradable permits: why do carbon taxes give more predictable energy prices?
+A: Under tradable permits, fossil fuel prices may fluctuate even more because permit prices fluctuate; a carbon tax keeps the carbon cost fixed, which helps businesses plan their costs.
+
+@ T5.3.7 | evaluation | 156
+Q: Carbon taxes vs tradable permits: why are carbon taxes easier to design and implement?
+A: Tradable permits involve complicated decisions, such as setting the cap at the right level and distributing the permits among all interested users.
+
+@ T5.3.7 | evaluation | 156
+Q: Carbon taxes vs tradable permits: why do carbon taxes have wider coverage?
+A: Permit schemes often target one industry or a small group of industries, whereas carbon taxes can apply to all users of fossil fuels, producers and consumers alike.
+
+@ T5.3.7 | evaluation | 156
+Q: Carbon taxes vs tradable permits: why might politicians prefer permit schemes, according to critics?
+A: The distribution of permits is easy to manipulate in favour of preferred groups and supporters, without changing the environmental impact (because of the cap).
+
+@ T5.3.7 | evaluation | 157
+Q: Carbon taxes vs tradable permits: why do carbon taxes need less monitoring?
+A: Permit schemes require monitoring of emissions, or firms may cheat by emitting more than permitted; carbon taxes only involve paying tax on the type and quantity of fuel bought.
+
+@ T5.3.7 | evaluation | 157
+Q: What political pressure weakens tradable permit schemes?
+A: Pressure to set the cap too high, which gives very limited or no reduction in carbon emissions.
+
+@ T5.3.7 | evaluation | 157
+Q: What advantage do tradable permits have over carbon taxes in reaching an emissions target?
+A: Permits fix (cap) the permissible quantity of emissions; carbon taxes cannot target a particular level of reduction, so their carbon-reducing outcome is uncertain.
+
+@ T5.3.7 | stakeholders | 156
+Q: Why is carbon pricing often unpopular with businesses and with consumers?
+A: <b>Businesses:</b> it raises production costs and seems unfair if they trade with countries without carbon pricing.<br><b>Consumers:</b> it raises prices, especially household energy prices, hitting the poor hardest.
+
+@ T5.3.7 | example | 156
+Q: What happened to Australia's carbon tax in 2014, and on what grounds?
+A: It was repealed, on the grounds that it was destroying jobs.
+
+@ T5.3.7 | example | 156
+Q: How widespread was carbon pricing by 2019, and on what conditions did surveys find public support for carbon taxes?
+A: Over 60 countries, states or cities had some form of carbon pricing. Surveys in Australia, India, South Africa, the UK and the US found 60% to 80% support, provided taxes were global and the revenue was returned to people or spent on climate projects.
+
+@ T5.3.8 | definition | 157
+Q: What approach do government legislation and regulation use to limit negative production externalities, and what forms do they take?
+A: The 'command' approach: the government uses its authority to enact laws and regulations in the public interest, such as emissions standards, quotas, licences, permits or outright restrictions.
+
+@ T5.3.8 | example | 157
+Q: Give examples of regulations that limit pollution from production.
+A: Setting a maximum permitted level of pollutants from factories; requiring steel mills and power plants to install smokestack scrubbers; banning harmful substances such as asbestos.
+
+@ T5.3.8 | example | 157-158
+Q: Give examples of regulations that limit the overuse of natural (common pool) resources.
+A: Licences for activities such as hunting; banning building, industry or farming in protected areas; limits on logging; fishing quotas, fleet-size limits or seasonal bans; protected areas for biodiversity and endangered ecosystems.
+
+@ T5.3.8 | diagram | 158
+Q: Diagram: how do regulations correct a negative production externality?
+A: Output or pollutant limits force firms to produce less, and required clean technologies raise production costs → MPC shifts up towards MSC → quantity falls towards Qopt and price rises from Pm towards Popt, correcting overallocation.
+
+@ T5.3.8 | explain | 158
+Q: How are environmental regulations enforced if firms do not comply?
+A: Polluting firms that do not comply have to pay fines.
+
+@ T5.3.8 | evaluation | 158
+Q: Why are legislation and regulation simpler to use than market-based policies?
+A: They are simple to put into effect and oversee, and avoid the technical difficulties of designing taxes or permit schemes.
+
+@ T5.3.8 | evaluation | 158
+Q: Why can regulation be more effective than market-based policies, and how common is it?
+A: Regulations force firms to comply (market-based policies may not), and bans, hunting prohibitions or logging limits may be the most effective way to deal with some problems. Regulation is the most commonly used method worldwide.
+
+@ T5.3.8 | evaluation | 158
+Q: Why do regulations reduce pollution at a higher overall cost than market-based policies?
+A: They give no incentive to use less polluting resources, improve energy efficiency or switch fuels, and cannot distinguish between firms with low and high costs of reducing pollution.
+
+@ T5.3.8 | evaluation | 158
+Q: Besides higher cost, what other limitations do environmental regulations face?
+A: Lack of technical information on the types and amounts of pollutants (so they are only partly effective), costs of monitoring and supervision (an opportunity cost), and problems of enforcement.
+
+@ T5.3.8 | evaluation | 158
+Q: How should the effectiveness of environmental legislation be judged?
+A: In relation to the particular use it is intended for: it can be more effective in some situations than in others.
+
+@ T5.3.8 | diagram | 158
+Q: On a diagram, what do market-based and regulatory corrections of a negative production externality have in common?
+A: Both shift the MPC curve upward towards MSC, so quantity falls to Qopt and price rises to Popt.
+
+@ T5.3.9 | definition | 159
+Q: What is collective self-governance of common pool resources?
+A: An approach in which the users of a resource take control of it and use it sustainably. It is not imposed by government but undertaken by communities who realise it is in their own interest.
+
+@ T5.3.9 | example | 159
+Q: Who was Elinor Ostrom, and what did she study?
+A: An American political scientist and the first woman to win the Nobel Prize in Economics (2009), for her work on how communities manage common pool resources such as fish stocks, woods, lakes, pastures and groundwater basins.
+
+@ T5.3.9 | explain | 159
+Q: What did Elinor Ostrom find about how communities manage common pool resources?
+A: Given good communication, users often devise rules on how each should use and contribute to the resource, with enforcement and sanctions for violators, so they manage it sustainably, unlike the predictions of standard theory.
+
+@ T5.3.9 | explain | 159
+Q: According to Ostrom, when do communities fail to organise to manage a common resource?
+A: When they lack a good way of communicating with each other, or when the costs of self-organisation are too high.
+
+@ T5.3.9 | evaluation | 159
+Q: What is the main advantage of collective self-governance?
+A: It shows people do not always act in the narrow self-interested way the tragedy of the commons assumes: cooperation can solve overuse without top-down government solutions, private ownership or government ownership (though a legal system of land rights matters).
+
+@ T5.3.9 | evaluation | 159-160
+Q: What two conditions must hold for collective self-governance to work, and why does it struggle with global problems?
+A: Users must be able to communicate to make rules, and the resource must have a boundary. Both are difficult for resources such as the oceans or the global climate.
+
+@ T5.3.10 | chain | 159-160
+Q: How can education and awareness creation reduce negative production externalities?
+A: Public information about firms' polluting activities → consumers turn away from their products → sales fall → firms change production methods to reduce the externality.
+
+@ T5.3.10 | evaluation | 160
+Q: What is the strength of education and awareness creation as a response to production externalities?
+A: Firms are strongly influenced by their customers' opinions and want to keep them happy, or they suffer falls in sales.
+
+@ T5.3.10 | evaluation | 160
+Q: What is the limitation of education and awareness creation as a response to production externalities?
+A: It makes only a small difference: consumers may boycott a firm for a while over localised damage (e.g. an oil spill), but broad problems such as fossil fuel use and climate change need far broader solutions like carbon taxes and tradable permits.
+
+@ T5.3.11 | explain | 160
+Q: Why are international agreements crucial for some negative production externalities?
+A: Externalities affecting the global climate or ozone layer have international repercussions: polluting activities in almost every country cause them and the consequences are global. Cooperation also helps develop and spread new environmental technologies.
+
+@ T5.3.11 | example | 160
+Q: Why is the ozone layer a common pool resource, and what depleted it?
+A: No one owns it and no one can claim damages for its destruction. Human production of nitrogen oxides and chlorofluorocarbons (CFCs) depleted it, reducing protection against the sun's ultraviolet radiation.
+
+@ T5.3.11 | example evaluation | 160
+Q: What was the Montreal Protocol, and why is it considered a success?
+A: An agreement signed in 1987 (in force 1989) to phase out ozone-depleting substances. By 2009 all UN member states had ratified it, and significant progress has been made in phasing out those substances.
+
+@ T5.3.11 | example | 160
+Q: What is the EU Emissions Trading System (EU ETS)?
+A: The EU's regional tradable permit scheme for carbon, begun in January 2005, covering power and heat generation, oil refineries, metals, pulp and paper and energy-intensive industry. One EU Allowance permits one tonne of carbon dioxide. It is the cornerstone of EU climate policy.
+
+@ T5.3.11 | evaluation | 160
+Q: What does evidence suggest about the effects of the EU ETS?
+A: It has helped reduce carbon emissions without negative effects on firms' revenues, profits and employment.
+
+@ T5.3.11 | example | 160
+Q: What was the Kyoto Protocol (2005-2012), and how did it treat developed and developing countries?
+A: An agreement committing signatories to reduce greenhouse gas emissions, with provisions for tradable permits. Only developed countries had emissions restrictions; developing countries invested in projects meant to lower their emissions.
+
+@ T5.3.11 | evaluation | 160
+Q: Why was the Kyoto Protocol less successful than hoped?
+A: The US (the highest emitter) did not sign, claiming unfair competition; China (the second highest) did not participate as it was not classed as developed; and the agreed cuts were too small to slow global warming enough.
+
+@ T5.3.11 | example | 160-161
+Q: What are the aims of the Paris Agreement (in force 2016)?
+A: To strengthen international cooperation on climate change, with the goal of limiting the global temperature increase to 1.5°C, and to increase countries' ability to adapt to the negative effects of climate change.
+
+@ T5.3.11 | explain | 161
+Q: Under the Paris Agreement, what are countries committed to?
+A: Binding commitments to pursue domestic measures of their choice to cut greenhouse emissions, with targets more ambitious than before; to track and report progress to each other; and to support climate action in developing countries.
+
+@ T5.3.11 | evaluation | 160-161
+Q: What weakness of international environmental agreements do the Kyoto Protocol and Paris Agreement show?
+A: Participation is voluntary, so major emitters can stay out: the US did not sign Kyoto, and in 2017 it announced its withdrawal from the Paris Agreement (effective November 2020).
+
+@ T5.3.1 | example | 161-162
+Q: What externality is involved in the heavy use of the pesticide sulfoxaflor, and which common pool resource is depleted?
+A: A negative production externality: farmers' pesticide use kills bees and other insects (harming third parties such as beekeepers), depleting biodiversity, a common pool resource. Intensive farming and pesticides are driving a dangerous global insect decline.
+
+@ T5.3.8 | example evaluation | 161-162
+Q: How did US regulation of the pesticide sulfoxaflor show the limits of regulation?
+A: The EPA approved it, a court cancelled the approval and sales stopped, then it was re-approved with exclusions; the EPA then granted over 100 'emergency exemptions' (2017-18), so it was used on over 16 million acres.
