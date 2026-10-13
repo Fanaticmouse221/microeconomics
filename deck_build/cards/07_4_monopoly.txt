@@ -1,0 +1,170 @@
+# 7.4 Monopoly (HL) (book p215-224)
+# Excluded: revenue and profit calculations from tables (p217-220); the numerical MR footnote (p218).
+
+@ T7.4.1 | definition | 215
+Q: What does 'monopoly' mean literally, and how does monopoly compare with perfect competition?
+A: It comes from the Greek for 'single seller'. It lies at the opposite extreme to perfect competition: the monopolist faces no competition from other firms and has substantial market power.
+
+@ T7.4.1 | diagram chain | 215
+Q: How do economies of scale act as a barrier to entry?
+A: A large firm on a lower SRAC curve has much lower average costs than a small entrant → it can charge a lower price → a small new firm cannot cover its costs; entering on a large scale would need huge, risky start-up costs → entry is deterred.
+
+@ T7.4.1 | definition | 216
+Q: What is branding, and how can it act as a barrier to entry?
+A: Creating a unique image and name for a product, mainly through advertising, to build consumer loyalty. Loyal consumers are unwilling to switch to similar substitutes, making it hard for new firms to enter (e.g. Nike, Adidas, Coca-Cola).
+
+@ T7.4.1 | explain | 216
+Q: Does branding always create a monopoly?
+A: No. It is also used by firms in monopolistic competition and oligopoly, but it does limit the number of new competitors that enter a market.
+
+@ T7.4.1 | definition example | 216
+Q: What is a patent, and how does it create a barrier to entry?
+A: A right given by the government to the firm that developed a new product or invention to be its sole producer for a specified period, giving it a monopoly for that time (e.g. new pharmaceuticals, Intel's microprocessor chips).
+
+@ T7.4.1 | explain example | 216
+Q: How do government licences limit competition?
+A: Licences are required to operate in certain industries or professions (e.g. radio and TV stations, medicine, dentistry, architecture, law). They rarely create a monopoly but they restrict entry.
+
+@ T7.4.1 | definition | 216
+Q: What is a copyright?
+A: A guarantee that an author (or the author's appointed person) has the sole rights to print, publish and sell copyrighted works.
+
+@ T7.4.1 | explain | 216
+Q: How do tariffs, quotas and other trade restrictions act as legal barriers to entry?
+A: They limit the quantity of a good that can be imported into a country, reducing competition from foreign firms.
+
+@ T7.4.1 | example | 216
+Q: Give examples of monopoly power arising from control of an essential resource.
+A: DeBeers (control of the diamond industry peaked at 90% in the 1980s); Alcoa (US aluminium monopoly until World War II through control of almost all US bauxite); sports leagues signing the best players on long contracts and securing exclusive use of stadiums.
+
+@ T7.4.1 | definition example | 216
+Q: What is a local monopoly? Give an example.
+A: A single producer or supplier within a particular geographical area, e.g. a grocery store in a residential area far from any other stores. Local monopolies are more common than national or international ones.
+
+@ T7.4.1 | explain | 216
+Q: What aggressive tactics can a monopolist use to keep out a potential new entrant?
+A: Cutting its price, advertising aggressively, threatening a takeover of the potential entrant, or any other behaviour that dissuades entry.
+
+@ T7.4.2 | diagram | 216-217
+Q: What demand curve does a monopolist face, compared with a perfectly competitive firm?
+A: The monopolist is the whole industry, so it faces the downward-sloping market demand curve (D = AR): it is a price-maker. The perfectly competitive firm faces a horizontal demand curve: it is a price-taker.
+
+@ T7.4.2 | explain | 217
+Q: When does a firm have market power, and which firms have it?
+A: Whenever it faces a downward-sloping demand curve: firms in every market structure except perfect competition are price-makers to varying degrees, and the monopolist has the most market power.
+
+@ T7.4.2 | explain | 217
+Q: What limits a monopolist's control over price?
+A: The market demand curve: when the monopolist chooses an output, the price is set by the demand curve at that output; it cannot sell that output at a higher price off the demand curve.
+
+@ T7.4.2 | explain | 218
+Q: Why does a monopolist's marginal revenue curve lie below its demand (AR) curve?
+A: To sell one more unit it must lower its price on all units sold, not just the last one, so MR equals the price of the last unit minus the revenue lost on all the other units at the lower price.
+
+@ T7.4.2 | diagram | 217
+Q: How is a monopolist's MR related to its total revenue curve?
+A: MR shows the slope of the TR curve: MR is positive while TR rises, zero when TR is at its maximum, and negative when TR falls.
+
+@ T7.4.2 | definition | 223
+Q: How can market power be defined in terms of price and marginal cost?
+A: The ability of a firm to charge a price greater than marginal cost (P above MC), which is only possible when the firm faces a downward-sloping demand curve.
+
+@ T7.4.2 | chain | 223
+Q: Why does market power lead to market failure?
+A: Downward-sloping demand curve → the firm can charge a price above MC → P does not equal MC → allocative inefficiency. A price-taker with a horizontal demand curve charges P = MC.
+
+@ T7.4.3 | diagram | 219
+Q: Diagram: how do you find a monopolist's price, profit per unit and total profit?
+A: Find output Qe where MR = MC; go up to the demand (AR) curve to read the price; profit per unit is the vertical gap between AR and AC at Qe; total abnormal profit is that gap times Qe (shaded rectangle).
+
+@ T7.4.3 | diagram | 219
+Q: Can a monopolist earn only normal profit or make a loss? Describe the diagrams.
+A: Yes. <b>Loss:</b> at the MR = MC output, AC lies above the demand curve; the loss per unit is AC minus price. <b>Normal profit:</b> the demand curve just touches AC at that output, so price equals AC.
+
+@ T7.4.3 | explain | 219
+Q: Why is the distinction between short run and long run less important in monopoly than in perfect competition?
+A: High barriers to entry stop new firms entering a profitable industry, so the monopolist can keep making abnormal profits indefinitely in the long run.
+
+@ T7.4.3 | explain | 221
+Q: Why does a monopolist not have a supply curve?
+A: There is no single relationship between price and quantity supplied: the MC = MR rule can give different prices for the same quantity, depending on demand conditions, so its MC curve is not a supply curve.
+
+@ T7.4.4 | definition | 219
+Q: What is a natural monopoly?
+A: A firm with economies of scale so large that it alone can supply the entire market at a lower average cost than two or more firms could.
+
+@ T7.4.4 | diagram | 219-220
+Q: Describe a natural monopoly diagram.
+A: The market demand curve cuts the LRAC curve while LRAC is still falling (economies of scale are not exhausted). If the market were split between two firms, each would produce on a higher part of LRAC, raising average costs and the price needed for normal profit.
+
+@ T7.4.4 | explain | 220
+Q: Why is a natural monopoly a strong barrier to entry?
+A: Potential entrants could not reach the existing firm's low average costs, so they would have to charge a higher price and could not compete.
+
+@ T7.4.4 | example | 220
+Q: Give examples of natural monopolies, and explain why their average costs fall over such a wide range of output.
+A: Water, gas and electricity distribution, cable television, fire protection, postal services. Their very large capital costs (laying pipes and cables, putting satellites into orbit) are spread over more and more output.
+
+@ T7.4.4 | explain example | 220
+Q: How can a natural monopoly stop being 'natural'?
+A: Technological change can let new firms enter and produce at relatively low cost, as in telecommunications, where former natural monopoly telephone companies now face new competitors.
+
+@ T7.4.4 | evaluation | 220
+Q: Why do governments often avoid breaking up natural monopolies?
+A: Splitting the firm would put each smaller firm higher up its falling LRAC curve, raising average costs and therefore the prices consumers must pay.
+
+@ T7.4.5 | diagram | 221
+Q: Diagram: compare price and output in a perfectly competitive industry and in the same industry organised as a monopoly.
+A: Same demand curve and MC (the competitive supply curve). Perfect competition: P = MC at Ppc, Qpc. Monopoly: MR lies below D, so output Qm (where MR = MC) is less than Qpc and the price Pm (read from D) is higher than Ppc.
+
+@ T7.4.5 | diagram | 221
+Q: Diagram: what happens to consumer and producer surplus when a competitive industry becomes a monopoly?
+A: Consumer surplus shrinks: part becomes producer surplus (higher price) and part is lost (lower output). Producer surplus gains that transferred area but loses a triangle from the lower output. The two lost triangles are the welfare loss.
+
+@ T7.4.5 | explain | 222
+Q: What does MB being greater than MC at the monopolist's output indicate?
+A: An underallocation of resources: consumers value extra units more than they cost to produce, but the monopolist does not produce them, so consumers get less of the good than they would like.
+
+@ T7.4.5 | diagram | 222
+Q: Diagram: compare the long-run equilibrium of a perfectly competitive firm and a monopolist in terms of price and marginal cost.
+A: <b>Perfectly competitive firm:</b> produces where P = MC (allocative efficiency).<br><b>Monopolist:</b> at its profit-maximising output, price is above MC (allocative inefficiency).
+
+@ T7.4.5 | explain | 222-223
+Q: Why is monopoly a type of market failure?
+A: It underallocates resources to the good (output below the competitive level, P above MC, MB above MC), causing welfare loss.
+
+@ T7.4.6 | evaluation stakeholders | 223
+Q: Criticism of monopoly: how does the monopolist gain at consumers' expense?
+A: By charging a price above MC, it converts part of consumer surplus into producer surplus.
+
+@ T7.4.6 | evaluation stakeholders | 223
+Q: Criticism of monopoly: how does monopoly affect the distribution of income?
+A: Higher prices redistribute income away from consumers, who pay more, towards the owners of the monopoly, as higher profits.
+
+@ T7.4.6 | definition | 224
+Q: What is X-inefficiency?
+A: Higher average costs in a firm shielded from competition (e.g. from a poorly motivated workforce, lack of innovation, poor management, risk avoidance), because high barriers to entry let it keep abnormal profits without keeping costs low.
+
+@ T7.4.6 | evaluation | 224
+Q: Criticism of monopoly: why may monopolies be less innovative than firms in other market structures?
+A: High barriers to entry shield them from competition, whereas firms in monopolistic competition or oligopoly are under constant pressure to innovate to keep their share of sales.
+
+@ T7.4.6 | evaluation | 224
+Q: Potential benefit of monopoly: how can economies of scale benefit consumers and society?
+A: Being large, monopolies can achieve economies of scale; lower average costs may allow lower prices (perhaps close to competitive levels) and higher output, and mean less waste of resources. Perfectly competitive firms are too small for this.
+
+@ T7.4.6 | evaluation | 224
+Q: Potential benefit of monopoly: why are monopolies well placed to finance research and development?
+A: Their abnormal profits provide the funds needed to finance large R&amp;D projects.
+
+@ T7.4.6 | evaluation | 224
+Q: Potential benefit of monopoly: how can protection from competition encourage innovation?
+A: High barriers to entry let firms enjoy the profits from their inventions, new products and technologies, which gives an incentive to innovate; this is the rationale for patent protection.
+
+@ T7.4.6 | evaluation | 224
+Q: Potential benefit of monopoly: how can innovation help a monopolist keep its abnormal profits?
+A: Developing new products that potential rivals cannot produce creates a barrier to entry, deterring rivals from entering the industry.
+
+@ T7.4.6 | evaluation | 223
+Q: Why are private, unregulated monopolies illegal in most countries?
+A: Because of their extensive market power, they are held to be undesirable from society's point of view.

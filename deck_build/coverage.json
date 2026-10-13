@@ -87,6 +87,34 @@
   "6.5": {
    "topic": "equity_distribution",
    "title": "Equity in the distribution of income and wealth (HL)"
+  },
+  "7.1": {
+   "topic": "market_structures",
+   "title": "Introduction to firms, industries and market structures (HL)"
+  },
+  "7.2": {
+   "topic": "costs_revenue_profit",
+   "title": "Profit maximisation by the rational producer (HL)"
+  },
+  "7.3": {
+   "topic": "perfect_competition",
+   "title": "Perfect competition (HL)"
+  },
+  "7.4": {
+   "topic": "monopoly",
+   "title": "Monopoly (HL)"
+  },
+  "7.5": {
+   "topic": "monopolistic_competition",
+   "title": "Monopolistic competition (HL)"
+  },
+  "7.6": {
+   "topic": "oligopoly",
+   "title": "Oligopoly (HL)"
+  },
+  "7.7": {
+   "topic": "abuse_of_market_power",
+   "title": "Government intervention in response to abuse of market power (HL)"
   }
  },
  "items": {
@@ -1382,6 +1410,447 @@
     193
    ],
    "own_knowledge": false
+  },
+  "T7.1.1": {
+   "desc": "Explain the meaning of market power and its link to market failure (firms, industries, market structures)",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 10,
+   "pages": [
+    196,
+    197
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.2": {
+   "desc": "Explain the main characteristics of perfect competition (many firms, free entry, homogeneous products)",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 3,
+   "pages": [
+    197
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.3": {
+   "desc": "Explain the main characteristics of monopoly (single or dominant firm, high barriers to entry, no close substitutes)",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 4,
+   "pages": [
+    197
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.4": {
+   "desc": "Explain the characteristics of imperfect competition: monopolistic competition (many firms, free entry, product differentiation)",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 4,
+   "pages": [
+    197
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.5": {
+   "desc": "Explain the characteristics of imperfect competition: oligopoly (few large firms, high barriers to entry, interdependence)",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 4,
+   "pages": [
+    197
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.6": {
+   "desc": "Compare the four market structures (market power versus competition) and explain why perfect competition is studied",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 5,
+   "pages": [
+    198
+   ],
+   "own_knowledge": false
+  },
+  "T7.2.1": {
+   "desc": "Explain revenue concepts: total, average and marginal revenue (price takers versus price makers)",
+   "section": "7.2",
+   "topic": "costs_revenue_profit",
+   "count": 7,
+   "pages": [
+    199,
+    200
+   ],
+   "own_knowledge": false
+  },
+  "T7.2.2": {
+   "desc": "Explain cost concepts: economic (explicit and implicit) costs; total, average and marginal cost in the short run",
+   "section": "7.2",
+   "topic": "costs_revenue_profit",
+   "count": 7,
+   "pages": [
+    201,
+    202,
+    203
+   ],
+   "own_knowledge": false
+  },
+  "T7.2.3": {
+   "desc": "Explain long-run costs: the long-run average cost curve, economies and diseconomies of scale",
+   "section": "7.2",
+   "topic": "costs_revenue_profit",
+   "count": 9,
+   "pages": [
+    203,
+    204
+   ],
+   "own_knowledge": false
+  },
+  "T7.2.4": {
+   "desc": "Explain profit concepts: economic profit, abnormal profit, normal profit, loss",
+   "section": "7.2",
+   "topic": "costs_revenue_profit",
+   "count": 6,
+   "pages": [
+    204,
+    205,
+    207
+   ],
+   "own_knowledge": false
+  },
+  "T7.2.5": {
+   "desc": "Explain profit maximisation (MR = MC; total revenue minus total cost)",
+   "section": "7.2",
+   "topic": "costs_revenue_profit",
+   "count": 7,
+   "pages": [
+    205,
+    206
+   ],
+   "own_knowledge": false
+  },
+  "T7.3.1": {
+   "desc": "Explain firms in perfect competition as price takers with no market power (P = D = AR = MR)",
+   "section": "7.3",
+   "topic": "perfect_competition",
+   "count": 5,
+   "pages": [
+    208,
+    209
+   ],
+   "own_knowledge": false
+  },
+  "T7.3.2": {
+   "desc": "Explain and draw short-run profit maximisation (abnormal profit, normal profit, loss)",
+   "section": "7.3",
+   "topic": "perfect_competition",
+   "count": 5,
+   "pages": [
+    210,
+    211
+   ],
+   "own_knowledge": false
+  },
+  "T7.3.3": {
+   "desc": "Explain and draw long-run profit maximisation and equilibrium (normal profit through entry and exit)",
+   "section": "7.3",
+   "topic": "perfect_competition",
+   "count": 6,
+   "pages": [
+    211,
+    212
+   ],
+   "own_knowledge": false
+  },
+  "T7.3.4": {
+   "desc": "Explain allocative efficiency in perfect competition (P = MC, MB = MC, maximum social surplus)",
+   "section": "7.3",
+   "topic": "perfect_competition",
+   "count": 5,
+   "pages": [
+    213,
+    214
+   ],
+   "own_knowledge": false
+  },
+  "T7.3.5": {
+   "desc": "Discuss the advantages and disadvantages of perfect competition",
+   "section": "7.3",
+   "topic": "perfect_competition",
+   "count": 8,
+   "pages": [
+    214,
+    215
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.1": {
+   "desc": "Explain barriers to entry (economies of scale, natural monopoly, branding, legal barriers, control of essential resources, aggressive tactics)",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 11,
+   "pages": [
+    215,
+    216
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.2": {
+   "desc": "Explain the monopolist's demand and revenue curves and market power (AR above MC; P greater than MC)",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 7,
+   "pages": [
+    216,
+    217,
+    218,
+    223
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.3": {
+   "desc": "Explain and draw profit maximisation by the monopolist (abnormal profit, normal profit, loss)",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 4,
+   "pages": [
+    219,
+    221
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.4": {
+   "desc": "Explain and draw natural monopoly",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 6,
+   "pages": [
+    219,
+    220
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.5": {
+   "desc": "Explain the monopolist's allocative inefficiency and welfare loss compared with perfect competition (higher price, lower output)",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 5,
+   "pages": [
+    221,
+    222,
+    223
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.6": {
+   "desc": "Discuss the advantages and disadvantages of monopoly",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 9,
+   "pages": [
+    223,
+    224
+   ],
+   "own_knowledge": false
+  },
+  "T7.5.1": {
+   "desc": "Explain the assumptions of monopolistic competition and the methods of product differentiation",
+   "section": "7.5",
+   "topic": "monopolistic_competition",
+   "count": 5,
+   "pages": [
+    225
+   ],
+   "own_knowledge": false
+  },
+  "T7.5.2": {
+   "desc": "Explain that monopolistic competition has less market power than monopoly (more elastic demand curve); price and non-price competition",
+   "section": "7.5",
+   "topic": "monopolistic_competition",
+   "count": 6,
+   "pages": [
+    225,
+    226
+   ],
+   "own_knowledge": false
+  },
+  "T7.5.3": {
+   "desc": "Explain and draw profit maximisation in the short run and long run (abnormal profit, normal profit, loss)",
+   "section": "7.5",
+   "topic": "monopolistic_competition",
+   "count": 5,
+   "pages": [
+    227,
+    228
+   ],
+   "own_knowledge": false
+  },
+  "T7.5.4": {
+   "desc": "Explain allocative inefficiency and market failure; more product variety in exchange for less efficiency",
+   "section": "7.5",
+   "topic": "monopolistic_competition",
+   "count": 3,
+   "pages": [
+    228
+   ],
+   "own_knowledge": false
+  },
+  "T7.5.5": {
+   "desc": "Discuss the advantages and disadvantages of monopolistic competition (compared with perfect competition and monopoly)",
+   "section": "7.5",
+   "topic": "monopolistic_competition",
+   "count": 9,
+   "pages": [
+    228,
+    229
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.1": {
+   "desc": "Explain the characteristics of oligopoly (few large firms, high barriers to entry, interdependence)",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 4,
+   "pages": [
+    230
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.2": {
+   "desc": "Explain features of oligopoly: interdependence, strategic behaviour, incentive to collude versus incentive to cheat, risk of price war",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 6,
+   "pages": [
+    230,
+    231,
+    232
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.3": {
+   "desc": "Explain the simple game theory payoff matrix (prisoner's dilemma, Nash equilibrium)",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 7,
+   "pages": [
+    231,
+    232
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.4": {
+   "desc": "Explain the relevance of price and non-price competition in oligopoly",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 5,
+   "pages": [
+    232,
+    233
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.5": {
+   "desc": "Explain collusive oligopoly and draw a diagram (cartels, difficulties of maintaining them, informal collusion and price leadership)",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 14,
+   "pages": [
+    233,
+    234,
+    236
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.6": {
+   "desc": "Distinguish non-collusive oligopoly (strategic behaviour and price rigidity)",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 5,
+   "pages": [
+    235
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.7": {
+   "desc": "Explain market concentration and concentration ratios (and their weaknesses)",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 9,
+   "pages": [
+    235,
+    236
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.8": {
+   "desc": "Explain allocative inefficiency and market failure in oligopoly; discuss its advantages and disadvantages",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 7,
+   "pages": [
+    237
+   ],
+   "own_knowledge": false
+  },
+  "T7.7.1": {
+   "desc": "Discuss advantages of large firms with significant market power (economies of scale, R&D, innovation) and risks to output, price and consumer choice",
+   "section": "7.7",
+   "topic": "abuse_of_market_power",
+   "count": 5,
+   "pages": [
+    239,
+    240,
+    243
+   ],
+   "own_knowledge": false
+  },
+  "T7.7.2": {
+   "desc": "Explain the meaning of abuse of market power (anti-competitive practices) and where it arises",
+   "section": "7.7",
+   "topic": "abuse_of_market_power",
+   "count": 4,
+   "pages": [
+    239,
+    240
+   ],
+   "own_knowledge": false
+  },
+  "T7.7.3": {
+   "desc": "Evaluate legislation and regulation to protect competition (competition policy, mergers)",
+   "section": "7.7",
+   "topic": "abuse_of_market_power",
+   "count": 10,
+   "pages": [
+    240,
+    241,
+    242,
+    243
+   ],
+   "own_knowledge": false
+  },
+  "T7.7.4": {
+   "desc": "Evaluate fines as a response to abuse of market power",
+   "section": "7.7",
+   "topic": "abuse_of_market_power",
+   "count": 5,
+   "pages": [
+    241,
+    244
+   ],
+   "own_knowledge": false
+  },
+  "T7.7.5": {
+   "desc": "Evaluate government ownership and regulation of natural monopolies (marginal cost and average cost pricing)",
+   "section": "7.7",
+   "topic": "abuse_of_market_power",
+   "count": 10,
+   "pages": [
+    243,
+    244,
+    245
+   ],
+   "own_knowledge": false
   }
  },
  "verify_cards": [],
@@ -1407,18 +1876,25 @@
   "positive_consumption_externalities": 40,
   "public_goods": 29,
   "asymmetric_information": 35,
-  "equity_distribution": 14
+  "equity_distribution": 14,
+  "market_structures": 30,
+  "costs_revenue_profit": 36,
+  "perfect_competition": 29,
+  "monopoly": 42,
+  "monopolistic_competition": 28,
+  "oligopoly": 57,
+  "abuse_of_market_power": 34
  },
  "type_counts": {
-  "definition": 175,
-  "explain": 214,
-  "distinguish": 35,
-  "example": 131,
-  "diagram": 117,
-  "chain": 75,
-  "evaluation": 124,
-  "stakeholders": 37
+  "definition": 230,
+  "explain": 297,
+  "distinguish": 48,
+  "example": 165,
+  "diagram": 141,
+  "chain": 90,
+  "evaluation": 177,
+  "stakeholders": 42
  },
  "untyped": 0,
- "total": 825
+ "total": 1081
 }

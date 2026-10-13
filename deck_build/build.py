@@ -62,11 +62,11 @@ SPELLING = [
     r"business cycle", r"criticiz", r"monopoliz", r"privatiz", r"optimiz", r"stabiliz",
     r"prioritiz", r"internaliz", r"specializ", r"emphasiz", r"categoriz", r"characteriz",
     r"rationaliz", r"standardiz", r"\bcatalog\b", r"\bjudgment", r"\btraveling", r"\bmodeling",
-    r"\bfiber\b", r"\bmeter\b", r"\bliter\b", r"\bton\b", r"\btons\b",
+    r"\bfiber\b", r"\bmeter\b", r"\bliter\b", r"\bton\b", r"\btons\b", r"aluminum", r"\bsulphur",
 ]
 
 # Proper nouns that keep their official (non-Australian) spelling.
-PROPER_NOUNS = [r"World Health Organization", r"World Trade Organization"]
+PROPER_NOUNS = [r"World Health Organization", r"World Trade Organization", r"Organization of the Petroleum Exporting Countries"]
 
 MARKDOWN = [r"\*\*", r"__", r"`", r"^\s*[-*] ", r"^\s*#", r"\[[^\]]+\]\([^)]+\)"]
 

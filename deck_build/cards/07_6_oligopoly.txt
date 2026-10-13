@@ -1,0 +1,230 @@
+# 7.6 Oligopoly (HL) (book p230-238)
+# Excluded: TOK 7.1 (p238); concentration ratio arithmetic.
+
+@ T7.6.1 | definition | 230
+Q: What does 'oligopoly' mean literally, and what kind of industry does it describe?
+A: From the Greek for 'few sellers': an industry dominated by a small number of large firms, which may vary in size.
+
+@ T7.6.1 | explain example | 230
+Q: What barriers to entry protect oligopolies? Give examples.
+A: All the barriers found in monopoly: economies of scale (aircraft, cars), legal barriers such as patents (pharmaceuticals), control of natural resources (oil, copper, silver), aggressive tactics; plus the high start-up costs of developing a new or differentiated product.
+
+@ T7.6.1 | explain | 230
+Q: Why are high start-up costs a particular barrier to entry in oligopoly?
+A: Established oligopolies spend enormous sums on product differentiation and advertising, which new firms find very difficult to match.
+
+@ T7.6.1 | distinguish | 230
+Q: How does decision-making by oligopolistic firms differ from that of firms in perfect and monopolistic competition?
+A: Firms in perfect and monopolistic competition are so numerous that they act independently, ignoring rivals' possible actions. Oligopolists are few and mutually interdependent: one firm's decisions shift the demand curves facing the others, so they watch their rivals closely.
+
+@ T7.6.2 | definition | 230-231
+Q: What is strategic behaviour in oligopoly?
+A: Planning actions that take rivals' possible courses of action into account, like playing chess or cards: firms try hard to guess rivals' actions and reactions before forming their own strategy.
+
+@ T7.6.2 | definition | 231
+Q: What is collusion?
+A: An agreement between firms to limit competition between them, usually by fixing price (and so lowering the quantity produced).
+
+@ T7.6.2 | explain | 231
+Q: What is the incentive to collude in oligopoly?
+A: Collusion reduces the uncertainty of not knowing how rivals will behave, and maximises profits for the industry as a whole.
+
+@ T7.6.2 | explain | 231
+Q: What is the incentive to compete, or to cheat, in oligopoly?
+A: Each firm hopes to capture part of its rivals' market shares and profits; within a collusive agreement, each can raise its profit at its partners' expense by secretly cutting its price.
+
+@ T7.6.2 | definition | 232
+Q: What is a price war?
+A: When one firm's price cut is matched by retaliatory price cuts from rivals, leaving all firms collectively worse off with lower prices and profits, possibly even with prices below average cost (losses).
+
+@ T7.6.2 | explain | 232
+Q: Why do oligopolistic firms go to great lengths to avoid price competition?
+A: Rivals are likely to match any price cut, triggering a price war that leaves all firms with lower prices and profits; so they prefer non-price competition.
+
+@ T7.6.3 | definition | 231
+Q: What is game theory, and whose work is it based on?
+A: A mathematical technique for analysing the behaviour of interdependent decision-makers who act strategically. It is based heavily on the work of John F. Nash, who shared the 1994 Nobel Prize in Economics with John Harsanyi and Reinhard Selten.
+
+@ T7.6.3 | definition | 231
+Q: What is a payoff matrix?
+A: A table showing each possible combination of the players' strategies (e.g. high or low price for each of two firms) and the payoff (profit) each player receives in each combination.
+
+@ T7.6.3 | definition | 232
+Q: What is the prisoner's dilemma?
+A: A situation where two rational decision-makers, each acting strategically to maximise their own payoff by trying to outguess the other, end up collectively worse off: a conflict between individual self-interest and the collective interest.
+
+@ T7.6.3 | definition | 231-232
+Q: What is the Nash equilibrium in the oligopoly pricing game?
+A: The final position of the game: both firms choose the low-price strategy and earn low profits, even though both would be better off cooperating at a high price.
+
+@ T7.6.3 | explain | 232
+Q: Two oligopolists have agreed to charge a high price. According to the payoff matrix, why is each tempted to cheat?
+A: If one secretly cuts its price while the other keeps the high price, the cheat captures a large share of the rival's sales and earns much higher profit, while the rival's profit falls to very little.
+
+@ T7.6.3 | chain | 232
+Q: Using the prisoner's dilemma, explain why two oligopolists who agree on a high price tend to end up both charging low prices.
+A: Each fears the other will cheat (leaving it with the lowest profit) and wants the cheat's high profit → each cuts its price to beat the other → both end up with low prices and low profits: the Nash equilibrium.
+
+@ T7.6.3 | explain | 232
+Q: Which real-world features of oligopoly does the prisoner's dilemma game illustrate?
+A: Interdependence, strategic behaviour, conflicting incentives (collude versus cheat), the way price competition (price wars) leaves all firms worse off, and hence firms' strong interest in non-price competition.
+
+@ T7.6.4 | distinguish | 232
+Q: How does the role of price competition differ between monopolistic competition and oligopoly?
+A: Monopolistically competitive firms compete on both price and non-price factors. Oligopolists go to great lengths to avoid price competition but engage in intense non-price competition.
+
+@ T7.6.4 | example | 232
+Q: What forms does non-price competition take in oligopoly?
+A: Product development, advertising, branding, and services such as quality customer service, warranties, provision of credit and discounts on upgrades.
+
+@ T7.6.4 | explain | 232
+Q: Why can oligopolists engage in more non-price competition than monopolistically competitive firms?
+A: Their large profits give them considerable financial resources to devote to R&amp;D, advertising and branding.
+
+@ T7.6.4 | chain | 232
+Q: How does developing new products benefit an oligopolistic firm?
+A: New products give a competitive edge → greater market power and less elastic demand for the firm's product → opportunities for substantially higher sales and profits.
+
+@ T7.6.4 | explain | 233
+Q: Why is product differentiation a safer way for an oligopolist to raise profits than cutting its price?
+A: It does not invite immediate retaliation: rivals need time and resources to develop competing products, whereas a price cut can be matched at once.
+
+@ T7.6.5 | definition | 233
+Q: What is collusive oligopoly, and what is the most common form of collusion?
+A: Firms agree among themselves to limit competition, increase market power and raise profits. The most common form is price fixing (holding prices constant, raising them by a fixed amount, or fixing price differences between products).
+
+@ T7.6.5 | explain | 233-234
+Q: Why is collusion illegal in most countries?
+A: It limits competition: like an unregulated monopoly, it raises prices, reduces output and is held to be against consumers' and society's interests.
+
+@ T7.6.5 | definition | 233
+Q: What is a cartel?
+A: A formal agreement between firms in an industry to limit competition in order to increase profits, e.g. by fixing each firm's output (raising the price), fixing the price, dividing up the market, or setting up barriers to entry.
+
+@ T7.6.5 | diagram | 234
+Q: Diagram: how does a price-fixing cartel maximise profit?
+A: Exactly like a monopoly: using industry demand and MR and the sum of the members' MC curves, the cartel produces where MR = MC and sets the price from the demand curve. Total output is then divided among the members.
+
+@ T7.6.5 | explain | 234
+Q: How can cartel members divide up the profit-maximising output?
+A: By agreeing market shares based on their historical shares, or by competing for shares through non-price competition (product differentiation and advertising).
+
+@ T7.6.5 | example | 234
+Q: What is the best-known cartel, and how does it raise prices?
+A: OPEC (Organization of the Petroleum Exporting Countries): each member country is assigned an output quota, and restricting total oil output raises the world price.
+
+@ T7.6.5 | stakeholders | 234
+Q: What do firms gain from forming a cartel?
+A: Increased market power (control over price), higher profits from higher prices, and no more competition or uncertainty about what rivals will do.
+
+@ T7.6.5 | evaluation | 234
+Q: Why is it difficult for authorities to act against cartels?
+A: It is hard to discover and prove that a cartel exists, so there may be far more collusion than is ever detected.
+
+@ T7.6.5 | evaluation | 234
+Q: Why does the incentive to cheat threaten cartels?
+A: Each member can gain by secretly lowering its price for some buyers; if many members cheat, or cheating is discovered, the cartel may collapse.
+
+@ T7.6.5 | evaluation | 234
+Q: How do cost differences between firms and the number of firms make cartels hard to maintain?
+A: With a common price, high-cost members make lower profits than low-cost members, making agreement difficult; and the more firms there are, the harder it is to agree on price and on each firm's output.
+
+@ T7.6.5 | evaluation chain | 234
+Q: How can cheating within a cartel lead to a price war?
+A: One member's price cut → retaliatory price cuts by the others → prices and profits fall for all members, leaving the industry collectively worse off.
+
+@ T7.6.5 | definition | 234
+Q: What is informal collusion?
+A: Implicit, understood cooperation between firms without a formal agreement, aiming to coordinate prices, avoid price-cutting, limit competition, reduce uncertainty and raise profits.
+
+@ T7.6.5 | definition example | 234
+Q: What is price leadership? Give examples.
+A: Informal collusion in which a dominant firm (the largest or lowest-cost) sets the price and initiates any changes; the others follow as price-takers but compete on non-price factors. Price changes are infrequent. Examples: airlines, supermarkets, fast food restaurants.
+
+@ T7.6.6 | definition | 235
+Q: What is non-collusive oligopoly?
+A: Oligopolistic firms that do not collude in any way to fix or coordinate prices: each behaves independently, but still strategically, taking rivals' possible reactions into account.
+
+@ T7.6.6 | explain | 235
+Q: What price behaviour is commonly observed in real-world oligopolies?
+A: Prices tend to be rigid (stable over long periods), and when they do change, they tend to change together for all firms in the industry.
+
+@ T7.6.6 | chain | 235
+Q: Why might a non-colluding oligopolist decide not to raise its price?
+A: It expects rivals not to follow → rivals keep their lower prices and take some of its customers → its sales and profits fall.
+
+@ T7.6.6 | chain | 235
+Q: Why might a non-colluding oligopolist decide not to cut its price?
+A: It expects rivals to match the cut → it gains few customers, ends up with a lower price and possibly lower profits, and risks setting off a price war.
+
+@ T7.6.6 | explain | 235
+Q: What does the strategic reasoning of non-colluding oligopolists explain?
+A: Why prices are stable even without collusion, why firms do not compete on price, and why each firm must consider rivals' reactions to avoid lower revenues, lower profits and price instability.
+
+@ T7.6.7 | definition | 235
+Q: What is a concentration ratio?
+A: A measure of market concentration: the percentage of an industry's total output produced by its largest firms (e.g. the 4-firm concentration ratio).
+
+@ T7.6.7 | explain | 235
+Q: What does it mean if the 4-firm concentration ratio of an industry is 45%?
+A: The four largest firms in the industry produce 45% of the industry's total output.
+
+@ T7.6.7 | explain | 235
+Q: Why is it useful to know an industry's concentration ratio?
+A: It shows how concentrated output is among the largest firms, giving clues as to whether oligopolies have too much market power.
+
+@ T7.6.7 | explain | 236
+Q: What do high and low concentration ratios indicate?
+A: <b>High:</b> a low degree of competition.<br><b>Low:</b> a greater degree of competition.
+
+@ T7.6.7 | explain | 236
+Q: At what concentration ratio is an industry generally considered oligopolistic?
+A: When the four largest firms control 40% of output (an arbitrary cut-off point).
+
+@ T7.6.7 | example | 235
+Q: In US manufacturing, which industries had the highest and lowest concentration ratios among those compared?
+A: Transportation equipment was the most concentrated (4-firm ratio about 64%) and furniture the least (about 19%).
+
+@ T7.6.7 | evaluation | 236
+Q: Why may a national concentration ratio misjudge competition because of international trade?
+A: It ignores competition from imports, and it gives no indication of firms' importance in the global market, where they may be dominant even if there is domestic competition.
+
+@ T7.6.7 | evaluation example | 236
+Q: Why do concentration ratios ignore competition from other industries?
+A: They do not account for substitutes produced by other industries, e.g. aluminium competes with copper, so the aluminium industry's concentration would be lower if measured together with copper.
+
+@ T7.6.7 | evaluation | 236
+Q: Why can two industries with the same concentration ratio have very different degrees of market power?
+A: Concentration ratios do not show the relative sizes of the largest firms: a 3-firm ratio of 90% could be three firms with 30% each, or one with 60% and two with 15%.
+
+@ T7.6.8 | explain | 237
+Q: Why do both collusive and non-collusive oligopolies cause market failure?
+A: Collusive oligopolies behave like a monopoly; non-collusive firms also face downward-sloping demand curves and produce below the output that maximises social surplus. Both cause welfare loss and allocative inefficiency.
+
+@ T7.6.8 | evaluation | 237
+Q: Criticisms of oligopoly: what market outcomes does it share with monopoly?
+A: Welfare loss and market failure; higher prices and lower output than under competitive conditions; loss of consumer surplus to the oligopolists, since price exceeds MC.
+
+@ T7.6.8 | evaluation | 237
+Q: Criticisms of oligopoly: besides price and output, what other problems does it share with monopoly?
+A: Negative impacts on income distribution, possibly higher production costs because of the lack of price competition, and possibly less innovation.
+
+@ T7.6.8 | evaluation | 237
+Q: What criticism applies to oligopoly beyond those it shares with monopoly?
+A: Many countries have anti-monopoly laws, but collusion is difficult to detect and prove, so oligopolists may collude, behave like monopolies and get away with it.
+
+@ T7.6.8 | evaluation | 237
+Q: What benefits does oligopoly share with monopoly?
+A: Economies of scale from large size (lower costs and prices); abnormal profits that can fund product development and innovation; and cost-reducing innovations that may be passed on as lower prices.
+
+@ T7.6.8 | evaluation | 237
+Q: Why is innovation a more important benefit in oligopoly than in monopoly?
+A: Non-price competition forces oligopolists to innovate in order to increase their market share and profits.
+
+@ T7.6.8 | evaluation | 237
+Q: What advantage does oligopoly offer consumers compared with monopoly in terms of choice?
+A: Product development increases product variety, giving consumers greater choice, whereas a monopoly offers little differentiation and variety.
+
+@ T7.6.5 | example | 236
+Q: In 2019, what did 44 US states allege against 20 pharmaceutical companies?
+A: Illegal collusion: conspiracies to fix prices and divide market shares for over 100 generic medicines (including diabetes and cancer treatments), stopping prices from falling or raising them, in some cases by more than 1000%.

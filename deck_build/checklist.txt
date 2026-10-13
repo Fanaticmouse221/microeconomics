@@ -165,3 +165,57 @@ T6.4.5 | Moral hazard: examples and responses
 T6.5.1 | Explain why the free market results in an unequal distribution of income (equity and equality; factor ownership and factor prices)
 T6.5.2 | Draw a circular flow of income diagram to show why free markets give rise to income inequalities
 T6.5.3 | Explain inequalities in wealth (income versus wealth) and how inequality relates to market failure
+
+[7.1 | market_structures | Introduction to firms, industries and market structures (HL)]
+T7.1.1 | Explain the meaning of market power and its link to market failure (firms, industries, market structures)
+T7.1.2 | Explain the main characteristics of perfect competition (many firms, free entry, homogeneous products)
+T7.1.3 | Explain the main characteristics of monopoly (single or dominant firm, high barriers to entry, no close substitutes)
+T7.1.4 | Explain the characteristics of imperfect competition: monopolistic competition (many firms, free entry, product differentiation)
+T7.1.5 | Explain the characteristics of imperfect competition: oligopoly (few large firms, high barriers to entry, interdependence)
+T7.1.6 | Compare the four market structures (market power versus competition) and explain why perfect competition is studied
+
+[7.2 | costs_revenue_profit | Profit maximisation by the rational producer (HL)]
+T7.2.1 | Explain revenue concepts: total, average and marginal revenue (price takers versus price makers)
+T7.2.2 | Explain cost concepts: economic (explicit and implicit) costs; total, average and marginal cost in the short run
+T7.2.3 | Explain long-run costs: the long-run average cost curve, economies and diseconomies of scale
+T7.2.4 | Explain profit concepts: economic profit, abnormal profit, normal profit, loss
+T7.2.5 | Explain profit maximisation (MR = MC; total revenue minus total cost)
+
+[7.3 | perfect_competition | Perfect competition (HL)]
+T7.3.1 | Explain firms in perfect competition as price takers with no market power (P = D = AR = MR)
+T7.3.2 | Explain and draw short-run profit maximisation (abnormal profit, normal profit, loss)
+T7.3.3 | Explain and draw long-run profit maximisation and equilibrium (normal profit through entry and exit)
+T7.3.4 | Explain allocative efficiency in perfect competition (P = MC, MB = MC, maximum social surplus)
+T7.3.5 | Discuss the advantages and disadvantages of perfect competition
+
+[7.4 | monopoly | Monopoly (HL)]
+T7.4.1 | Explain barriers to entry (economies of scale, natural monopoly, branding, legal barriers, control of essential resources, aggressive tactics)
+T7.4.2 | Explain the monopolist's demand and revenue curves and market power (AR above MC; P greater than MC)
+T7.4.3 | Explain and draw profit maximisation by the monopolist (abnormal profit, normal profit, loss)
+T7.4.4 | Explain and draw natural monopoly
+T7.4.5 | Explain the monopolist's allocative inefficiency and welfare loss compared with perfect competition (higher price, lower output)
+T7.4.6 | Discuss the advantages and disadvantages of monopoly
+
+[7.5 | monopolistic_competition | Monopolistic competition (HL)]
+T7.5.1 | Explain the assumptions of monopolistic competition and the methods of product differentiation
+T7.5.2 | Explain that monopolistic competition has less market power than monopoly (more elastic demand curve); price and non-price competition
+T7.5.3 | Explain and draw profit maximisation in the short run and long run (abnormal profit, normal profit, loss)
+T7.5.4 | Explain allocative inefficiency and market failure; more product variety in exchange for less efficiency
+T7.5.5 | Discuss the advantages and disadvantages of monopolistic competition (compared with perfect competition and monopoly)
+
+[7.6 | oligopoly | Oligopoly (HL)]
+T7.6.1 | Explain the characteristics of oligopoly (few large firms, high barriers to entry, interdependence)
+T7.6.2 | Explain features of oligopoly: interdependence, strategic behaviour, incentive to collude versus incentive to cheat, risk of price war
+T7.6.3 | Explain the simple game theory payoff matrix (prisoner's dilemma, Nash equilibrium)
+T7.6.4 | Explain the relevance of price and non-price competition in oligopoly
+T7.6.5 | Explain collusive oligopoly and draw a diagram (cartels, difficulties of maintaining them, informal collusion and price leadership)
+T7.6.6 | Distinguish non-collusive oligopoly (strategic behaviour and price rigidity)
+T7.6.7 | Explain market concentration and concentration ratios (and their weaknesses)
+T7.6.8 | Explain allocative inefficiency and market failure in oligopoly; discuss its advantages and disadvantages
+
+[7.7 | abuse_of_market_power | Government intervention in response to abuse of market power (HL)]
+T7.7.1 | Discuss advantages of large firms with significant market power (economies of scale, R&D, innovation) and risks to output, price and consumer choice
+T7.7.2 | Explain the meaning of abuse of market power (anti-competitive practices) and where it arises
+T7.7.3 | Evaluate legislation and regulation to protect competition (competition policy, mergers)
+T7.7.4 | Evaluate fines as a response to abuse of market power
+T7.7.5 | Evaluate government ownership and regulation of natural monopolies (marginal cost and average cost pricing)

@@ -1,0 +1,118 @@
+# 7.3 Perfect competition (HL) (book p207-215)
+# Excluded: profit/loss per unit and total profit calculations (p210-213, TYU 7.7).
+
+@ T7.3.1 | diagram | 208-209
+Q: Describe the demand curve facing a perfectly competitive firm and how it relates to the market.
+A: Market demand and supply set the equilibrium price Pe; the individual firm faces a perfectly elastic (horizontal) demand curve at Pe, with a PED of infinity.
+
+@ T7.3.1 | definition | 209
+Q: What is a price-taker?
+A: A firm that cannot influence the price of its product and must accept the price determined in the market; it has no market power.
+
+@ T7.3.1 | explain | 209
+Q: Why does a perfectly competitive firm neither raise its price above, nor cut it below, the market price?
+A: Above Pe it would sell nothing, as buyers would buy elsewhere at Pe. It can already sell all it wants at Pe, so cutting the price would only lose revenue.
+
+@ T7.3.1 | diagram | 209
+Q: For a perfectly competitive firm, how are price, marginal revenue, average revenue and demand related?
+A: P = MR = AR at every level of output, and all coincide with the horizontal demand curve, because the price is the same however much the firm sells.
+
+@ T7.3.1 | explain | 209
+Q: Why is P = MR = AR true only for firms in perfect competition?
+A: They are the only firms that cannot influence price and must sell all their output at the single price determined in the market.
+
+@ T7.3.2 | explain | 210
+Q: Why can firms not enter or leave an industry in the short run?
+A: The short run is when at least one input is fixed; entering or leaving an industry requires varying all inputs, so the number of firms is fixed.
+
+@ T7.3.2 | explain | 210
+Q: What are the three steps for analysing a firm's short-run profit or loss on a diagram?
+A: (1) Find the output where MR = MC. (2) At that output, compare AR (price) with AC to get profit or loss per unit. (3) Profit or loss per unit times output gives the total, shown as a shaded rectangle.
+
+@ T7.3.2 | diagram | 211
+Q: Diagram: describe a perfectly competitive firm earning abnormal profit in the short run.
+A: The horizontal demand curve (P = MR) is above minimum AC. At the output where MR = MC, price exceeds AC; profit per unit is the vertical gap between P and AC, and total abnormal profit is the rectangle of that gap times output.
+
+@ T7.3.2 | diagram | 211
+Q: Diagram: describe a perfectly competitive firm earning normal profit.
+A: The horizontal demand curve (P = MR) just touches the minimum point of AC, where MC also crosses. At the MR = MC output, price equals minimum AC, so profit is zero and total revenue equals total cost.
+
+@ T7.3.2 | diagram | 211
+Q: Diagram: describe a perfectly competitive firm making a loss in the short run.
+A: The horizontal demand curve (P = MR) is below minimum AC. At the MR = MC output, AC exceeds price; loss per unit is the vertical gap between AC and P, and the total loss is the shaded rectangle. This output minimises the loss.
+
+@ T7.3.3 | explain | 211
+Q: What can firms do in the long run that they cannot do in the short run?
+A: Vary all their inputs: new firms can enter the industry, existing firms can change their size, and firms can leave (free entry and exit).
+
+@ T7.3.3 | chain | 212
+Q: Perfectly competitive firms are earning abnormal profits. Explain how long-run equilibrium is reached.
+A: Abnormal profits attract new firms → industry supply ↑ (shifts right) → market price ↓ → abnormal profits shrink → entry continues until price equals minimum AC → all firms earn normal profit.
+
+@ T7.3.3 | chain | 212
+Q: Perfectly competitive firms are making losses. Explain how long-run equilibrium is reached.
+A: Losses → some firms close or switch to other products → industry supply ↓ (shifts left) → market price ↑ → this continues until price equals minimum AC → the remaining firms earn normal profit.
+
+@ T7.3.3 | diagram | 212
+Q: Describe the long-run equilibrium of a perfectly competitive firm and industry.
+A: Industry demand and supply set the price Pe. The firm's horizontal demand curve (P = MR = AR) at Pe touches the minimum point of AC, where MC also crosses; the firm produces where MR = MC with P equal to minimum AC, earning normal profit.
+
+@ T7.3.3 | explain | 212
+Q: Why does a perfectly competitive firm in long-run equilibrium produce at minimum average cost?
+A: It produces where MR = MC and earns normal profit (P = AC); since the MC curve cuts the AC curve at its minimum point, this output is at minimum AC.
+
+@ T7.3.3 | explain | 212
+Q: What general principle about competition does long-run equilibrium in perfect competition illustrate?
+A: Entry and exit of firms drive price to the lowest level firms will accept to keep operating (minimum average cost, normal profit); anything that restricts competition leads to higher prices, abnormal profits and welfare loss.
+
+@ T7.3.4 | explain | 213
+Q: Why does P = MC mean allocative efficiency?
+A: Price reflects the marginal benefit consumers get from one more unit (what they will pay for it); MC measures the value of the resources used to produce it. When P equals MC, what consumers will pay for one more unit equals what it costs to produce.
+
+@ T7.3.4 | explain | 213
+Q: How are the conditions P = MC, MB = MC and MSB = MSC related?
+A: Marginal benefit equals price, so P = MC is the same as MB = MC; when there are no externalities, it is also the same as MSB = MSC.
+
+@ T7.3.4 | explain | 213
+Q: If price is greater than marginal cost, what does this mean for resource allocation?
+A: An extra unit is worth more to consumers than it costs to produce: there is an underallocation of resources, and consumers would be better off with more output.
+
+@ T7.3.4 | explain | 213
+Q: If price is less than marginal cost, what does this mean for resource allocation?
+A: An extra unit costs more to produce than it is worth to consumers: there is an overallocation of resources, and consumers would be better off with less output.
+
+@ T7.3.4 | diagram | 214
+Q: Describe the diagrams showing allocative efficiency in perfect competition in the long run.
+A: <b>Firm:</b> produces Qe where P = MC (and P = minimum AC, normal profit).<br><b>Industry:</b> demand (MB) meets supply (MC) at Pe and Qe, so MB = MC and social surplus (consumer plus producer surplus) is maximum.
+
+@ T7.3.5 | evaluation | 214
+Q: Evaluation: what advantage does perfect competition offer in terms of resource allocation?
+A: Allocative efficiency: it gives the best ('optimal') allocation of resources, with P = MC (MB = MC) in long-run equilibrium.
+
+@ T7.3.5 | evaluation | 214
+Q: Evaluation: why does perfect competition benefit consumers through prices?
+A: There are no abnormal profits in the long run, so prices are lower than they would be if firms earned abnormal profits.
+
+@ T7.3.5 | evaluation | 214
+Q: Evaluation: how does perfect competition deal with inefficient producers?
+A: Firms with higher than necessary costs (less productive labour, outdated technology, poor entrepreneurship) cannot cover their costs, make losses and are forced to leave the industry in the long run.
+
+@ T7.3.5 | evaluation chain | 214
+Q: Evaluation: how does a perfectly competitive market respond to changes in consumer tastes?
+A: Tastes change → market demand and price change → short-run abnormal profits or losses → long-run entry or exit → industry output adjusts to what consumers want.
+
+@ T7.3.5 | evaluation | 214
+Q: Evaluation: what is the main limitation of the perfect competition model as a description of reality?
+A: It rests on strict, unrealistic assumptions that are rarely met in the real world.
+
+@ T7.3.5 | evaluation | 214
+Q: Evaluation: why can't perfectly competitive firms benefit from economies of scale?
+A: The firms are too small to grow to a size large enough to achieve economies of scale (lower average costs from growth).
+
+@ T7.3.5 | evaluation | 214
+Q: Evaluation: why is lack of product variety a disadvantage of perfect competition?
+A: All firms produce identical (homogeneous) products, but consumers prefer product variety.
+
+@ T7.3.5 | evaluation | 215
+Q: Evaluation: why do perfectly competitive firms do little research and product development?
+A: With no abnormal profits in the long run they lack funds for research and development, and with undifferentiated products they have no incentive to develop or improve products.

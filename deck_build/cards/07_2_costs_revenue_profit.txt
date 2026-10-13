@@ -1,0 +1,147 @@
+# 7.2 Profit maximisation by the rational producer (HL) (book p199-207)
+# Excluded: all revenue, cost and profit calculations (learning objective 'calculations from data of profit, MC, MR, AC, AR').
+# Orange key terms missing from the text layer recovered by OCR (economic costs, LRAC, economies of scale, profit maximisation, loss, normal profit).
+
+@ T7.2.1 | definition | 199
+Q: What are revenues (for a firm)?
+A: The payments firms receive when they sell the goods and services they produce.
+
+@ T7.2.1 | definition | 199
+Q: What is a firm's total revenue (TR)?
+A: The price at which a good is sold multiplied by the number of units sold.
+
+@ T7.2.1 | definition | 199
+Q: What is average revenue (AR), and why is it always equal to price?
+A: Revenue per unit of output sold (total revenue divided by output). Since total revenue is price times quantity, revenue per unit is simply the price.
+
+@ T7.2.1 | definition | 199
+Q: What is marginal revenue (MR)?
+A: The additional revenue arising from the sale of one additional unit of output.
+
+@ T7.2.1 | distinguish | 199
+Q: Why must revenues be analysed differently for different market structures?
+A: It depends on whether the firm can control its price: in perfect competition price is constant as output varies; in monopolistic competition, oligopoly and monopoly price varies with output.
+
+@ T7.2.1 | diagram | 199-200
+Q: Describe the revenue curves of a firm that cannot control price (perfect competition).
+A: Price is constant, so P = MR = AR is one horizontal line; total revenue is an upward-sloping straight line from the origin, rising by the same amount with each unit sold.
+
+@ T7.2.1 | diagram | 200
+Q: Describe the revenue curves of a firm that can control price (monopoly, monopolistic competition, oligopoly).
+A: P = AR = D slopes downward (law of demand); MR lies below it and falls faster, eventually becoming negative; total revenue rises, reaches a maximum where MR is zero, then falls.
+
+@ T7.2.2 | definition | 201
+Q: What are explicit costs?
+A: Payments made by a firm to outsiders to acquire resources for use in production, e.g. wages paid to hired labour, prices paid for materials.
+
+@ T7.2.2 | definition example | 201
+Q: What are implicit costs? Give examples.
+A: The income sacrificed when a firm uses resources it owns (an opportunity cost), e.g. rent the firm's own building could have earned, what the owner could have earned working elsewhere, and what the owner's entrepreneurial abilities could earn elsewhere.
+
+@ T7.2.2 | definition | 202
+Q: What are economic costs?
+A: The sum of explicit and implicit costs incurred by a firm for its use of resources, whether purchased or self-owned. When economists say 'costs' they mean economic costs.
+
+@ T7.2.2 | definition | 202
+Q: What is average cost (AC)?
+A: Cost per unit of output produced: total cost divided by the number of units of output.
+
+@ T7.2.2 | explain | 202
+Q: What determines the shapes of the short-run marginal cost and average cost curves?
+A: The law of diminishing marginal returns, which holds only in the short run when at least one factor of production is fixed.
+
+@ T7.2.2 | diagram | 203
+Q: How are the marginal cost and average cost curves related?
+A: When MC is below AC, AC is falling; when MC is above AC, AC is rising. So the MC curve always cuts the AC curve at the minimum point of AC.
+
+@ T7.2.2 | explain | 203
+Q: Use a test-score analogy to explain the relationship between marginal and average cost.
+A: If your average test score is 80 and your next ('marginal') score is above 80, your average rises; if it is below 80, your average falls. Marginal cost pulls average cost up or down in exactly the same way.
+
+@ T7.2.3 | definition | 203
+Q: What is the long-run average cost (LRAC) curve?
+A: The curve that just touches (is tangent to) the series of short-run average cost (SRAC) curves a firm moves through as it grows by increasing all its factors of production.
+
+@ T7.2.3 | diagram | 203-204
+Q: What shape is the LRAC curve, and what explains it?
+A: U-shaped. The downward-sloping part is explained by economies of scale and the upward-sloping part by diseconomies of scale; it has nothing to do with diminishing returns, which apply only in the short run.
+
+@ T7.2.3 | definition | 204
+Q: What are economies of scale?
+A: Decreases in average costs of production over the long run as a firm increases all its factors of production. They explain the downward-sloping part of the LRAC curve.
+
+@ T7.2.3 | explain | 204
+Q: How does specialisation of labour create economies of scale?
+A: A larger scale of production employs more workers, so each can specialise in tasks suited to their skills, interests and talents → greater efficiency → lower average cost.
+
+@ T7.2.3 | explain | 204
+Q: How does specialisation of management create economies of scale?
+A: Larger firms can employ more managers, each specialised in one area (production, sales, finance) → greater efficiency → lower average cost.
+
+@ T7.2.3 | explain | 204
+Q: How do bulk buying and financing create economies of scale?
+A: <b>Bulk buying:</b> the price per unit of inputs falls as larger quantities are bought.<br><b>Financing:</b> larger firms may borrow at lower interest rates.
+
+@ T7.2.3 | explain | 204
+Q: How does spreading certain costs over larger output create economies of scale?
+A: Costs such as marketing, advertising, design and research and development give lower average costs when spread over large volumes of output.
+
+@ T7.2.3 | definition | 204
+Q: What are diseconomies of scale?
+A: Increases in average costs of production over the long run as a firm increases its output by increasing all its inputs. They explain the upward-sloping part of the LRAC curve.
+
+@ T7.2.3 | explain | 204
+Q: What causes diseconomies of scale?
+A: Co-ordination and monitoring difficulties for management as the firm grows; communication difficulties between parts of the firm; and poor worker motivation (bored workers who care little about their work), all raising average costs.
+
+@ T7.2.4 | definition | 204
+Q: How is profit defined in economics?
+A: Total revenue minus economic costs, where economic costs are the sum of explicit and implicit costs.
+
+@ T7.2.4 | definition | 205
+Q: What is a loss?
+A: Negative profit: when a firm's total revenue is not enough to cover all its (economic) costs.
+
+@ T7.2.4 | distinguish | 205
+Q: Distinguish between abnormal profit, normal profit and a loss.
+A: <b>Abnormal profit:</b> total revenue exceeds total economic costs (positive profit).<br><b>Normal profit:</b> total revenue equals total economic costs (zero profit).<br><b>Loss:</b> total revenue is less than total economic costs (negative profit).
+
+@ T7.2.4 | definition | 207
+Q: What is normal profit? Give its two equivalent definitions.
+A: (1) The minimum amount of revenue a firm must receive to keep the business running rather than shut down. (2) The revenue that covers all explicit and implicit costs, so economic profit is zero.
+
+@ T7.2.4 | explain | 207
+Q: Why are the two definitions of normal profit consistent with each other?
+A: The minimum revenue that makes it worthwhile to stay in business is exactly the revenue that covers all the firm's costs, implicit plus explicit.
+
+@ T7.2.4 | explain | 207
+Q: Why would the owner of a firm earning only normal profit (zero economic profit) keep the business open?
+A: Normal profit includes the payment for entrepreneurship (organising, managing, risk-taking), so the owner is still being paid for all their work as an entrepreneur.
+
+@ T7.2.5 | definition | 205
+Q: What does profit maximisation involve?
+A: Determining the level of output that makes the firm's profit as large as possible.
+
+@ T7.2.5 | explain | 205
+Q: If a firm is making a loss, what output does it aim to produce before deciding whether to shut down?
+A: The output that makes its loss as small as possible (loss minimisation).
+
+@ T7.2.5 | explain | 205
+Q: What is the profit-maximising rule using the total revenue and total cost approach?
+A: Produce the level of output where total revenue minus total (economic) cost is as large as possible.
+
+@ T7.2.5 | definition | 205
+Q: What is the profit-maximising (or loss-minimising) rule using the marginal approach, and to which market structures does it apply?
+A: Produce the level of output where marginal cost equals marginal revenue (MC = MR). It holds for all market structures.
+
+@ T7.2.5 | chain | 205-206
+Q: Why does a firm maximise profit where MR = MC?
+A: If MR exceeds MC, one more unit adds more to revenue than to cost → raise output. If MR is less than MC, the last unit adds more to cost than to revenue → cut output. Only at MR = MC can the firm not improve its position.
+
+@ T7.2.5 | explain | 206
+Q: If you know only a firm's MC and MR, what can and can't you find?
+A: You can find the profit-maximising level of output (where MC = MR), but not the amount of profit or loss without more information (e.g. on average cost and price).
+
+@ T7.2.5 | explain | 205
+Q: Do the total revenue/total cost approach and the MR/MC approach give different profit-maximising outputs?
+A: No: both yield the same profit-maximising (or loss-minimising) level of output; the MR and MC approach is the more precise of the two.

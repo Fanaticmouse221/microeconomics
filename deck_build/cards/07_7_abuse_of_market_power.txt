@@ -1,0 +1,137 @@
+# 7.7 Government intervention in response to abuse of market power (HL) (book p239-245)
+
+@ T7.7.1 | evaluation | 239
+Q: What are the potential advantages of large firms with significant market power?
+A: Large economies of scale (including natural monopoly) that lower costs, and abnormal profits that can finance research and development of new products and technologies (innovation).
+
+@ T7.7.1 | evaluation stakeholders | 239, 243
+Q: What risks do markets dominated by large firms pose for prices, output and consumer choice?
+A: Higher prices and lower output than under competition (price above MC, welfare loss), loss of consumer surplus to the large firms, and reduced quality and choice of products.
+
+@ T7.7.1 | definition | 240
+Q: What is a markup over marginal cost, and why does it indicate market power?
+A: The amount added to marginal cost to obtain the price. The bigger the markup, the more the firm is able to charge a price above marginal cost, which is market power.
+
+@ T7.7.1 | example | 240
+Q: What did a 2019 IMF study find about market concentration?
+A: Markups over marginal cost for 900,000 firms in 27 countries rose by 8% on average between 2000 and 2015 (most in the US), driven by a small share of firms, and mergers and acquisitions were followed by significantly higher markups.
+
+@ T7.7.1 | example evaluation | 240
+Q: According to the 2019 IMF study, what harm results from rising market power?
+A: Less investment in physical capital (lowering GDP growth), workers receiving a smaller share of the value they create (more income inequality), and possibly less innovation as competitive pressure weakens.
+
+@ T7.7.2 | definition | 239
+Q: What is abuse of market power (anti-competitive practices)?
+A: Firms engaging in activities that reduce competition. According to the European Commission, a dominant position is not anti-competitive in itself, but exploiting it to eliminate competition is an abuse.
+
+@ T7.7.2 | example | 239
+Q: Give examples of abuse of a dominant market position, as identified by the European Commission.
+A: Charging unreasonably high prices; selling at artificially low prices that smaller rivals cannot match; forcing buyers to take a product artificially tied to a popular one; refusing to deal with some customers or giving discounts for buying all supplies from the dominant firm; making one sale conditional on another.
+
+@ T7.7.2 | explain | 239-240
+Q: Why are monopolies and collusive oligopolies the main targets of government action against abuse of market power?
+A: Monopolies have the most market power, which is abusive because there is no competition (private unregulated monopolies are illegal almost everywhere); collusive oligopolies have monopoly-like power, so collusion is illegal almost everywhere.
+
+@ T7.7.2 | explain | 240
+Q: Do non-collusive oligopolies and firms in monopolistic competition abuse their market power?
+A: Non-collusive oligopolies may or may not, depending on the situation. Firms in monopolistic competition mostly do not, because there is significant competition from firms producing substitutes.
+
+@ T7.7.3 | definition | 240
+Q: What is competition policy?
+A: Laws that promote competition by preventing collusion between oligopolistic firms and anti-competitive behaviour by a single dominant firm. Offending firms are usually fined, or may be broken up into smaller firms.
+
+@ T7.7.3 | evaluation | 241
+Q: Why is competition law difficult to interpret and apply?
+A: People differ on what counts as anti-competitive behaviour and the laws may be vague; the OECD calls deciding when behaviour is abuse rather than competitive action one of the most complex and controversial areas of competition policy.
+
+@ T7.7.3 | evaluation | 241
+Q: Why is competition law enforced more strictly by some governments than others?
+A: It depends on their priorities and political or ideological views: some believe strict enforcement is needed to protect consumers and achieve allocative efficiency; others believe competitive market forces achieve this on their own over time. It is a normative question.
+
+@ T7.7.3 | evaluation | 241
+Q: Why is collusion difficult to prosecute under competition law?
+A: Because it is illegal, collusion happens in secret, so evidence is hard to find and prove.
+
+@ T7.7.3 | definition | 241
+Q: What is a merger, and why do firms merge?
+A: An agreement between two or more firms to join together into a single firm, to capture economies of scale (lower average costs), to grow, or to acquire market power.
+
+@ T7.7.3 | explain | 241
+Q: Why are mergers an issue for competition policy, and how are they usually controlled?
+A: The single firm created may have too much market power, so legislation usually limits the size of the combined firm.
+
+@ T7.7.3 | evaluation | 241
+Q: What are the difficulties with merger policies?
+A: Uncertainty about which firms should be allowed to merge, arising from problems of interpreting the legislation and from ideological differences between governments about how much market power is acceptable.
+
+@ T7.7.3 | example evaluation | 243
+Q: Why did the UK's Competition and Markets Authority block the 2019 merger of Asda and Sainsbury's?
+A: The combined firm would have had a 30.7% market share, becoming the UK's largest supermarket. The firms claimed cost savings would cut prices by up to 10%, but the CMA found the merger would raise prices and reduce quality and choice for shoppers.
+
+@ T7.7.3 | example | 241-242
+Q: Why did the European Commission fine Google $5 billion in 2018?
+A: For requiring phone manufacturers to preinstall Google Search and the Chrome browser to get access to the Google Play app store, which denied rivals the chance to innovate and compete and denied consumers effective competition.
+
+@ T7.7.3 | evaluation | 242
+Q: What are the arguments for and against breaking up big tech companies?
+A: <b>For</b> (Senator Elizabeth Warren): they have too much power over the economy, society and democracy, crush competition, profit from private data, hurt small businesses and stifle innovation.<br><b>Against</b> (economist Tyler Cowen): they are major innovators, and breaking them up could weaken innovation.
+
+@ T7.7.4 | evaluation | 241
+Q: What is the main weakness of fines as a response to abuse of market power?
+A: Firms calculate whether breaking the law is more profitable than complying; the profits from abusing market power are often large enough to make paying the fines worthwhile.
+
+@ T7.7.4 | evaluation | 241
+Q: Why are firms that abuse their market power often not caught and fined?
+A: Because of the political climate, or because firms are careful to cover up their actions.
+
+@ T7.7.4 | example | 244
+Q: Give examples of fines imposed on banks for rigging foreign exchange markets.
+A: In 2019 the EU fined Barclays, J.P. Morgan, MUFG and Royal Bank of Scotland $1.2 billion for rigging the forex market for 11 currencies, and US regulators fined a group of banks $2.8 billion for rigging exchange rates.
+
+@ T7.7.4 | example | 244
+Q: Why was the Swiss bank UBS exempted from the EU's 2019 forex-rigging fine?
+A: It alerted the European Union to the existence of the two cartels.
+
+@ T7.7.4 | example | 244
+Q: Give examples of EU fines on technology firms for abuse of market power.
+A: Google: €2.7 billion (2017, favouring Google Shopping in search results) and €5 billion (2018, Android preinstallation). Qualcomm: $1.2 billion (2018, payments to Apple to use its chips). Intel: $1.45 billion (2009, discounts for not using rival AMD's chips).
+
+@ T7.7.5 | definition | 243
+Q: What is nationalisation, and how can it address the problems of natural monopoly?
+A: The transfer of ownership from the private sector to the government. Owning the natural monopoly lets the government make it lower prices and raise output in consumers' interests, reducing allocative inefficiency and welfare loss.
+
+@ T7.7.5 | evaluation | 243
+Q: What is the drawback of government ownership of natural monopolies, and what trend has followed?
+A: Government firms are not driven to maximise profits, so they may be inefficient with higher than necessary costs. Since the 1990s there has been a worldwide trend to privatise government enterprises.
+
+@ T7.7.5 | definition | 243
+Q: What is privatisation?
+A: The opposite of nationalisation: transferring ownership of an enterprise from the government to the private sector.
+
+@ T7.7.5 | explain | 243
+Q: Can a natural monopoly be regulated while it stays privately owned?
+A: Yes: governments can regulate its price (marginal cost pricing or average cost pricing) to achieve more socially desirable price and quantity outcomes.
+
+@ T7.7.5 | definition | 244
+Q: What is marginal cost pricing for a regulated natural monopoly?
+A: The government forces the monopoly to charge a price equal to marginal cost (P = MC), achieving allocative efficiency with a lower price and a higher quantity.
+
+@ T7.7.5 | evaluation chain | 244
+Q: Why is marginal cost pricing an unpopular way to regulate a natural monopoly?
+A: Average cost is still falling, so MC is below AC → a price equal to MC is below AC → the firm makes losses → it goes out of business unless the government subsidises it.
+
+@ T7.7.5 | definition | 245
+Q: What is average cost pricing for a regulated natural monopoly?
+A: The government forces the firm to charge a price equal to average cost (P = AC), so it earns normal profit. Price is higher and quantity lower than under marginal cost pricing, but price is lower and quantity higher than for an unregulated monopolist.
+
+@ T7.7.5 | evaluation | 245
+Q: What are the advantages of average cost pricing for a natural monopoly?
+A: The monopolist earns normal profit, so it is in no danger of shutting down, and the outcome is more efficient than the unregulated market outcome (though not allocatively efficient).
+
+@ T7.7.5 | evaluation | 245
+Q: Why does average cost pricing weaken a natural monopoly's incentive to keep costs low?
+A: It is guaranteed a price equal to its average costs, so if costs rise through inefficiency it still receives a price covering them, unlike an unregulated profit-maximiser.
+
+@ T7.7.5 | evaluation | 245
+Q: How can continued regulation of a natural monopoly protect it from competition it should face?
+A: If technological change (e.g. in telecommunications) means it is no longer a natural monopoly, continued regulation may shield it from new competitors that could produce more efficiently.

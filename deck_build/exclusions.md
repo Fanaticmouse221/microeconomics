@@ -21,6 +21,9 @@
 - p165 (5.4) | HL calculation of welfare loss from a negative consumption externality - learning objective 'calculate welfare loss that arises from negative externalities of consumption (HL only, AO4)'
 - p175 (6.1) | HL calculation of welfare loss from a positive production externality - learning objective 'calculate welfare loss that arises from positive externalities of production (HL only, AO4)'
 - p179 (6.2) | HL calculation of welfare loss from a positive consumption externality - learning objective 'calculate welfare loss that arises from positive externalities of consumption (HL only, AO4)'
+- p199-206 (7.2) | Calculating total, average and marginal revenue; total, average and marginal cost; profit and the profit-maximising output from tables - learning objective 'calculations from data of profit, marginal cost, marginal revenue, average cost, average revenue (AO4)'
+- p210-213 (7.3) | Calculating profit or loss per unit and total profit or loss (P versus AC times Q) and the profit-maximising output from cost tables
+- p217-220 (7.4) | Calculating a monopolist's total and marginal revenue, profit-maximising output, price, profit per unit and total profit from tables; numerical marginal revenue example (footnote p218)
 
 ## TOK
 - p71 | Theory of knowledge 2.1: The meaning and implications of maximum social welfare
@@ -30,6 +33,7 @@
 - p162-164 | Theory of knowledge 5.1: Economic thinking on sustainability and Elinor Ostrom - note: contains Ostrom's policy implication that governments should support local institutions (courts, scientific knowledge) for resource users
 - p170-171 | Theory of knowledge 5.2: The ethical dimensions of sustainability and preserving the global climate (polluter pays principle, intergenerational equity)
 - p193-194 | Theory of knowledge 6.1: Inequality in relation to market failure (why maximum social surplus is possible with extreme inequality: efficiency counts only demand backed by ability to pay) - note: useful evaluation point
+- p238 | Theory of knowledge 7.1: Perfect competition and the real world
 
 ## BORDERLINE
 - p41 | Chapter 2 opener ("Before you start" questions) - no new content
@@ -62,9 +66,19 @@
 - p182 | Real world focus 6.1 (Bolsa Familia conditional cash transfers) - carded as two cards
 - p183 | Table 6.1 summary of externalities - carded as five policy-set cards
 - p194 | Inquiry and reflection questions (chapter 6) - not carded
+- p212 | Diagrams of the long-run adjustment process in perfect competition - in the digital coursebook (not in the PDF); the process itself is carded
+- p236 | Real world focus 7.1 (US generic drug price-fixing lawsuit) - carded as one example card
+- p235 | Table 7.7 (US concentration ratios) - one example card
+- p240 | Real world focus 7.2 (IMF study on markups) - carded as three cards
+- p241-242 | Real world focus 7.3 (Google fine; Obama, Trump, Warren and Cowen quotes) - carded as two cards; the Obama and Trump quotes are not carded
+- p243 | Real world focus 7.4 (Asda-Sainsbury's merger) - one card
+- p244 | Real world focus 7.5 (EU fines) - three cards
+- p244 | Marginal cost pricing diagram for a natural monopoly - in the digital coursebook (not in the PDF)
+- p245 | Inquiry and reflection questions (chapter 7) - not carded
 
 ## CORRECTIONS
 - p67 | The book states consumer surplus is "the area under the demand curve and below the price paid". The card uses the standard (correct) wording: under the demand curve and ABOVE the price paid, up to the quantity bought.
 - p74 | The book gives Herbert Simon's Nobel Prize year as 1971; it was 1978. The card omits the year.
 - p121 | The book's key-point box says a price floor is 'set below the equilibrium price'; the text and diagram (correctly) set it ABOVE equilibrium. Cards use 'above'.
 - p160 | The book states the Paris Agreement goal as limiting warming to '1.5%'; the card uses 1.5°C. (The formal goal is to hold warming well below 2°C and pursue efforts to limit it to 1.5°C.)
+- p228 | The book says firms in monopolistic competition end up 'earning normal profit where P - MC' (i.e. P = MC); normal profit requires P = AC. Cards use P = AC (with P above MC).
