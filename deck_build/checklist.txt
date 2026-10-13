@@ -1,4 +1,5 @@
-# Checklist = the textbook's own learning objectives for each section (Tragakes, Economics for the
+# Checklist = the textbook's own learning objectives for each section, split into the book's sub-topics
+# where one objective covers several (Tragakes, Economics for the
 # IB Diploma, 3rd ed., Chapters 2-7, book pages 41-245). The generic "define all the terms" objective
 # is folded into the objective each term belongs to. Format:
 #   [section | topic tag | section title]
@@ -70,3 +71,30 @@ T3.3.1 | Define PES and identify the various degrees and range of values for PES
 T3.3.2 | Draw diagrams showing the range of values for PES (relatively elastic and inelastic; perfectly elastic, perfectly inelastic, unitary)
 T3.3.3 | Analyse the determinants of PES
 T3.3.4 | (HL) Apply PES: why primary commodities generally have a lower PES than manufactured products (and the consequences)
+
+[4.1 | govt_intervention | Government intervention in markets]
+T4.1.1 | Outline key reasons why governments intervene in markets (incl. the Real world issue 2 overview)
+T4.1.2 | Outline the forms government intervention takes at the microeconomic level
+
+[4.2 | price_controls | Price controls]
+T4.2.1 | Price controls: meaning, and why they cause persistent market disequilibrium
+T4.2.2 | Price ceilings: explain and draw the consequences for markets (shortage, non-price rationing, underground markets, underallocation, welfare loss)
+T4.2.3 | Price ceilings: consequences for stakeholders and evaluation (incl. rent controls and food price controls)
+T4.2.4 | Price floors for agricultural products: explain and draw the consequences for markets (surplus, government purchases, firm inefficiency, overallocation, welfare loss)
+T4.2.5 | Price floors for agricultural products: consequences for stakeholders and evaluation
+T4.2.6 | Minimum wages: explain and draw the consequences for the economy and stakeholders, and evaluate
+T4.2.7 | Fixed prices (e.g. event tickets)
+
+[4.3 | indirect_taxes | Indirect taxes]
+T4.3.1 | The meaning of indirect taxes: excise and general taxes, indirect versus direct, specific versus ad valorem
+T4.3.2 | Indirect taxes and resource allocation; why governments impose indirect taxes
+T4.3.3 | Draw diagrams and explain the impacts of a specific tax on market outcomes
+T4.3.4 | Explain the consequences of indirect taxes for stakeholders
+T4.3.5 | Evaluate indirect taxes: consumer and producer surplus, welfare loss and allocative inefficiency
+
+[4.4 | subsidies | Subsidies]
+T4.4.1 | The meaning of subsidies; subsidies and the allocation of resources
+T4.4.2 | Why governments grant subsidies (and why subsidies are controversial)
+T4.4.3 | Draw diagrams and explain the impacts of a subsidy on market outcomes
+T4.4.4 | Explain the consequences of subsidies for stakeholders
+T4.4.5 | Evaluate subsidies: consumer and producer surplus, welfare loss and allocative inefficiency

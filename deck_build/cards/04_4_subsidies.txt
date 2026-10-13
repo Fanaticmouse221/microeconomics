@@ -1,0 +1,118 @@
+# 4.4 Subsidies (book p134-140)
+# Excluded: HL calculations of the effects of subsidies (p138-140); TOK 4.1 (p140-142).
+
+@ T4.4.1 | definition | 134
+Q: In a general sense, what is a subsidy?
+A: Assistance by the government to individuals or groups of individuals, such as firms, consumers, industries or sectors of the economy.
+
+@ T4.4.1 | explain | 134
+Q: Besides direct cash payments, what forms can subsidies take?
+A: Low-interest or interest-free loans (e.g. to students, to low-income consumers for housing, to firms needing help); goods and services provided by the government at below-market prices; tax relief (paying lower or no taxes).
+
+@ T4.4.1 | definition | 134
+Q: What is a specific subsidy?
+A: A payment by the government to firms of a fixed amount per unit of output.
+
+@ T4.4.1 | chain | 134
+Q: How does a subsidy to firms change the allocation of resources?
+A: Subsidy → price received by producers ↑ → they produce more; price paid by consumers ↓ → they buy more → more resources allocated to the good, with production and consumption above the free-market level.
+
+@ T4.4.1 | evaluation | 134
+Q: Does a subsidy improve or worsen the allocation of resources?
+A: It depends on the starting point. If resources were allocated efficiently, the subsidy introduces allocative inefficiency and welfare loss. If there is a market imperfection (e.g. a positive externality), a well-designed subsidy can improve the allocation.
+
+@ T4.4.2 | explain | 134
+Q: How can subsidies be used to support producers' incomes?
+A: Subsidies increase producers' revenues, so governments grant them to particular producers whose incomes they want to support.
+
+@ T4.4.2 | explain example | 134
+Q: How can subsidies make necessities more affordable to low-income consumers?
+A: A subsidy to producers lowers the price paid by consumers, e.g. a subsidy to producers of staple foods such as bread or rice.
+
+@ T4.4.2 | explain example | 134-135
+Q: How can subsidies encourage the production and consumption of goods considered desirable?
+A: A subsidy increases the quantity produced and consumed, so it can promote goods such as education and vaccinations.
+
+@ T4.4.2 | explain example | 134-135
+Q: How can subsidies support the growth of particular industries? Give examples.
+A: By increasing the quantity of output the industry produces, e.g. subsidies to the solar power industry; other subsidised industries include chemicals, textiles, steel and fossil fuels.
+
+@ T4.4.2 | explain | 135
+Q: How can subsidies be used to encourage exports?
+A: Subsidies lower the price of exported goods, which increases the quantity of exports.
+
+@ T4.4.2 | explain | 135
+Q: How can subsidies be used to improve the allocation of resources?
+A: By correcting positive externalities, where market imperfections cause too little of a good to be produced or consumed.
+
+@ T4.4.2 | evaluation | 135
+Q: Why are subsidies a controversial topic in economics?
+A: They are very extensive and often pursue objectives that conflict with other important objectives; agricultural and export subsidies in particular are highly controversial.
+
+@ T4.4.2 | definition example | 135
+Q: What are 'perverse subsidies'? Give an example.
+A: Subsidies that work against other important objectives, e.g. fossil-fuel subsidies, which run contrary to sustainable development and to subsidies meant to support alternative energy.
+
+@ T4.4.3 | diagram | 135
+Q: How does a specific subsidy shift the supply curve, and why?
+A: Downward and parallel by the amount of the subsidy per unit (S2 is S1 minus the subsidy), because the subsidy lowers firms' costs of production: the exact opposite of an indirect tax.
+
+@ T4.4.3 | diagram | 135
+Q: Describe the effects of a specific subsidy on a demand and supply diagram.
+A: Supply shifts down by the subsidy; demand is unchanged. At the new equilibrium the price paid by consumers falls from P* to Pc, quantity rises from Q* to Qsb, and the price received by producers rises to Pp (Pc plus the subsidy per unit).
+
+@ T4.4.3 | diagram | 135
+Q: On a subsidy diagram, how is government spending on the subsidy shown?
+A: As the rectangle whose height is the subsidy per unit (the vertical distance between the two supply curves, Pp minus Pc) and whose width is the new quantity Qsb.
+
+@ T4.4.3 | diagram | 135
+Q: Why does a subsidy (in an efficient market) lead to an overallocation of resources?
+A: The quantity produced with the subsidy (Qsb) is greater than the free-market quantity (Q*), so too many resources are allocated to the good.
+
+@ T4.4.4 | stakeholders | 135-136
+Q: How are consumers affected by a subsidy?
+A: Better off: they pay a lower price (P* falls to Pc) and buy a larger quantity.
+
+@ T4.4.4 | stakeholders | 136
+Q: How are producers affected by a subsidy?
+A: Better off: they receive a higher price (Pp is above P*) and sell a larger quantity, so their revenue rises.
+
+@ T4.4.4 | stakeholders | 136
+Q: How is the government affected by granting a subsidy?
+A: The subsidy is a burden on its budget: it may have to cut spending elsewhere, raise taxes or run a budget deficit. Whatever the case, the impact on the budget is negative.
+
+@ T4.4.4 | definition | 136
+Q: What is a budget deficit?
+A: A situation in which government expenditures are greater than tax revenues.
+
+@ T4.4.4 | stakeholders | 136
+Q: How are workers affected by a subsidy?
+A: As output expands, firms are likely to hire more workers, so workers who find new jobs are better off.
+
+@ T4.4.4 | stakeholders | 137
+Q: How do export subsidies affect producers in other countries?
+A: They lower the price and increase the quantity of exports: positive for domestic producers, but negative for foreign producers who may be unable to compete with the subsidised low price.
+
+@ T4.4.5 | evaluation | 136
+Q: Apart from overallocation of resources, why is society worse off from a subsidy in an efficient market?
+A: The higher price received by producers protects relatively inefficient producers, allowing them to continue producing.
+
+@ T4.4.5 | diagram | 136
+Q: Subsidy diagram: what happens to consumer surplus and producer surplus?
+A: Both increase. Consumer surplus becomes the area under D above the lower price Pc up to Qsb; producer surplus becomes the area above the original supply curve S1 and below Pp up to Qsb.
+
+@ T4.4.5 | diagram evaluation | 136-137
+Q: If a subsidy increases both consumer and producer surplus, why is there still a welfare loss?
+A: Government spending on the subsidy (funded by taxes with opportunity costs) is greater than the combined gain in consumer and producer surplus. The excess is a welfare loss triangle caused by overproduction (Qsb above Q*).
+
+@ T4.4.5 | explain | 137
+Q: After a subsidy in an efficient market, what does MB being less than MC at the new quantity indicate?
+A: The benefit of the last unit to consumers is less than its marginal cost, so too much of the good is produced and consumed relative to the social optimum: allocative inefficiency from overallocation.
+
+@ T4.4.5 | example evaluation | 137-138
+Q: US farm subsidies are justified as helping small farmers survive. Why is this questioned?
+A: Subsidies are paid according to the amount of crop produced, so the largest and wealthiest farmers (even billionaires) receive the bulk, small farmers get very little and fruit and vegetable growers nothing; they cost taxpayers over $20 billion a year.
+
+@ T4.4.5 | example | 137
+Q: Which crops do US farm subsidies cover, and how long have they existed?
+A: Corn, wheat, soybeans, cotton, rice and others, since the Great Depression of the 1930s. A 1996 law intended to end them, but a free market in agriculture never materialised.

@@ -1,0 +1,110 @@
+# 4.3 Indirect taxes (book p127-133)
+# Excluded: HL calculations of the effects of indirect taxes (p131-133).
+
+@ T4.3.1 | definition | 127
+Q: What are indirect taxes, and why are they called 'indirect'?
+A: Taxes imposed on spending on goods and services. They are paid partly by consumers, but are paid to the government by producers (firms), hence 'indirect'.
+
+@ T4.3.1 | definition example | 127
+Q: What are excise taxes? Give examples.
+A: Indirect taxes imposed on particular goods and services, e.g. petrol, cigarettes and alcohol.
+
+@ T4.3.1 | definition example | 127
+Q: Besides excise taxes, what is the other type of indirect tax? Give examples.
+A: Taxes on spending on all (or most) goods and services, e.g. general sales taxes (used in the United States) and value added taxes (used in the European Union, Canada and many other countries).
+
+@ T4.3.1 | distinguish | 127
+Q: Distinguish between indirect taxes and direct taxes.
+A: <b>Indirect taxes:</b> imposed on spending on goods and services and paid to the government by firms.<br><b>Direct taxes:</b> paid by taxpayers directly to the government (e.g. income tax).
+
+@ T4.3.1 | definition example | 128
+Q: What is a specific tax? Give an example.
+A: An indirect tax of a fixed amount per unit of the good or service sold, e.g. €5 per packet of cigarettes.
+
+@ T4.3.1 | definition | 128
+Q: What is an ad valorem tax?
+A: An indirect tax that is a fixed percentage of the price of the good or service, so the amount of tax rises as the price rises.
+
+@ T4.3.2 | chain | 127-128
+Q: How do excise taxes change the allocation of resources?
+A: Tax → price paid by consumers ↑ → consumers buy less; price received by producers ↓ → producers produce less → by changing price signals and incentives, fewer resources are allocated to the taxed good.
+
+@ T4.3.2 | evaluation | 128
+Q: Do indirect taxes increase or reduce allocative efficiency?
+A: It depends on the starting point. If resources were allocated efficiently, the tax creates allocative inefficiency and welfare loss. If allocation was inefficient (e.g. negative externalities), a well-designed tax can improve it.
+
+@ T4.3.2 | explain | 128
+Q: How do indirect taxes help a government raise revenue, and which goods raise the most?
+A: Governments collect revenue from them; the lower the price elasticity of demand for the taxed good, the greater the revenue.
+
+@ T4.3.2 | evaluation | 128
+Q: How can indirect taxes discourage consumption of goods harmful to the individual, and what limits their effectiveness?
+A: Taxing goods such as cigarettes, excess alcohol or gambling raises their price and reduces consumption, but if PED is low the tax brings only a relatively small fall in quantity demanded.
+
+@ T4.3.2 | explain | 128
+Q: How can indirect taxes be used to redistribute income?
+A: Excise taxes on luxury goods (expensive cars, boats, furs, jewellery) fall on high-income earners, reducing their after-tax income and narrowing the gap with lower-income earners.
+
+@ T4.3.2 | explain | 128
+Q: How can indirect taxes be used to improve the allocation of resources?
+A: By correcting negative externalities: where such market imperfections prevent allocative efficiency, a tax can reduce the overproduction or overconsumption of the harmful good.
+
+@ T4.3.3 | diagram | 128
+Q: How does a specific tax shift the supply curve, and why?
+A: Upward and parallel by the amount of the tax per unit (S2 is S1 plus the tax), because firms must receive a price higher by the tax at every level of output. This is equivalent to a leftward shift.
+
+@ T4.3.3 | diagram | 129
+Q: Describe the effects of a specific tax on a demand and supply diagram.
+A: Supply shifts up by the tax; demand is unchanged. At the new equilibrium the price paid by consumers rises from P* to Pc, quantity falls from Q* to Qt, and the price received by producers falls from P* to Pp (Pc minus the tax per unit).
+
+@ T4.3.3 | explain | 129
+Q: What does it mean that an indirect tax 'drives a wedge' between consumers and producers?
+A: The price paid by consumers (Pc) is higher than the price received by producers (Pp); the gap between them is the tax per unit paid to the government.
+
+@ T4.3.3 | diagram | 129
+Q: Indirect tax diagram: what happens to consumer expenditure and to firms' revenue?
+A: Consumer expenditure changes to the rectangle Pc times Qt. Firms' revenue falls to the smaller rectangle Pp times Qt; the difference between the two is the government's tax revenue.
+
+@ T4.3.3 | explain | 133
+Q: Who bears the burden of an indirect tax?
+A: The burden is shared: consumers pay part through the higher price they pay, and producers pay part through the lower price they receive.
+
+@ T4.3.3 | explain | 129, 133
+Q: Why does the price paid by consumers usually rise by less than the tax per unit?
+A: Because the tax burden is shared: part is borne by producers, whose price received falls below the original equilibrium price.
+
+@ T4.3.3 | diagram | 129
+Q: Why does an indirect tax lead to an underallocation of resources to the taxed good?
+A: The after-tax quantity Qt is less than the free-market quantity Q*, so fewer resources go to producing the good than is socially optimal.
+
+@ T4.3.4 | stakeholders | 129
+Q: How are consumers affected by an indirect tax?
+A: Worse off in two ways: they pay a higher price (P* rises to Pc) and they buy a smaller quantity (Q* falls to Qt).
+
+@ T4.3.4 | stakeholders | 129
+Q: How are producers affected by an indirect tax?
+A: Worse off: they receive a lower price (P* falls to Pp) and sell a smaller quantity (Q* falls to Qt), so their revenue falls.
+
+@ T4.3.4 | stakeholders | 129
+Q: How is the government affected by an indirect tax?
+A: It is the only stakeholder that gains: it receives tax revenue (tax per unit times Qt), which is positive for the government budget.
+
+@ T4.3.4 | stakeholders | 129
+Q: How are workers affected by an indirect tax?
+A: Lower output means fewer workers are needed, so the tax may cause some unemployment; workers who lose their jobs are worse off.
+
+@ T4.3.5 | diagram | 130
+Q: Indirect tax diagram: what happens to consumer surplus?
+A: It shrinks to the area under the demand curve above Pc up to Qt: part of the lost consumer surplus becomes government tax revenue and part is lost entirely (welfare loss).
+
+@ T4.3.5 | diagram | 130
+Q: Indirect tax diagram: what happens to producer surplus, and which supply curve do you use to find it?
+A: It shrinks to the area above the original supply curve (S1) and below Pp up to Qt: part becomes tax revenue and part is lost. Always use the initial (pre-tax) supply curve.
+
+@ T4.3.5 | diagram evaluation | 130
+Q: Indirect tax: why is tax revenue not counted as a loss to society, and what is the welfare loss?
+A: Tax revenue returns to society as government spending, so after-tax social surplus is consumer surplus plus producer surplus plus tax revenue. The welfare loss is the two triangles between D and S1 from Qt to Q*, which are lost completely.
+
+@ T4.3.5 | explain | 130
+Q: After an indirect tax (starting from an efficient market), what does MB exceeding MC at Qt indicate?
+A: Consumers value the last unit more than it costs to produce, so too little of the good is produced and consumed relative to the social optimum: allocative inefficiency from underallocation.

@@ -1,0 +1,85 @@
+# 4.1 Government intervention in markets (book p111-114, incl. Real world issue 2 opener p111)
+
+@ T4.1.1 | explain | 111
+Q: What three broad problems arise from the market's inability to achieve socially desirable outcomes?
+A: (1) <b>Market failure:</b> allocative efficiency is not achieved, causing welfare loss.<br>(2) <b>Overuse of resources:</b> threatens environmental sustainability.<br>(3) <b>Inequity:</b> results in inequalities.
+
+@ T4.1.1 | example | 111
+Q: Give examples of issues that lead governments to intervene in markets.
+A: Pollution, destruction of the environment, the need for more schools and health services, preventing monopolies, and greater fairness in how income is distributed.
+
+@ T4.1.1 | evaluation | 111
+Q: How effective is government intervention at changing market outcomes?
+A: Governments have numerous policy tools that change market outcomes, but their effectiveness varies widely across real-world situations.
+
+@ T4.1.1 | explain | 113
+Q: How do indirect taxes help governments earn revenue, and why are they placed on goods like cigarettes, alcohol and petrol?
+A: Indirect taxes are taxes on goods and services. The lower a good's PED, the more tax revenue is raised, so they are imposed on price inelastic goods such as cigarettes, alcohol and petrol.
+
+@ T4.1.1 | distinguish | 113
+Q: Distinguish between indirect taxes and income taxes.
+A: <b>Indirect taxes:</b> taxes on goods and services (spending).<br><b>Income taxes:</b> taxes on the incomes people and firms earn.
+
+@ T4.1.1 | explain | 113
+Q: Why might a government provide support to firms?
+A: To help newly established small firms become strong enough to compete with larger firms; to encourage the growth of particular industries (e.g. wind and solar power); and to protect domestic firms from foreign competition.
+
+@ T4.1.1 | explain | 113
+Q: What methods can governments use to support firms?
+A: Subsidies, price floors, and trade protection measures such as tariffs and quotas.
+
+@ T4.1.1 | explain | 113
+Q: What methods can governments use to support households on low incomes?
+A: Subsidies, price ceilings, direct provision of services (e.g. free education and health care) and transfer payments.
+
+@ T4.1.1 | definition example | 113
+Q: What are transfer payments? Give examples.
+A: Payments made by the government to households that are not in exchange for any good or service, e.g. unemployment benefits, child benefits, maternity benefits.
+
+@ T4.1.1 | chain | 113
+Q: How do different government interventions influence firms' levels of production?
+A: Subsidies, price floors and trade protection → support firms → output ↑.<br>Indirect taxes → output ↓.
+
+@ T4.1.1 | distinguish example | 113
+Q: Distinguish between merit goods and demerit goods, with examples.
+A: <b>Merit goods:</b> held to be beneficial, so the government wants more consumed (e.g. education, health care).<br><b>Demerit goods:</b> held to be harmful, so the government wants less consumed (e.g. cigarettes, fatty foods).
+
+@ T4.1.1 | explain | 113
+Q: What methods can governments use to increase consumption of merit goods?
+A: Subsidies, direct provision of services, nudges, or command and control methods such as compulsory education up to a certain age.
+
+@ T4.1.1 | explain | 113
+Q: What methods can governments use to reduce consumption of demerit goods?
+A: Indirect taxes (which raise the price and lower quantity demanded), nudges, or command and control methods such as banning smoking in public places.
+
+@ T4.1.1 | definition | 114
+Q: What is 'command and control' government intervention?
+A: Government laws and regulations that must be followed: the command approach to economic decision-making.
+
+@ T4.1.1 | definition | 114
+Q: What is market failure?
+A: The failure of the market to achieve allocative efficiency: it produces too much or too little of a good relative to what society most prefers, or does not produce some socially desirable goods at all.
+
+@ T4.1.1 | explain | 114
+Q: What policies can governments use to correct market failure?
+A: Indirect taxes, subsidies, nudges, direct provision of services and command and control methods.
+
+@ T4.1.1 | definition | 114
+Q: How do economists usually interpret 'equity' in income distribution?
+A: As equality: a fair distribution of income and wealth is usually taken to mean a more equal one.
+
+@ T4.1.1 | explain | 114
+Q: Why do governments intervene to promote equity?
+A: The market does not achieve an equitable distribution of income and wealth: a small proportion of the population receives too large a share of income, so governments redistribute income (e.g. through price ceilings and subsidies).
+
+@ T4.1.2 | explain | 114
+Q: What does it mean that interventions such as price controls, taxes and subsidies operate at the microeconomic level?
+A: Each works by influencing the demand or supply of a particular good or service, and so changes that market's outcome.
+
+@ T4.1.2 | explain | 114
+Q: Which three forms of microeconomic government intervention work by changing prices or costs in a market?
+A: Price controls (price ceilings and price floors), indirect taxes and subsidies.
+
+@ T4.1.2 | explain | 114
+Q: Besides price controls, taxes and subsidies, which three other forms of microeconomic intervention do governments use?
+A: Direct provision of services, command and control regulation and legislation, and consumer nudges.

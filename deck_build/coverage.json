@@ -35,6 +35,22 @@
   "3.3": {
    "topic": "PES",
    "title": "Price elasticity of supply (PES)"
+  },
+  "4.1": {
+   "topic": "govt_intervention",
+   "title": "Government intervention in markets"
+  },
+  "4.2": {
+   "topic": "price_controls",
+   "title": "Price controls"
+  },
+  "4.3": {
+   "topic": "indirect_taxes",
+   "title": "Indirect taxes"
+  },
+  "4.4": {
+   "topic": "subsidies",
+   "title": "Subsidies"
   }
  },
  "items": {
@@ -588,6 +604,216 @@
     109
    ],
    "own_knowledge": false
+  },
+  "T4.1.1": {
+   "desc": "Outline key reasons why governments intervene in markets (incl. the Real world issue 2 overview)",
+   "section": "4.1",
+   "topic": "govt_intervention",
+   "count": 18,
+   "pages": [
+    111,
+    113,
+    114
+   ],
+   "own_knowledge": false
+  },
+  "T4.1.2": {
+   "desc": "Outline the forms government intervention takes at the microeconomic level",
+   "section": "4.1",
+   "topic": "govt_intervention",
+   "count": 3,
+   "pages": [
+    114
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.1": {
+   "desc": "Price controls: meaning, and why they cause persistent market disequilibrium",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 3,
+   "pages": [
+    114,
+    115
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.2": {
+   "desc": "Price ceilings: explain and draw the consequences for markets (shortage, non-price rationing, underground markets, underallocation, welfare loss)",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 12,
+   "pages": [
+    115,
+    116,
+    117
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.3": {
+   "desc": "Price ceilings: consequences for stakeholders and evaluation (incl. rent controls and food price controls)",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 13,
+   "pages": [
+    117,
+    118
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.4": {
+   "desc": "Price floors for agricultural products: explain and draw the consequences for markets (surplus, government purchases, firm inefficiency, overallocation, welfare loss)",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 14,
+   "pages": [
+    120,
+    121,
+    122,
+    123
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.5": {
+   "desc": "Price floors for agricultural products: consequences for stakeholders and evaluation",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 8,
+   "pages": [
+    123,
+    126
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.6": {
+   "desc": "Minimum wages: explain and draw the consequences for the economy and stakeholders, and evaluate",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 14,
+   "pages": [
+    125,
+    126
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.7": {
+   "desc": "Fixed prices (e.g. event tickets)",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 3,
+   "pages": [
+    126
+   ],
+   "own_knowledge": false
+  },
+  "T4.3.1": {
+   "desc": "The meaning of indirect taxes: excise and general taxes, indirect versus direct, specific versus ad valorem",
+   "section": "4.3",
+   "topic": "indirect_taxes",
+   "count": 6,
+   "pages": [
+    127,
+    128
+   ],
+   "own_knowledge": false
+  },
+  "T4.3.2": {
+   "desc": "Indirect taxes and resource allocation; why governments impose indirect taxes",
+   "section": "4.3",
+   "topic": "indirect_taxes",
+   "count": 6,
+   "pages": [
+    127,
+    128
+   ],
+   "own_knowledge": false
+  },
+  "T4.3.3": {
+   "desc": "Draw diagrams and explain the impacts of a specific tax on market outcomes",
+   "section": "4.3",
+   "topic": "indirect_taxes",
+   "count": 7,
+   "pages": [
+    128,
+    129,
+    133
+   ],
+   "own_knowledge": false
+  },
+  "T4.3.4": {
+   "desc": "Explain the consequences of indirect taxes for stakeholders",
+   "section": "4.3",
+   "topic": "indirect_taxes",
+   "count": 4,
+   "pages": [
+    129
+   ],
+   "own_knowledge": false
+  },
+  "T4.3.5": {
+   "desc": "Evaluate indirect taxes: consumer and producer surplus, welfare loss and allocative inefficiency",
+   "section": "4.3",
+   "topic": "indirect_taxes",
+   "count": 4,
+   "pages": [
+    130
+   ],
+   "own_knowledge": false
+  },
+  "T4.4.1": {
+   "desc": "The meaning of subsidies; subsidies and the allocation of resources",
+   "section": "4.4",
+   "topic": "subsidies",
+   "count": 5,
+   "pages": [
+    134
+   ],
+   "own_knowledge": false
+  },
+  "T4.4.2": {
+   "desc": "Why governments grant subsidies (and why subsidies are controversial)",
+   "section": "4.4",
+   "topic": "subsidies",
+   "count": 8,
+   "pages": [
+    134,
+    135
+   ],
+   "own_knowledge": false
+  },
+  "T4.4.3": {
+   "desc": "Draw diagrams and explain the impacts of a subsidy on market outcomes",
+   "section": "4.4",
+   "topic": "subsidies",
+   "count": 4,
+   "pages": [
+    135
+   ],
+   "own_knowledge": false
+  },
+  "T4.4.4": {
+   "desc": "Explain the consequences of subsidies for stakeholders",
+   "section": "4.4",
+   "topic": "subsidies",
+   "count": 6,
+   "pages": [
+    135,
+    136,
+    137
+   ],
+   "own_knowledge": false
+  },
+  "T4.4.5": {
+   "desc": "Evaluate subsidies: consumer and producer surplus, welfare loss and allocative inefficiency",
+   "section": "4.4",
+   "topic": "subsidies",
+   "count": 6,
+   "pages": [
+    136,
+    137,
+    138
+   ],
+   "own_knowledge": false
   }
  },
  "verify_cards": [],
@@ -600,18 +826,22 @@
   "behavioural_economics": 89,
   "PED": 68,
   "YED": 32,
-  "PES": 29
+  "PES": 29,
+  "govt_intervention": 21,
+  "price_controls": 67,
+  "indirect_taxes": 27,
+  "subsidies": 29
  },
  "type_counts": {
-  "definition": 107,
-  "explain": 105,
-  "distinguish": 16,
-  "example": 56,
-  "diagram": 56,
-  "chain": 44,
-  "evaluation": 30,
-  "stakeholders": 7
+  "definition": 128,
+  "explain": 144,
+  "distinguish": 20,
+  "example": 72,
+  "diagram": 79,
+  "chain": 58,
+  "evaluation": 49,
+  "stakeholders": 31
  },
  "untyped": 0,
- "total": 390
+ "total": 534
 }

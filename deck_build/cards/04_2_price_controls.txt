@@ -1,0 +1,270 @@
+# 4.2 Price controls (book p114-126)
+# Excluded: HL calculations of the effects of price ceilings (p119-120) and price floors (p124-125).
+
+@ T4.2.1 | definition | 114
+Q: What are price controls?
+A: The setting of minimum or maximum prices by the government (or private organisations) so that prices cannot adjust to the equilibrium level determined by demand and supply.
+
+@ T4.2.1 | distinguish | 115
+Q: How do price controls differ fundamentally from indirect taxes and subsidies?
+A: After a tax or subsidy the market settles at a new equilibrium. Price controls do not allow a new equilibrium to be established, forcing a persistent disequilibrium (shortage or surplus).
+
+@ T4.2.1 | explain | 114-115
+Q: What happens to a market when a price control prevents it from reaching its market-clearing price?
+A: Quantity demanded and quantity supplied are no longer equal, so there is a persisting shortage (excess demand) or surplus (excess supply).
+
+@ T4.2.2 | definition | 115
+Q: What is a price ceiling?
+A: A legal maximum price, set by the government below the equilibrium price, usually to make certain goods (often necessities) more affordable to people on low incomes.
+
+@ T4.2.2 | explain | 115
+Q: For a price ceiling to have any effect, where must it be set, and why?
+A: Below the equilibrium price. If it were set above equilibrium, the market would reach equilibrium and the ceiling would have no effect.
+
+@ T4.2.2 | diagram | 115
+Q: Describe a price ceiling diagram and its effects on price and quantities.
+A: The ceiling Pc is a horizontal line below Pe. At Pc, quantity supplied (Qs) is less than Qe and quantity demanded (Qd) is greater than Qe, giving a shortage equal to the gap between Qd and Qs; the market cannot clear.
+
+@ T4.2.2 | chain | 115
+Q: Explain why a price ceiling creates a shortage.
+A: Ceiling below equilibrium → firms supply less (down the supply curve) and consumers want more (down the demand curve) → quantity demanded exceeds quantity supplied → shortage, which cannot be removed because price is not allowed to rise.
+
+@ T4.2.2 | explain | 115-116
+Q: Why does a price ceiling lead to non-price rationing?
+A: With a shortage the price mechanism can no longer ration the good: some buyers willing and able to pay the ceiling price go unsatisfied, so the limited quantity must be shared out by other means.
+
+@ T4.2.2 | example | 116
+Q: What non-price rationing methods are used when a price ceiling causes a shortage?
+A: Waiting in line (first come, first served); coupons that let each buyer purchase a fixed amount per period; favouritism (sellers choose their preferred customers).
+
+@ T4.2.2 | definition | 116
+Q: What are underground (parallel) markets?
+A: Buying and selling transactions that are unrecorded and usually illegal.
+
+@ T4.2.2 | chain | 116
+Q: How does a price ceiling give rise to an underground market?
+A: Shortage → some buyers miss out and are willing to pay more than the ceiling → people buy at the legal maximum and illegally resell above it → underground market (a special kind of price rationing).
+
+@ T4.2.2 | evaluation | 116
+Q: Why are underground markets a problem when a price ceiling is in place?
+A: They are inequitable and frustrate the ceiling's objective of keeping the price at the legal maximum.
+
+@ T4.2.2 | chain | 116-117
+Q: Why does a price ceiling cause allocative inefficiency?
+A: Price below equilibrium → smaller quantity supplied (Qs below Qe) → too few resources allocated to the good (underallocation) → underproduction relative to the social optimum; at Qs, MB exceeds MC.
+
+@ T4.2.2 | explain | 117
+Q: Under a price ceiling, what does MB being greater than MC at the quantity produced show?
+A: The benefit consumers get from the last unit exceeds the cost of producing it, so society is not getting enough of the good: an underallocation of resources.
+
+@ T4.2.2 | diagram | 116-117
+Q: Price ceiling diagram: what happens to consumer surplus, producer surplus and social surplus?
+A: Consumers gain a rectangle of producer surplus (lower price on the Qs units still sold) but lose a triangle (units no longer bought). Producers lose that rectangle and a triangle. Social surplus falls by the two triangles between D and S from Qs to Qe: the welfare loss.
+
+@ T4.2.3 | definition | 117
+Q: What are stakeholders?
+A: Individuals or groups of individuals who have an interest in something and are affected by it.
+
+@ T4.2.3 | stakeholders | 117
+Q: How are consumers affected by a price ceiling?
+A: Mixed: consumers who manage to buy gain from the lower price (they gain some producer surplus), but others lose because at the ceiling price there is not enough of the good to satisfy everyone.
+
+@ T4.2.3 | stakeholders | 117
+Q: How are producers affected by a price ceiling?
+A: Worse off: they sell a smaller quantity at a lower price, so their revenue falls; they lose producer surplus, partly transferred to consumers and partly as welfare loss.
+
+@ T4.2.3 | stakeholders | 117
+Q: How are workers affected by a price ceiling?
+A: Output falls from Qe to Qs, so some workers are likely to be fired, causing unemployment.
+
+@ T4.2.3 | stakeholders | 117
+Q: How is the government affected by a price ceiling?
+A: There is no gain or loss for the government budget, but the government may gain political popularity among consumers who are better off.
+
+@ T4.2.3 | definition | 117
+Q: What are rent controls?
+A: A maximum legal rent on housing, set below the market-determined rent, to make housing more affordable to low-income earners.
+
+@ T4.2.3 | stakeholders | 117
+Q: Rent controls: what are the consequences for the quantity of rental housing and for tenants?
+A: Those who find housing pay a more affordable rent, but quantity demanded exceeds the quantity available → housing shortage → long waiting lists of tenants.
+
+@ T4.2.3 | chain | 117
+Q: Why do rent controls lead to run-down rental housing?
+A: Low legal rents → low revenues for landlords → maintaining or renovating rental units becomes unprofitable → poorly maintained, run-down housing.
+
+@ T4.2.3 | explain | 117
+Q: How do rent controls create an underground market?
+A: Tenants sublet their apartments to people who cannot find housing, at rents above the legal maximum.
+
+@ T4.2.3 | explain | 117
+Q: Why do some governments impose food price controls?
+A: To make food more affordable to low-income earners, especially when food prices are rising rapidly.
+
+@ T4.2.3 | stakeholders | 117
+Q: What are the consequences of food price controls for consumers?
+A: Lower food prices and greater affordability for those who can buy, but food shortages, non-price rationing (queues) and underground markets.
+
+@ T4.2.3 | stakeholders | 117
+Q: What are the consequences of food price controls for farmers and the farm sector?
+A: Lower revenues reduce farmer incomes, unemployment in agriculture rises, and resources are misallocated; the government may gain popularity among consumers who benefit.
+
+@ T4.2.3 | example evaluation | 118
+Q: Vietnam considered price ceilings on many products (fertilisers, rice, sugar, coal, cement and more) to fight inflation. Why were foreign diplomats concerned?
+A: The controls would apply to private and foreign-owned firms too, signalling a move away from a freer market towards a command economy, which would damage business confidence.
+
+@ T4.2.4 | definition | 120
+Q: What is a price floor?
+A: A legal minimum price, set above the equilibrium price; sellers may not charge less than it.
+
+@ T4.2.4 | explain | 121
+Q: For a price floor to have any effect, where must it be set?
+A: Above the equilibrium price. If it were below equilibrium, the market would reach equilibrium and the floor would have no effect.
+
+@ T4.2.4 | explain | 121
+Q: What is a simple way to remember where price floors and price ceilings sit relative to equilibrium?
+A: It is the opposite of a room: the price floor is above the equilibrium price and the price ceiling is below it.
+
+@ T4.2.4 | explain | 121
+Q: What are the two main reasons governments impose price floors?
+A: (1) To support farmers' incomes with prices above market prices (a product market). (2) To protect low-skilled, low-wage workers with a minimum wage above the market wage (a resource market).
+
+@ T4.2.4 | explain | 121
+Q: Why are farmers' incomes from free markets often unstable or too low?
+A: <b>Unstable:</b> farm prices fluctuate because of low PED and low PES for agricultural products.<br><b>Too low:</b> because of low income elasticities of demand for farm products.
+
+@ T4.2.4 | diagram | 120-121
+Q: Describe an agricultural price floor diagram and its effects on price and quantities.
+A: The floor Pf is a horizontal line above Pe. At Pf, quantity supplied (Qs) is greater than Qe and quantity demanded (Qd) is less than Qe, giving a surplus (excess supply) equal to the gap between Qs and Qd.
+
+@ T4.2.4 | diagram | 121
+Q: How does a government maintain an agricultural price floor, and how is this shown on the diagram?
+A: It buys the excess supply. This shifts the demand curve right to a new curve, 'D plus government purchases', which passes through the quantity supplied at Pf.
+
+@ T4.2.4 | explain | 122
+Q: Under an agricultural price floor, what would happen if the government did not buy the surplus?
+A: The price would fall back to equilibrium: farmers with unsold output would lower their price to sell the surplus.
+
+@ T4.2.4 | evaluation | 122
+Q: What can a government do with the surplus it buys under a price floor, and why is each option problematic?
+A: <b>Store it:</b> adds storage costs on top of the purchase cost.<br><b>Export it:</b> usually needs a subsidy to lower the price for foreign buyers, another cost.
+
+@ T4.2.4 | chain | 122
+Q: Why can a price floor lead to firm inefficiency?
+A: Price above equilibrium → high-cost, inefficient firms are protected from lower-cost competitors → weak incentive to cut costs or adopt more efficient methods → inefficient production.
+
+@ T4.2.4 | chain | 122
+Q: Why does an agricultural price floor cause allocative inefficiency?
+A: Price above equilibrium → quantity produced (Qs) exceeds the optimum (Qe) → too many resources allocated to the good (overallocation); at Qs, MB is less than MC, so society would be better off with less of the good.
+
+@ T4.2.4 | diagram | 122
+Q: On a price floor diagram, how is government spending on the surplus shown?
+A: As the rectangle whose height is the floor price Pf and whose width is the surplus (the gap between Qs and Qd).
+
+@ T4.2.4 | diagram | 122
+Q: Price floor diagram: how do consumer surplus and producer surplus change?
+A: Consumer surplus falls (consumers pay more and buy less). Producer surplus rises: producers gain area lost by consumers plus extra area from the larger quantity sold at the higher price.
+
+@ T4.2.4 | diagram evaluation | 122-123
+Q: Price floor with government purchases: why is there a welfare loss, and how is it found on the diagram?
+A: Consumer plus producer surplus rises by a small area, but government spending on the surplus (financed by taxes with opportunity costs) is a loss to society. Welfare loss is the part of the government spending rectangle not offset by that gain.
+
+@ T4.2.5 | stakeholders | 123
+Q: How are consumers affected by an agricultural price floor?
+A: Worse off: they pay a higher price (Pf above Pe) and buy a smaller quantity, losing consumer surplus.
+
+@ T4.2.5 | stakeholders | 123
+Q: How are farmers affected by an agricultural price floor when the government buys the surplus?
+A: Better off: a higher price and larger quantity sold raise their revenue (the main aim of the floor); they are also protected from low-cost competition, so inefficient producers are less likely to go out of business.
+
+@ T4.2.5 | stakeholders | 123
+Q: How are workers affected by an agricultural price floor?
+A: Likely to gain, as employment increases with the greater production of the good.
+
+@ T4.2.5 | stakeholders | 123
+Q: How is the government (and taxpayers) affected by an agricultural price floor?
+A: Buying the surplus burdens the budget, leaving less for other desirable spending; it is paid for out of taxes; and there are extra costs of storing the surplus or subsidising its export.
+
+@ T4.2.5 | chain stakeholders | 123
+Q: How can agricultural price floors in rich countries harm farmers in other countries?
+A: Surpluses exported → extra supply on world markets lowers world prices → farmers in countries without price supports must sell at low prices and cut production (underallocation), often hurting less developed countries.
+
+@ T4.2.5 | evaluation | 123
+Q: How do agricultural price floors cause a global misallocation of resources?
+A: They make high-cost (protected) producers produce more, and low-cost producers produce less, than the social optimum: a waste of resources.
+
+@ T4.2.5 | example | 123
+Q: Which economies rely on price floors for agricultural products to support their farmers?
+A: The European Union, the United States and many other more developed countries.
+
+@ T4.2.5 | evaluation | 126
+Q: If economists agree agricultural price floors are inefficient, why are they still used?
+A: Because of strong political pressure from farmers, who claim to need them for income support.
+
+@ T4.2.6 | definition | 125
+Q: What is a minimum wage?
+A: A legal minimum price of labour (wage rate) that employers must pay, set above the equilibrium wage to guarantee an adequate income to low-income, mostly unskilled, workers: a price floor in a resource market.
+
+@ T4.2.6 | diagram | 125
+Q: Describe a minimum wage diagram (labour market).
+A: Wage on the vertical axis, quantity of labour on the horizontal. Firms demand labour (D slopes down); workers supply it (S slopes up). The minimum wage Wm sits above equilibrium We: labour supplied (Qs) exceeds labour demanded (Qd), so there is a labour surplus.
+
+@ T4.2.6 | chain | 125
+Q: Explain the two sources of the unemployment created by a minimum wage.
+A: Wage above equilibrium → (1) firms demand less labour (Qe falls to Qd) and (2) work becomes more attractive, so more people supply labour (Qe rises to Qs, a movement up the supply curve) → labour surplus, i.e. unemployment, mostly of unskilled workers.
+
+@ T4.2.6 | explain | 125-126
+Q: Why might a minimum wage lead to illegal employment?
+A: Some workers, often illegal immigrants, may be willing to work for less than the legal minimum, so illegal employment below the minimum wage can arise.
+
+@ T4.2.6 | chain | 126
+Q: How does a minimum wage misallocate labour resources?
+A: It prevents a market-clearing wage → distorts the wage's signals and incentives for unskilled labour → industries relying heavily on unskilled workers hire less unskilled labour.
+
+@ T4.2.6 | chain | 126
+Q: How does a minimum wage cause misallocation in product markets?
+A: Higher labour costs for firms using unskilled workers → their product supply curves shift left → smaller output and higher prices of those products.
+
+@ T4.2.6 | stakeholders | 126
+Q: How are firms (employers) affected by a minimum wage?
+A: Worse off: higher labour costs raise their costs of production.
+
+@ T4.2.6 | stakeholders | 126
+Q: How are workers affected by a minimum wage?
+A: Mixed: those who keep their jobs gain a higher wage, but some lose their jobs (Qe minus Qd). Total unemployment (Qs minus Qd) is larger because more people seek work at the higher wage.
+
+@ T4.2.6 | stakeholders | 126
+Q: How are consumers affected by a minimum wage?
+A: Negatively: higher labour costs reduce product supply, giving higher product prices and lower quantities.
+
+@ T4.2.6 | evaluation | 126
+Q: Why are the employment effects of minimum wages controversial?
+A: A minimum wage set high relative to the market wage is likely to create some unemployment, but a large and growing number of studies find no effect, or even a positive effect, on total employment.
+
+@ T4.2.6 | evaluation | 126
+Q: How might firms respond to a minimum wage without cutting the number of workers?
+A: By keeping the same workforce but cutting non-wage benefits, such as paid holidays or sick leave.
+
+@ T4.2.6 | definition | 126
+Q: What is labour productivity?
+A: The amount of output produced per worker.
+
+@ T4.2.6 | chain evaluation | 126
+Q: How might a minimum wage increase labour productivity and even employment?
+A: Higher wage → workers feel motivated to work harder → labour productivity ↑ → some firms may hire more unskilled labour in response.
+
+@ T4.2.6 | evaluation | 126
+Q: Why do minimum wages keep strong political support despite the controversy about their effects?
+A: They are seen as promoting greater equity in income distribution; the debate is about what level the minimum wage should be, not whether to have one.
+
+@ T4.2.7 | example | 126
+Q: Give examples of prices that are fixed in advance and cannot respond to demand and supply.
+A: Ticket prices for theatres, cinemas and sports events, set ahead of time by the (private or public) organising body.
+
+@ T4.2.7 | diagram | 126
+Q: Diagram: a sports event with very high demand has a fixed ticket price below the equilibrium price. Describe the outcome.
+A: Supply is vertical (a fixed number of seats). Demand intersects supply above the fixed price, so at the fixed price there is a shortage of tickets (the horizontal gap between D and S).
+
+@ T4.2.7 | diagram | 126
+Q: Diagram: an event with low demand has a fixed ticket price above the equilibrium price. Describe the outcome.
+A: With a vertical supply curve and low demand, the equilibrium price is below the fixed price, so at the fixed price there is a surplus of unsold tickets.
