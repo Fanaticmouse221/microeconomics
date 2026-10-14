@@ -1,0 +1,101 @@
+# 2.4 Competitive market equilibrium (book p57-62)
+
+@ T2.4.1 | definition | 58
+Q: What is excess supply (a surplus)?
+A: A situation where, at a given price, quantity supplied is greater than quantity demanded. It occurs at prices above the equilibrium price.
+
+@ T2.4.1 | definition | 58
+Q: What is excess demand (a shortage)?
+A: A situation where, at a given price, quantity demanded is greater than quantity supplied. It occurs at prices below the equilibrium price.
+
+@ T2.4.1 | diagram | 58-59
+Q: On a demand and supply diagram, how is the size of a shortage or surplus at a given price shown?
+A: As the horizontal distance between the demand curve and the supply curve at that price.
+
+@ T2.4.1 | chain | 58
+Q: In a free market, how is a surplus (excess supply) eliminated?
+A: Unsold output → producers lower the price → quantity demanded ↑ and quantity supplied ↓ → downward pressure on price continues until quantity demanded equals quantity supplied and the surplus disappears.
+
+@ T2.4.1 | chain | 58
+Q: In a free market, how is a shortage (excess demand) eliminated?
+A: Goods sell out quickly → producers raise the price → quantity demanded ↓ and quantity supplied ↑ → upward pressure on price continues until the shortage disappears.
+
+@ T2.4.1 | definition | 58
+Q: In economics, what is equilibrium?
+A: A state of balance between different forces, such that there is no tendency to change.
+
+@ T2.4.1 | definition | 59
+Q: What is market equilibrium?
+A: The situation where quantity demanded equals quantity supplied: the forces of demand and supply are in balance and there is no tendency for the price to change.
+
+@ T2.4.1 | diagram | 59
+Q: How are equilibrium price and quantity shown on a demand and supply diagram?
+A: At the intersection of the demand and supply curves: read across to the vertical axis for the equilibrium (market) price and down to the horizontal axis for the equilibrium quantity.
+
+@ T2.4.1 | definition | 59
+Q: What is market disequilibrium?
+A: A situation at any price other than the equilibrium price, where there is excess demand (a shortage) or excess supply (a surplus).
+
+@ T2.4.1 | explain | 59
+Q: Why can't a market disequilibrium last in a free competitive market?
+A: The forces of demand and supply push the price to change (up when there is a shortage, down when there is a surplus) until it reaches its equilibrium level.
+
+@ T2.4.2 | explain | 59
+Q: Once a competitive market is in equilibrium, what can cause the equilibrium to change?
+A: Only a change in a non-price determinant of demand or supply, which shifts a curve; the market then adjusts to a new equilibrium.
+
+@ T2.4.2 | chain | 59
+Q: Consumer incomes rise and the good is normal. Explain how the market moves to a new equilibrium.
+A: Demand shifts right → at the original price, quantity demanded exceeds quantity supplied (shortage) → upward pressure on price → price ↑, moving up the supply curve until the shortage is eliminated → new equilibrium with a higher price and higher quantity.
+
+@ T2.4.2 | chain | 59-60
+Q: The number of consumers falls. Explain how the market moves to a new equilibrium.
+A: Demand shifts left → at the original price, quantity supplied exceeds quantity demanded (surplus) → downward pressure on price → price ↓, moving down the supply curve until the surplus is eliminated → new equilibrium with a lower price and lower quantity.
+
+@ T2.4.2 | chain | 60
+Q: An improvement in technology increases supply. Explain how the market moves to a new equilibrium.
+A: Supply shifts right → at the original price there is a surplus → price falls, moving down the demand curve until the surplus is eliminated → new equilibrium with a lower price and higher quantity.
+
+@ T2.4.2 | chain | 60
+Q: The number of firms in an industry falls. Explain how the market moves to a new equilibrium.
+A: Supply shifts left → at the original price there is a shortage → price rises, moving up the demand curve until the shortage is eliminated → new equilibrium with a higher price and lower quantity.
+
+@ T2.4.3 | diagram | 59
+Q: Diagram: the demand curve shifts right while supply is unchanged. What happens to equilibrium price and quantity?
+A: Both rise: the new intersection is further up the supply curve (higher P, higher Q).
+
+@ T2.4.3 | diagram | 59-60
+Q: Diagram: the demand curve shifts left while supply is unchanged. What happens to equilibrium price and quantity?
+A: Both fall: the new intersection is further down the supply curve (lower P, lower Q).
+
+@ T2.4.3 | diagram | 60
+Q: Diagram: the supply curve shifts right while demand is unchanged. What happens to equilibrium price and quantity?
+A: Price falls and quantity rises: the new intersection is further down the demand curve.
+
+@ T2.4.3 | diagram | 60
+Q: Diagram: the supply curve shifts left while demand is unchanged. What happens to equilibrium price and quantity?
+A: Price rises and quantity falls: the new intersection is further up the demand curve.
+
+@ T2.4.3 | diagram example | 61
+Q: Science showed that avocados are rich in healthy fats. Using demand and supply, explain what happened to avocado prices.
+A: Tastes changed in favour of avocados → demand shifts right → shortage at the old price → price ↑ → new equilibrium with a higher price and quantity (world consumption and prices rose).
+
+@ T2.4.3 | diagram example | 61
+Q: The very hot UK summer of 2018 cut potato crops by about one-third. Using demand and supply, explain the effect on the price of potato chips (crisps).
+A: Weather shock → fewer, dearer potatoes (a key input) → supply of chips shifts left → shortage at the old price → price of chips ↑ and quantity ↓.
+
+@ T2.4.3 | distinguish | 60
+Q: Distinguish between free goods and economic goods in terms of scarcity and opportunity cost.
+A: <b>Free goods:</b> not scarce; zero opportunity cost.<br><b>Economic goods:</b> scarce; opportunity cost greater than zero.
+
+@ T2.4.3 | diagram | 60
+Q: Using demand and supply, define a free good.
+A: A good for which quantity supplied is greater than quantity demanded at a zero price: supply is so large relative to demand that there is excess quantity supplied even when the price is zero.
+
+@ T2.4.3 | diagram | 60
+Q: Using demand and supply, define an economic good.
+A: A good for which quantity supplied is smaller than quantity demanded at a zero price, so demand and supply intersect at a price above zero.
+
+@ T2.4.3 | diagram | 60
+Q: How can a free good become an economic good? Describe the curve shifts.
+A: A leftward shift of supply (reduced supply) and/or a rightward shift of demand (increased demand) until the curves intersect at a price above zero.

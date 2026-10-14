@@ -1,0 +1,178 @@
+# 2.5 The role of the price mechanism and market efficiency (book p62-70)
+# Excluded: "calculate consumer and producer surplus from a diagram" (p68-69) - calculation. TOK 2.1 (p71) excluded.
+
+@ T2.5.1 | definition | 63
+Q: What is the price mechanism?
+A: The system in which prices, determined by the forces of demand and supply in competitive markets, allocate resources and ration goods.
+
+@ T2.5.1 | explain | 63
+Q: In a market economy, how is the 'what/how much to produce' question of resource allocation answered?
+A: Through prices in free markets: firms produce only the goods consumers are willing and able to buy, and consumers buy only the goods producers are willing and able to supply.
+
+@ T2.5.1 | explain | 63
+Q: In a market economy, how is the 'how to produce' question of resource allocation answered?
+A: Through prices: firms use the resources and technologies in production that they are willing and able to pay for.
+
+@ T2.5.1 | definition | 63
+Q: What is the 'invisible hand' of the market?
+A: Adam Smith's phrase for the market mechanism working through prices, which coordinates the buying and selling decisions of millions of decision-makers without any central authority.
+
+@ T2.5.1 | definition | 63
+Q: What is the signalling function of prices?
+A: Prices communicate information to decision-makers, e.g. a rising price signals to producers that a shortage has emerged.
+
+@ T2.5.1 | definition | 63
+Q: What is the incentive function of prices?
+A: Prices motivate decision-makers to respond to the information they convey, e.g. a higher price motivates producers to supply more (it is more profitable) and consumers to buy less.
+
+@ T2.5.1 | chain | 63-64
+Q: Consumers want more strawberries because of their health benefits. Explain how price signals and incentives reallocate resources.
+A: Demand ↑ → shortage at the old price → price ↑ → signals the shortage to producers and gives them an incentive to supply more (movement up S) → higher price also signals consumers to buy less than they would at the old price (movement along new D) → more resources allocated to strawberries (answers 'what to produce').
+
+@ T2.5.1 | chain | 64
+Q: Immigration increases the supply of labour. Explain how the wage acts as a signal and incentive that reallocates resources.
+A: Labour supply ↑ → surplus of labour at the old wage → wage ↓ → signals the surplus to firms and gives them an incentive to hire more labour (movement down D) → lower wage signals workers to offer less labour (movement along new S) → firms produce with more labour (answers 'how to produce').
+
+@ T2.5.1 | explain | 64
+Q: Why does the demand curve for labour slope downward and the supply curve of labour slope upward?
+A: <b>Demand:</b> as the wage falls, firms are prompted to hire more labour.<br><b>Supply:</b> the higher the wage, the more willing workers are to supply their labour.
+
+@ T2.5.2 | definition | 65
+Q: What is rationing?
+A: A method of apportioning (parcelling out) goods and services among consumers or households.
+
+@ T2.5.2 | definition | 65
+Q: What is price rationing?
+A: Allocating goods by prices freely determined in markets: everyone willing and able to pay the price gets the good, and those not willing or able to pay do not. Price alone decides.
+
+@ T2.5.2 | explain | 65
+Q: Why does price rationing at the equilibrium price satisfy all buyers and sellers?
+A: At the market-determined equilibrium price and quantity, the buying and selling choices of all buyers and sellers in the market are satisfied and in balance.
+
+@ T2.5.2 | explain | 65
+Q: When do non-price rationing systems come into play?
+A: When the price mechanism is not working properly, e.g. in planned economies or when governments impose price controls.
+
+@ T2.5.2 | definition | 65
+Q: What is the most common non-price rationing method?
+A: The waiting line (queue), where consumers get the good on a first come, first served basis.
+
+@ T2.5.2 | distinguish | 65
+Q: Distinguish between price rationing and non-price rationing.
+A: <b>Price rationing:</b> goods go to those willing and able to pay the market price.<br><b>Non-price rationing:</b> goods are apportioned by other means (e.g. queues) when prices are not allowed to do the job.
+
+@ T2.5.3 | definition | 65-66
+Q: What is marginal benefit?
+A: The extra benefit (satisfaction) a consumer gets from consuming one more unit of a good. It falls as more units are consumed.
+
+@ T2.5.3 | explain | 66
+Q: Why can the demand curve also be called a marginal benefit (MB) curve?
+A: It shows what consumers are willing to pay for one more unit. Since marginal benefit falls as quantity consumed rises, consumers buy an extra unit only if its price falls.
+
+@ T2.5.3 | distinguish | 66
+Q: Distinguish between marginal utility and marginal benefit.
+A: <b>Marginal utility:</b> extra satisfaction from one more unit; it cannot actually be measured.<br><b>Marginal benefit:</b> interpreted as the consumer's willingness to pay for the last unit bought (its price), so it is measurable.
+
+@ T2.5.3 | explain | 66
+Q: Why can the supply curve also be called a marginal cost (MC) curve?
+A: It shows the price firms are willing to accept to produce one more unit. Since marginal cost rises as output rises, firms produce an extra unit only if its price rises.
+
+@ T2.5.3 | definition | 67
+Q: Define consumer surplus.
+A: The highest price consumers are willing to pay for a good minus the price they actually pay.
+
+@ T2.5.3 | diagram | 67
+Q: Where is consumer surplus shown on a demand and supply diagram?
+A: The area under the demand curve and above the price paid, up to the quantity purchased.
+
+@ T2.5.3 | explain | 67
+Q: What does consumer surplus represent?
+A: The extra benefit consumers receive over and above what they pay: many consumers were willing to pay more than the market price but got the good for less.
+
+@ T2.5.3 | definition | 67
+Q: Define producer surplus.
+A: The price firms receive for selling a good minus the lowest price they are willing to accept to produce it.
+
+@ T2.5.3 | diagram | 67
+Q: Where is producer surplus shown on a demand and supply diagram?
+A: The area above the supply curve and below the price received, up to the quantity produced and sold.
+
+@ T2.5.3 | explain | 67
+Q: What does producer surplus represent?
+A: The benefit firms gain over and above the lowest price they would have accepted: firms willing to supply at lower prices actually received the higher market price.
+
+@ T2.5.3 | definition | 68
+Q: What is social surplus (community surplus)?
+A: The sum of consumer surplus and producer surplus.
+
+@ T2.5.3 | explain | 69
+Q: Why are consumer and producer surplus expressed in money terms?
+A: They measure the monetary value of the benefit gained by consumers and producers.
+
+@ T2.5.3 | distinguish | 68
+Q: 'Surplus' is used in two senses in microeconomics. What are they, and how can you tell them apart?
+A: (1) Excess supply (quantity supplied exceeds quantity demanded). (2) Benefits gained by consumers and producers (consumer, producer, social surplus). Used on its own, 'surplus' means excess supply.
+
+@ T2.5.4 | diagram | 67-68
+Q: Describe a diagram showing maximum social surplus at competitive market equilibrium.
+A: D (MB) slopes down and S (MC) slopes up, intersecting at Pe and Qe. Consumer surplus: area between D and the price line Pe, up to Qe. Producer surplus: area between Pe and S, up to Qe. Together, the whole area between D and S up to Qe is social surplus, which is maximum.
+
+@ T2.5.4 | diagram | 68
+Q: Why is social surplus smaller if less than the equilibrium quantity is produced?
+A: Social surplus is then only the area between the demand and supply curves up to the smaller output, so the area between the curves from that output to Qe is lost.
+
+@ T2.5.5 | definition | 65
+Q: Broadly, what does efficiency mean in economics?
+A: Making the best possible use of scarce resources.
+
+@ T2.5.5 | definition | 65
+Q: What is allocative efficiency?
+A: Producing the quantity of goods mostly wanted by society: resources are allocated so that society gets the most benefit from consumption. It answers the 'what/how much to produce' question in the best possible way.
+
+@ T2.5.5 | explain | 66
+Q: What does MB = MC mean at competitive market equilibrium?
+A: The extra benefit to society of one more unit equals the extra cost to society of producing it, so society allocates the 'right' amount of resources to the good and produces the quantity it most wants: allocative efficiency.
+
+@ T2.5.5 | explain | 66
+Q: If marginal benefit exceeds marginal cost for the last unit produced, what should happen to output, and why?
+A: Output should increase: society values the last unit more than it costs to produce.
+
+@ T2.5.5 | explain | 66
+Q: If marginal cost exceeds marginal benefit for the last unit produced, what should happen to output, and why?
+A: Output should decrease: the last unit costs society more to produce than the value society places on it.
+
+@ T2.5.5 | explain | 67
+Q: For allocative efficiency to be achieved in an entire economy, what condition must hold?
+A: MB = MC must hold in all markets.
+
+@ T2.5.5 | explain | 68
+Q: What are the two equivalent conditions for allocative efficiency at competitive market equilibrium?
+A: (1) Marginal benefit equals marginal cost (MB = MC). (2) Social surplus (consumer plus producer surplus) is at its maximum.
+
+@ T2.5.5 | definition | 68
+Q: In economics, what does 'welfare' refer to, and when is social welfare at its maximum?
+A: Welfare is the amount of consumer and producer surplus. Social welfare is maximised when social surplus is maximum, i.e. where MB = MC in competitive markets.
+
+@ T2.5.5 | explain | 69
+Q: What was Adam Smith's idea about self-interest, markets and society's interest?
+A: Individuals acting in their own self-interest will, through the workings of markets, produce an outcome in society's best interest: markets coordinate countless decisions without central authority while promoting the best allocation of scarce resources.
+
+@ T2.5.5 | definition | 70
+Q: What is welfare loss (deadweight loss)?
+A: The loss of social surplus that occurs when markets fail to achieve allocative efficiency, so social welfare is no longer at its maximum.
+
+@ T2.5.5 | evaluation | 70
+Q: How does market failure call into question the idea that governments should not intervene in markets?
+A: Competitive market efficiency needs very strict, unrealistic conditions that are practically never met, so real markets fail to achieve allocative efficiency (welfare loss), which justifies government intervention.
+
+@ T2.5.5 | evaluation | 70
+Q: How does income distribution call into question the idea that governments should not intervene in markets?
+A: The competitive market cannot give a satisfactory answer to the 'for whom to produce' question (distribution of output and income), which invites government intervention.
+
+@ T2.5.5 | evaluation | 70
+Q: If competitive markets are rare in reality, why is the competitive market model still useful for assessing outcomes and policies?
+A: It provides a standard of economic efficiency against which real, less-than-efficient outcomes can be judged, and against which government policies can be assessed for their efficiency consequences.
+
+@ T2.5.5 | evaluation | 70
+Q: How does the competitive market model guide government policy design?
+A: It forms the basis for policies that try to create real-world conditions that allow economies to come closer to achieving economic efficiency.

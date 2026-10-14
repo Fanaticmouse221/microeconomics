@@ -1,0 +1,2072 @@
+{
+ "sections": {
+  "2.1": {
+   "topic": "competitive_markets",
+   "title": "Introduction to competitive markets"
+  },
+  "2.2": {
+   "topic": "demand",
+   "title": "Demand"
+  },
+  "2.3": {
+   "topic": "supply",
+   "title": "Supply"
+  },
+  "2.4": {
+   "topic": "market_equilibrium",
+   "title": "Competitive market equilibrium: demand and supply"
+  },
+  "2.5": {
+   "topic": "price_mechanism",
+   "title": "The role of the price mechanism and market efficiency"
+  },
+  "2.6": {
+   "topic": "behavioural_economics",
+   "title": "Critique of the maximising behaviour of consumers and producers (HL)"
+  },
+  "3.1": {
+   "topic": "PED",
+   "title": "Price elasticity of demand (PED)"
+  },
+  "3.2": {
+   "topic": "YED",
+   "title": "Income elasticity of demand (YED)"
+  },
+  "3.3": {
+   "topic": "PES",
+   "title": "Price elasticity of supply (PES)"
+  },
+  "4.1": {
+   "topic": "govt_intervention",
+   "title": "Government intervention in markets"
+  },
+  "4.2": {
+   "topic": "price_controls",
+   "title": "Price controls"
+  },
+  "4.3": {
+   "topic": "indirect_taxes",
+   "title": "Indirect taxes"
+  },
+  "4.4": {
+   "topic": "subsidies",
+   "title": "Subsidies"
+  },
+  "5.1": {
+   "topic": "common_pool_resources",
+   "title": "The meaning of common pool resources"
+  },
+  "5.2": {
+   "topic": "externalities_intro",
+   "title": "Market failure and externalities: diverging private and social benefits and costs"
+  },
+  "5.3": {
+   "topic": "negative_production_externalities",
+   "title": "Negative production externalities"
+  },
+  "5.4": {
+   "topic": "negative_consumption_externalities",
+   "title": "Negative consumption externalities"
+  },
+  "6.1": {
+   "topic": "positive_production_externalities",
+   "title": "Positive production externalities"
+  },
+  "6.2": {
+   "topic": "positive_consumption_externalities",
+   "title": "Positive consumption externalities"
+  },
+  "6.3": {
+   "topic": "public_goods",
+   "title": "Market failure and public goods"
+  },
+  "6.4": {
+   "topic": "asymmetric_information",
+   "title": "Asymmetric information (HL)"
+  },
+  "6.5": {
+   "topic": "equity_distribution",
+   "title": "Equity in the distribution of income and wealth (HL)"
+  },
+  "7.1": {
+   "topic": "market_structures",
+   "title": "Introduction to firms, industries and market structures (HL)"
+  },
+  "7.2": {
+   "topic": "costs_revenue_profit",
+   "title": "Profit maximisation by the rational producer (HL)"
+  },
+  "7.3": {
+   "topic": "perfect_competition",
+   "title": "Perfect competition (HL)"
+  },
+  "7.4": {
+   "topic": "monopoly",
+   "title": "Monopoly (HL)"
+  },
+  "7.5": {
+   "topic": "monopolistic_competition",
+   "title": "Monopolistic competition (HL)"
+  },
+  "7.6": {
+   "topic": "oligopoly",
+   "title": "Oligopoly (HL)"
+  },
+  "7.7": {
+   "topic": "abuse_of_market_power",
+   "title": "Government intervention in response to abuse of market power (HL)"
+  }
+ },
+ "items": {
+  "T2.1.1": {
+   "desc": "Define a market; local, national and international markets; product and resource markets",
+   "section": "2.1",
+   "topic": "competitive_markets",
+   "count": 4,
+   "pages": [
+    42
+   ],
+   "own_knowledge": false
+  },
+  "T2.1.2": {
+   "desc": "Outline the meaning of a competitive market (competition vs market power)",
+   "section": "2.1",
+   "topic": "competitive_markets",
+   "count": 5,
+   "pages": [
+    42
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.1": {
+   "desc": "Explain the law of demand (individual demand, ceteris paribus, demand schedule)",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 6,
+   "pages": [
+    43,
+    44
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.2": {
+   "desc": "Draw a demand curve",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 2,
+   "pages": [
+    44
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.3": {
+   "desc": "Explain the relationship between individual demand and market demand",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 3,
+   "pages": [
+    44,
+    45
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.4": {
+   "desc": "Analyse the non-price determinants of demand as causes of demand curve shifts",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 16,
+   "pages": [
+    45,
+    46
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.5": {
+   "desc": "Using diagrams, distinguish between movements along and shifts of the demand curve",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 5,
+   "pages": [
+    47
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.6": {
+   "desc": "(HL) Assumptions underlying the law of demand: the law of diminishing marginal utility",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 7,
+   "pages": [
+    47,
+    48
+   ],
+   "own_knowledge": false
+  },
+  "T2.2.7": {
+   "desc": "(HL) Assumptions underlying the law of demand: the income and substitution effects",
+   "section": "2.2",
+   "topic": "demand",
+   "count": 6,
+   "pages": [
+    48,
+    49
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.1": {
+   "desc": "Explain the law of supply (individual supply, supply schedule)",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 5,
+   "pages": [
+    49,
+    50
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.2": {
+   "desc": "Draw a supply curve (including the vertical supply curve)",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 5,
+   "pages": [
+    50,
+    51
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.3": {
+   "desc": "Explain the relationship between individual supply and market supply",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 2,
+   "pages": [
+    50,
+    51
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.4": {
+   "desc": "Analyse the non-price determinants of supply as causes of supply curve shifts",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 15,
+   "pages": [
+    51,
+    52,
+    53
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.5": {
+   "desc": "Using diagrams, distinguish between movements along and shifts of the supply curve",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 3,
+   "pages": [
+    52,
+    53
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.6": {
+   "desc": "(HL) Assumptions underlying the law of supply: the law of diminishing marginal returns",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 11,
+   "pages": [
+    54,
+    55,
+    56
+   ],
+   "own_knowledge": false
+  },
+  "T2.3.7": {
+   "desc": "(HL) Assumptions underlying the law of supply: increasing marginal costs and the firm's supply curve",
+   "section": "2.3",
+   "topic": "supply",
+   "count": 8,
+   "pages": [
+    55,
+    56,
+    57
+   ],
+   "own_knowledge": false
+  },
+  "T2.4.1": {
+   "desc": "Draw a diagram to illustrate how demand and supply interact to determine market equilibrium",
+   "section": "2.4",
+   "topic": "market_equilibrium",
+   "count": 10,
+   "pages": [
+    58,
+    59
+   ],
+   "own_knowledge": false
+  },
+  "T2.4.2": {
+   "desc": "Analyse demand and supply curve shifts that give rise to a new equilibrium, using excess demand (shortage) and excess supply (surplus)",
+   "section": "2.4",
+   "topic": "market_equilibrium",
+   "count": 5,
+   "pages": [
+    59,
+    60
+   ],
+   "own_knowledge": false
+  },
+  "T2.4.3": {
+   "desc": "Draw diagrams to illustrate how shifts in demand and supply give rise to a new equilibrium (incl. free and economic goods)",
+   "section": "2.4",
+   "topic": "market_equilibrium",
+   "count": 10,
+   "pages": [
+    59,
+    60,
+    61
+   ],
+   "own_knowledge": false
+  },
+  "T2.5.1": {
+   "desc": "Analyse the price mechanism: resource allocation through the signalling and incentive functions of prices",
+   "section": "2.5",
+   "topic": "price_mechanism",
+   "count": 9,
+   "pages": [
+    63,
+    64
+   ],
+   "own_knowledge": false
+  },
+  "T2.5.2": {
+   "desc": "Analyse the price mechanism: rationing (price and non-price rationing)",
+   "section": "2.5",
+   "topic": "price_mechanism",
+   "count": 6,
+   "pages": [
+    65
+   ],
+   "own_knowledge": false
+  },
+  "T2.5.3": {
+   "desc": "Explain consumer surplus, producer surplus and social (community) surplus (MB and MC interpretation of demand and supply)",
+   "section": "2.5",
+   "topic": "price_mechanism",
+   "count": 13,
+   "pages": [
+    65,
+    66,
+    67,
+    68,
+    69
+   ],
+   "own_knowledge": false
+  },
+  "T2.5.4": {
+   "desc": "Draw a diagram showing maximum social surplus at competitive market equilibrium",
+   "section": "2.5",
+   "topic": "price_mechanism",
+   "count": 2,
+   "pages": [
+    67,
+    68
+   ],
+   "own_knowledge": false
+  },
+  "T2.5.5": {
+   "desc": "Explain the conditions for allocative efficiency at competitive market equilibrium (MB = MC, maximum social surplus) and why intervention may still be needed",
+   "section": "2.5",
+   "topic": "price_mechanism",
+   "count": 14,
+   "pages": [
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.1": {
+   "desc": "Evaluate the assumptions of consumer rationality, utility maximisation and perfect information",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 10,
+   "pages": [
+    72,
+    73,
+    75
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.2": {
+   "desc": "Behavioural critique: biases (rules of thumb, anchoring, framing, availability)",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 8,
+   "pages": [
+    73
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.3": {
+   "desc": "Behavioural critique: bounded rationality, bounded self-control, bounded selfishness, imperfect information",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 7,
+   "pages": [
+    74
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.4": {
+   "desc": "Policies inspired by behavioural economics: nudge theory",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 12,
+   "pages": [
+    75,
+    76,
+    83
+   ],
+   "own_knowledge": true
+  },
+  "T2.6.5": {
+   "desc": "Policies inspired by behavioural economics: choice architecture (default, restricted and mandated choice)",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 13,
+   "pages": [
+    76,
+    77,
+    78
+   ],
+   "own_knowledge": true
+  },
+  "T2.6.6": {
+   "desc": "Evaluate behavioural economics and its policies (mainstream response, advantages, disadvantages)",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 15,
+   "pages": [
+    78,
+    79
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.7": {
+   "desc": "Business objectives: profit maximisation",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 2,
+   "pages": [
+    79
+   ],
+   "own_knowledge": false
+  },
+  "T2.6.8": {
+   "desc": "Alternative business objectives: corporate social responsibility, market share, growth, satisficing (and revenue maximisation)",
+   "section": "2.6",
+   "topic": "behavioural_economics",
+   "count": 25,
+   "pages": [
+    79,
+    80,
+    81
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.1": {
+   "desc": "Define PED and identify the various degrees and range of values for PED (sign, use of percentages)",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 16,
+   "pages": [
+    84,
+    85,
+    86,
+    87,
+    88,
+    109
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.2": {
+   "desc": "Draw diagrams showing the range of values for PED (relatively elastic and inelastic; perfectly elastic, perfectly inelastic, unitary) and PED versus steepness",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 7,
+   "pages": [
+    87,
+    88,
+    89
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.3": {
+   "desc": "(HL) Explain and illustrate changing PED along a straight-line downward-sloping demand curve",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 5,
+   "pages": [
+    90
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.4": {
+   "desc": "Analyse the determinants of PED",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 10,
+   "pages": [
+    91,
+    92
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.5": {
+   "desc": "Explain the relationship between PED and total revenue",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 7,
+   "pages": [
+    92,
+    93,
+    94
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.6": {
+   "desc": "Draw a diagram to show how total revenue changes in response to a price change with elastic, inelastic or unit elastic demand",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 4,
+   "pages": [
+    93
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.7": {
+   "desc": "Apply PED: its importance for firms (pricing) and government decision-making (indirect taxes)",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 5,
+   "pages": [
+    94,
+    95
+   ],
+   "own_knowledge": false
+  },
+  "T3.1.8": {
+   "desc": "(HL) Analyse why primary commodities generally have a lower PED than manufactured products (and the consequences for prices and producer revenues)",
+   "section": "3.1",
+   "topic": "PED",
+   "count": 13,
+   "pages": [
+    96,
+    97
+   ],
+   "own_knowledge": false
+  },
+  "T3.2.1": {
+   "desc": "Define YED and, depending on the sign of YED, distinguish between normal and inferior goods",
+   "section": "3.2",
+   "topic": "YED",
+   "count": 6,
+   "pages": [
+    85,
+    98,
+    99
+   ],
+   "own_knowledge": false
+  },
+  "T3.2.2": {
+   "desc": "Depending on the value of YED (less than or greater than one), distinguish between necessities, luxuries and services",
+   "section": "3.2",
+   "topic": "YED",
+   "count": 9,
+   "pages": [
+    99
+   ],
+   "own_knowledge": false
+  },
+  "T3.2.3": {
+   "desc": "Draw an Engel curve diagram to show income elastic, income inelastic and inferior goods",
+   "section": "3.2",
+   "topic": "YED",
+   "count": 5,
+   "pages": [
+    100,
+    101
+   ],
+   "own_knowledge": false
+  },
+  "T3.2.4": {
+   "desc": "(HL) Apply YED: discuss its relevance to firms",
+   "section": "3.2",
+   "topic": "YED",
+   "count": 4,
+   "pages": [
+    101,
+    102
+   ],
+   "own_knowledge": false
+  },
+  "T3.2.5": {
+   "desc": "(HL) Apply YED: discuss changes in the sectoral structure of an economy",
+   "section": "3.2",
+   "topic": "YED",
+   "count": 8,
+   "pages": [
+    102,
+    103
+   ],
+   "own_knowledge": false
+  },
+  "T3.3.1": {
+   "desc": "Define PES and identify the various degrees and range of values for PES",
+   "section": "3.3",
+   "topic": "PES",
+   "count": 10,
+   "pages": [
+    104,
+    105,
+    106,
+    110
+   ],
+   "own_knowledge": false
+  },
+  "T3.3.2": {
+   "desc": "Draw diagrams showing the range of values for PES (relatively elastic and inelastic; perfectly elastic, perfectly inelastic, unitary)",
+   "section": "3.3",
+   "topic": "PES",
+   "count": 6,
+   "pages": [
+    105,
+    106
+   ],
+   "own_knowledge": false
+  },
+  "T3.3.3": {
+   "desc": "Analyse the determinants of PES",
+   "section": "3.3",
+   "topic": "PES",
+   "count": 6,
+   "pages": [
+    107
+   ],
+   "own_knowledge": false
+  },
+  "T3.3.4": {
+   "desc": "(HL) Apply PES: why primary commodities generally have a lower PES than manufactured products (and the consequences)",
+   "section": "3.3",
+   "topic": "PES",
+   "count": 7,
+   "pages": [
+    108,
+    109
+   ],
+   "own_knowledge": false
+  },
+  "T4.1.1": {
+   "desc": "Outline key reasons why governments intervene in markets (incl. the Real world issue 2 overview)",
+   "section": "4.1",
+   "topic": "govt_intervention",
+   "count": 17,
+   "pages": [
+    111,
+    113,
+    114
+   ],
+   "own_knowledge": false
+  },
+  "T4.1.2": {
+   "desc": "Outline the forms government intervention takes at the microeconomic level",
+   "section": "4.1",
+   "topic": "govt_intervention",
+   "count": 3,
+   "pages": [
+    114
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.1": {
+   "desc": "Price controls: meaning, and why they cause persistent market disequilibrium",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 3,
+   "pages": [
+    114,
+    115
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.2": {
+   "desc": "Price ceilings: explain and draw the consequences for markets (shortage, non-price rationing, underground markets, underallocation, welfare loss)",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 12,
+   "pages": [
+    115,
+    116,
+    117
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.3": {
+   "desc": "Price ceilings: consequences for stakeholders and evaluation (incl. rent controls and food price controls)",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 15,
+   "pages": [
+    117,
+    118
+   ],
+   "own_knowledge": true
+  },
+  "T4.2.4": {
+   "desc": "Price floors for agricultural products: explain and draw the consequences for markets (surplus, government purchases, firm inefficiency, overallocation, welfare loss)",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 14,
+   "pages": [
+    120,
+    121,
+    122,
+    123
+   ],
+   "own_knowledge": false
+  },
+  "T4.2.5": {
+   "desc": "Price floors for agricultural products: consequences for stakeholders and evaluation",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 9,
+   "pages": [
+    123,
+    126
+   ],
+   "own_knowledge": true
+  },
+  "T4.2.6": {
+   "desc": "Minimum wages: explain and draw the consequences for the economy and stakeholders, and evaluate",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 15,
+   "pages": [
+    125,
+    126
+   ],
+   "own_knowledge": true
+  },
+  "T4.2.7": {
+   "desc": "Fixed prices (e.g. event tickets)",
+   "section": "4.2",
+   "topic": "price_controls",
+   "count": 3,
+   "pages": [
+    126
+   ],
+   "own_knowledge": false
+  },
+  "T4.3.1": {
+   "desc": "The meaning of indirect taxes: excise and general taxes, indirect versus direct, specific versus ad valorem",
+   "section": "4.3",
+   "topic": "indirect_taxes",
+   "count": 8,
+   "pages": [
+    127,
+    128
+   ],
+   "own_knowledge": true
+  },
+  "T4.3.2": {
+   "desc": "Indirect taxes and resource allocation; why governments impose indirect taxes",
+   "section": "4.3",
+   "topic": "indirect_taxes",
+   "count": 7,
+   "pages": [
+    127,
+    128
+   ],
+   "own_knowledge": true
+  },
+  "T4.3.3": {
+   "desc": "Draw diagrams and explain the impacts of a specific tax on market outcomes",
+   "section": "4.3",
+   "topic": "indirect_taxes",
+   "count": 7,
+   "pages": [
+    128,
+    129,
+    133
+   ],
+   "own_knowledge": false
+  },
+  "T4.3.4": {
+   "desc": "Explain the consequences of indirect taxes for stakeholders",
+   "section": "4.3",
+   "topic": "indirect_taxes",
+   "count": 5,
+   "pages": [
+    129
+   ],
+   "own_knowledge": true
+  },
+  "T4.3.5": {
+   "desc": "Evaluate indirect taxes: consumer and producer surplus, welfare loss and allocative inefficiency",
+   "section": "4.3",
+   "topic": "indirect_taxes",
+   "count": 4,
+   "pages": [
+    130
+   ],
+   "own_knowledge": false
+  },
+  "T4.4.1": {
+   "desc": "The meaning of subsidies; subsidies and the allocation of resources",
+   "section": "4.4",
+   "topic": "subsidies",
+   "count": 5,
+   "pages": [
+    134
+   ],
+   "own_knowledge": false
+  },
+  "T4.4.2": {
+   "desc": "Why governments grant subsidies (and why subsidies are controversial)",
+   "section": "4.4",
+   "topic": "subsidies",
+   "count": 8,
+   "pages": [
+    134,
+    135
+   ],
+   "own_knowledge": false
+  },
+  "T4.4.3": {
+   "desc": "Draw diagrams and explain the impacts of a subsidy on market outcomes",
+   "section": "4.4",
+   "topic": "subsidies",
+   "count": 4,
+   "pages": [
+    135
+   ],
+   "own_knowledge": false
+  },
+  "T4.4.4": {
+   "desc": "Explain the consequences of subsidies for stakeholders",
+   "section": "4.4",
+   "topic": "subsidies",
+   "count": 6,
+   "pages": [
+    135,
+    136,
+    137
+   ],
+   "own_knowledge": false
+  },
+  "T4.4.5": {
+   "desc": "Evaluate subsidies: consumer and producer surplus, welfare loss and allocative inefficiency",
+   "section": "4.4",
+   "topic": "subsidies",
+   "count": 6,
+   "pages": [
+    136,
+    137,
+    138
+   ],
+   "own_knowledge": false
+  },
+  "T5.1.1": {
+   "desc": "Explain the meaning of common pool resources in terms of rivalry and non-excludability",
+   "section": "5.1",
+   "topic": "common_pool_resources",
+   "count": 9,
+   "pages": [
+    144,
+    145
+   ],
+   "own_knowledge": false
+  },
+  "T5.1.2": {
+   "desc": "Explain the tragedy of the commons",
+   "section": "5.1",
+   "topic": "common_pool_resources",
+   "count": 3,
+   "pages": [
+    145
+   ],
+   "own_knowledge": false
+  },
+  "T5.1.3": {
+   "desc": "Explain the meaning of sustainable and unsustainable production (maximum sustainable yield; renewable and non-renewable resources)",
+   "section": "5.1",
+   "topic": "common_pool_resources",
+   "count": 13,
+   "pages": [
+    145,
+    146,
+    147
+   ],
+   "own_knowledge": false
+  },
+  "T5.2.1": {
+   "desc": "Explain market failure as the failure of the market to achieve allocative efficiency",
+   "section": "5.2",
+   "topic": "externalities_intro",
+   "count": 3,
+   "pages": [
+    147,
+    148
+   ],
+   "own_knowledge": false
+  },
+  "T5.2.2": {
+   "desc": "Explain that socially optimum output is produced when MSC = MSB and social surplus is maximum (MPB, MSB, MPC, MSC)",
+   "section": "5.2",
+   "topic": "externalities_intro",
+   "count": 8,
+   "pages": [
+    148,
+    149
+   ],
+   "own_knowledge": false
+  },
+  "T5.2.3": {
+   "desc": "Draw a diagram illustrating allocative efficiency and socially optimum output",
+   "section": "5.2",
+   "topic": "externalities_intro",
+   "count": 2,
+   "pages": [
+    148,
+    149
+   ],
+   "own_knowledge": false
+  },
+  "T5.2.4": {
+   "desc": "Explain the meaning of externalities as an example of market failure",
+   "section": "5.2",
+   "topic": "externalities_intro",
+   "count": 5,
+   "pages": [
+    148,
+    149
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.1": {
+   "desc": "Explain negative externalities of production (MSC above MPC) and the resulting overallocation",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 7,
+   "pages": [
+    150,
+    151,
+    161,
+    162
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.2": {
+   "desc": "Explain and draw the welfare loss from negative production externalities",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 3,
+   "pages": [
+    151
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.3": {
+   "desc": "Explain that negative production externalities can illustrate the overuse of common pool resources",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 3,
+   "pages": [
+    152
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.4": {
+   "desc": "Government responses: indirect (Pigouvian) taxes (explain, diagram)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 5,
+   "pages": [
+    128,
+    152,
+    153
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.5": {
+   "desc": "Government responses: carbon taxes (explain, diagram)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 7,
+   "pages": [
+    153,
+    154
+   ],
+   "own_knowledge": true
+  },
+  "T5.3.6": {
+   "desc": "Government responses: tradable permits / cap and trade (explain, diagram)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 9,
+   "pages": [
+    154
+   ],
+   "own_knowledge": true
+  },
+  "T5.3.7": {
+   "desc": "Evaluate market-based policies (measurement difficulties, effectiveness, stakeholders; carbon taxes versus tradable permits)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 27,
+   "pages": [
+    154,
+    155,
+    156,
+    157
+   ],
+   "own_knowledge": true
+  },
+  "T5.3.8": {
+   "desc": "Government responses: legislation and regulation (explain, diagram, evaluate)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 14,
+   "pages": [
+    157,
+    158,
+    161,
+    162
+   ],
+   "own_knowledge": true
+  },
+  "T5.3.9": {
+   "desc": "Government responses: collective self-governance (Ostrom) (explain, evaluate)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 6,
+   "pages": [
+    159,
+    160
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.10": {
+   "desc": "Government responses: education and awareness creation (explain, evaluate)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 3,
+   "pages": [
+    159,
+    160
+   ],
+   "own_knowledge": false
+  },
+  "T5.3.11": {
+   "desc": "Government responses: international agreements (explain, evaluate)",
+   "section": "5.3",
+   "topic": "negative_production_externalities",
+   "count": 10,
+   "pages": [
+    160,
+    161
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.1": {
+   "desc": "Explain negative externalities of consumption (MSB below MPB) and the resulting overallocation",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 6,
+   "pages": [
+    164,
+    165
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.2": {
+   "desc": "Explain and draw the welfare loss from negative consumption externalities",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 2,
+   "pages": [
+    165
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.3": {
+   "desc": "Negative consumption externalities and the overuse of common pool resources",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 3,
+   "pages": [
+    166,
+    172
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.4": {
+   "desc": "Explain the meaning of demerit goods",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 2,
+   "pages": [
+    166
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.5": {
+   "desc": "Government responses: indirect (Pigouvian) taxes (explain, diagram, evaluate)",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 5,
+   "pages": [
+    167
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.6": {
+   "desc": "Government responses: legislation and regulation (explain, diagram, evaluate)",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 5,
+   "pages": [
+    167,
+    168
+   ],
+   "own_knowledge": true
+  },
+  "T5.4.7": {
+   "desc": "Government responses: education and awareness creation (explain, evaluate)",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 3,
+   "pages": [
+    168
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.8": {
+   "desc": "(HL) Government responses: nudges (explain, evaluate)",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 2,
+   "pages": [
+    168,
+    169
+   ],
+   "own_knowledge": false
+  },
+  "T5.4.9": {
+   "desc": "Evaluate policies for negative consumption externalities overall (combining policies; sugar taxes)",
+   "section": "5.4",
+   "topic": "negative_consumption_externalities",
+   "count": 6,
+   "pages": [
+    169
+   ],
+   "own_knowledge": true
+  },
+  "T6.1.1": {
+   "desc": "Explain positive externalities of production (MSC below MPC) and the resulting underallocation",
+   "section": "6.1",
+   "topic": "positive_production_externalities",
+   "count": 4,
+   "pages": [
+    174
+   ],
+   "own_knowledge": false
+  },
+  "T6.1.2": {
+   "desc": "Explain and draw the welfare loss from positive production externalities",
+   "section": "6.1",
+   "topic": "positive_production_externalities",
+   "count": 2,
+   "pages": [
+    175
+   ],
+   "own_knowledge": false
+  },
+  "T6.1.3": {
+   "desc": "Government responses: direct government provision and subsidies (explain, diagram)",
+   "section": "6.1",
+   "topic": "positive_production_externalities",
+   "count": 4,
+   "pages": [
+    176
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.1": {
+   "desc": "Explain positive externalities of consumption (MSB above MPB) and the resulting underallocation",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 5,
+   "pages": [
+    177,
+    178
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.2": {
+   "desc": "Explain and draw the welfare loss from positive consumption externalities",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 2,
+   "pages": [
+    178,
+    179
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.3": {
+   "desc": "Explain the meaning of merit goods (reasons for underprovision)",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 5,
+   "pages": [
+    179
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.4": {
+   "desc": "Government responses that raise demand: legislation and regulation, education and awareness creation, nudges (explain, diagram)",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 4,
+   "pages": [
+    179,
+    180
+   ],
+   "own_knowledge": true
+  },
+  "T6.2.5": {
+   "desc": "Government responses that raise supply: direct government provision and subsidies (explain, diagram)",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 7,
+   "pages": [
+    180,
+    181
+   ],
+   "own_knowledge": true
+  },
+  "T6.2.6": {
+   "desc": "Evaluate policies to correct positive production and consumption externalities",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 9,
+   "pages": [
+    181,
+    182
+   ],
+   "own_knowledge": false
+  },
+  "T6.2.7": {
+   "desc": "Summary of externalities and rules for drawing externality diagrams",
+   "section": "6.2",
+   "topic": "positive_consumption_externalities",
+   "count": 11,
+   "pages": [
+    183,
+    184
+   ],
+   "own_knowledge": false
+  },
+  "T6.3.1": {
+   "desc": "Explain public goods as non-rivalrous and non-excludable (and classify private goods, common pool resources, public and quasi-public goods)",
+   "section": "6.3",
+   "topic": "public_goods",
+   "count": 9,
+   "pages": [
+    185,
+    186
+   ],
+   "own_knowledge": true
+  },
+  "T6.3.2": {
+   "desc": "Explain the free rider problem and why the market fails to provide public goods",
+   "section": "6.3",
+   "topic": "public_goods",
+   "count": 3,
+   "pages": [
+    185
+   ],
+   "own_knowledge": false
+  },
+  "T6.3.3": {
+   "desc": "Evaluate direct government provision of public goods (incl. cost-benefit analysis)",
+   "section": "6.3",
+   "topic": "public_goods",
+   "count": 8,
+   "pages": [
+    186
+   ],
+   "own_knowledge": false
+  },
+  "T6.3.4": {
+   "desc": "Evaluate contracting out the provision of public goods to the private sector",
+   "section": "6.3",
+   "topic": "public_goods",
+   "count": 10,
+   "pages": [
+    186,
+    187
+   ],
+   "own_knowledge": false
+  },
+  "T6.4.1": {
+   "desc": "Explain asymmetric information and distinguish between adverse selection and moral hazard",
+   "section": "6.4",
+   "topic": "asymmetric_information",
+   "count": 6,
+   "pages": [
+    188,
+    189,
+    190
+   ],
+   "own_knowledge": false
+  },
+  "T6.4.2": {
+   "desc": "Adverse selection (sellers know more): evaluate government responses (regulation, provision of information, licensure)",
+   "section": "6.4",
+   "topic": "asymmetric_information",
+   "count": 11,
+   "pages": [
+    188,
+    189
+   ],
+   "own_knowledge": false
+  },
+  "T6.4.3": {
+   "desc": "Adverse selection (sellers know more): evaluate private responses (screening and signalling)",
+   "section": "6.4",
+   "topic": "asymmetric_information",
+   "count": 5,
+   "pages": [
+    189
+   ],
+   "own_knowledge": false
+  },
+  "T6.4.4": {
+   "desc": "Adverse selection (buyers know more, e.g. health insurance): private and government responses",
+   "section": "6.4",
+   "topic": "asymmetric_information",
+   "count": 9,
+   "pages": [
+    189,
+    190
+   ],
+   "own_knowledge": true
+  },
+  "T6.4.5": {
+   "desc": "Moral hazard: examples and responses",
+   "section": "6.4",
+   "topic": "asymmetric_information",
+   "count": 6,
+   "pages": [
+    190,
+    191
+   ],
+   "own_knowledge": false
+  },
+  "T6.5.1": {
+   "desc": "Explain why the free market results in an unequal distribution of income (equity and equality; factor ownership and factor prices)",
+   "section": "6.5",
+   "topic": "equity_distribution",
+   "count": 9,
+   "pages": [
+    191,
+    192
+   ],
+   "own_knowledge": true
+  },
+  "T6.5.2": {
+   "desc": "Draw a circular flow of income diagram to show why free markets give rise to income inequalities",
+   "section": "6.5",
+   "topic": "equity_distribution",
+   "count": 2,
+   "pages": [
+    191,
+    192
+   ],
+   "own_knowledge": false
+  },
+  "T6.5.3": {
+   "desc": "Explain inequalities in wealth (income versus wealth) and how inequality relates to market failure",
+   "section": "6.5",
+   "topic": "equity_distribution",
+   "count": 4,
+   "pages": [
+    192,
+    193
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.1": {
+   "desc": "Explain the meaning of market power and its link to market failure (firms, industries, market structures)",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 10,
+   "pages": [
+    196,
+    197
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.2": {
+   "desc": "Explain the main characteristics of perfect competition (many firms, free entry, homogeneous products)",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 3,
+   "pages": [
+    197
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.3": {
+   "desc": "Explain the main characteristics of monopoly (single or dominant firm, high barriers to entry, no close substitutes)",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 4,
+   "pages": [
+    197
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.4": {
+   "desc": "Explain the characteristics of imperfect competition: monopolistic competition (many firms, free entry, product differentiation)",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 4,
+   "pages": [
+    197
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.5": {
+   "desc": "Explain the characteristics of imperfect competition: oligopoly (few large firms, high barriers to entry, interdependence)",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 4,
+   "pages": [
+    197
+   ],
+   "own_knowledge": false
+  },
+  "T7.1.6": {
+   "desc": "Compare the four market structures (market power versus competition) and explain why perfect competition is studied",
+   "section": "7.1",
+   "topic": "market_structures",
+   "count": 4,
+   "pages": [
+    198
+   ],
+   "own_knowledge": false
+  },
+  "T7.2.1": {
+   "desc": "Explain revenue concepts: total, average and marginal revenue (price takers versus price makers)",
+   "section": "7.2",
+   "topic": "costs_revenue_profit",
+   "count": 6,
+   "pages": [
+    199,
+    200
+   ],
+   "own_knowledge": false
+  },
+  "T7.2.2": {
+   "desc": "Explain cost concepts: economic (explicit and implicit) costs; total, average and marginal cost in the short run",
+   "section": "7.2",
+   "topic": "costs_revenue_profit",
+   "count": 7,
+   "pages": [
+    201,
+    202,
+    203
+   ],
+   "own_knowledge": false
+  },
+  "T7.2.3": {
+   "desc": "Explain long-run costs: the long-run average cost curve, economies and diseconomies of scale",
+   "section": "7.2",
+   "topic": "costs_revenue_profit",
+   "count": 9,
+   "pages": [
+    203,
+    204
+   ],
+   "own_knowledge": false
+  },
+  "T7.2.4": {
+   "desc": "Explain profit concepts: economic profit, abnormal profit, normal profit, loss",
+   "section": "7.2",
+   "topic": "costs_revenue_profit",
+   "count": 6,
+   "pages": [
+    204,
+    205,
+    207
+   ],
+   "own_knowledge": false
+  },
+  "T7.2.5": {
+   "desc": "Explain profit maximisation (MR = MC; total revenue minus total cost)",
+   "section": "7.2",
+   "topic": "costs_revenue_profit",
+   "count": 6,
+   "pages": [
+    205,
+    206
+   ],
+   "own_knowledge": false
+  },
+  "T7.3.1": {
+   "desc": "Explain firms in perfect competition as price takers with no market power (P = D = AR = MR)",
+   "section": "7.3",
+   "topic": "perfect_competition",
+   "count": 5,
+   "pages": [
+    208,
+    209
+   ],
+   "own_knowledge": false
+  },
+  "T7.3.2": {
+   "desc": "Explain and draw short-run profit maximisation (abnormal profit, normal profit, loss)",
+   "section": "7.3",
+   "topic": "perfect_competition",
+   "count": 5,
+   "pages": [
+    210,
+    211
+   ],
+   "own_knowledge": false
+  },
+  "T7.3.3": {
+   "desc": "Explain and draw long-run profit maximisation and equilibrium (normal profit through entry and exit)",
+   "section": "7.3",
+   "topic": "perfect_competition",
+   "count": 6,
+   "pages": [
+    211,
+    212
+   ],
+   "own_knowledge": false
+  },
+  "T7.3.4": {
+   "desc": "Explain allocative efficiency in perfect competition (P = MC, MB = MC, maximum social surplus)",
+   "section": "7.3",
+   "topic": "perfect_competition",
+   "count": 5,
+   "pages": [
+    213,
+    214
+   ],
+   "own_knowledge": false
+  },
+  "T7.3.5": {
+   "desc": "Discuss the advantages and disadvantages of perfect competition",
+   "section": "7.3",
+   "topic": "perfect_competition",
+   "count": 8,
+   "pages": [
+    214,
+    215
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.1": {
+   "desc": "Explain barriers to entry (economies of scale, natural monopoly, branding, legal barriers, control of essential resources, aggressive tactics)",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 11,
+   "pages": [
+    215,
+    216
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.2": {
+   "desc": "Explain the monopolist's demand and revenue curves and market power (AR above MC; P greater than MC)",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 7,
+   "pages": [
+    216,
+    217,
+    218,
+    223
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.3": {
+   "desc": "Explain and draw profit maximisation by the monopolist (abnormal profit, normal profit, loss)",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 4,
+   "pages": [
+    219,
+    221
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.4": {
+   "desc": "Explain and draw natural monopoly",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 6,
+   "pages": [
+    219,
+    220
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.5": {
+   "desc": "Explain the monopolist's allocative inefficiency and welfare loss compared with perfect competition (higher price, lower output)",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 5,
+   "pages": [
+    221,
+    222,
+    223
+   ],
+   "own_knowledge": false
+  },
+  "T7.4.6": {
+   "desc": "Discuss the advantages and disadvantages of monopoly",
+   "section": "7.4",
+   "topic": "monopoly",
+   "count": 9,
+   "pages": [
+    223,
+    224
+   ],
+   "own_knowledge": false
+  },
+  "T7.5.1": {
+   "desc": "Explain the assumptions of monopolistic competition and the methods of product differentiation",
+   "section": "7.5",
+   "topic": "monopolistic_competition",
+   "count": 5,
+   "pages": [
+    225
+   ],
+   "own_knowledge": false
+  },
+  "T7.5.2": {
+   "desc": "Explain that monopolistic competition has less market power than monopoly (more elastic demand curve); price and non-price competition",
+   "section": "7.5",
+   "topic": "monopolistic_competition",
+   "count": 6,
+   "pages": [
+    225,
+    226
+   ],
+   "own_knowledge": false
+  },
+  "T7.5.3": {
+   "desc": "Explain and draw profit maximisation in the short run and long run (abnormal profit, normal profit, loss)",
+   "section": "7.5",
+   "topic": "monopolistic_competition",
+   "count": 5,
+   "pages": [
+    227,
+    228
+   ],
+   "own_knowledge": false
+  },
+  "T7.5.4": {
+   "desc": "Explain allocative inefficiency and market failure; more product variety in exchange for less efficiency",
+   "section": "7.5",
+   "topic": "monopolistic_competition",
+   "count": 3,
+   "pages": [
+    228
+   ],
+   "own_knowledge": false
+  },
+  "T7.5.5": {
+   "desc": "Discuss the advantages and disadvantages of monopolistic competition (compared with perfect competition and monopoly)",
+   "section": "7.5",
+   "topic": "monopolistic_competition",
+   "count": 9,
+   "pages": [
+    228,
+    229
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.1": {
+   "desc": "Explain the characteristics of oligopoly (few large firms, high barriers to entry, interdependence)",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 4,
+   "pages": [
+    230
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.2": {
+   "desc": "Explain features of oligopoly: interdependence, strategic behaviour, incentive to collude versus incentive to cheat, risk of price war",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 6,
+   "pages": [
+    230,
+    231,
+    232
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.3": {
+   "desc": "Explain the simple game theory payoff matrix (prisoner's dilemma, Nash equilibrium)",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 7,
+   "pages": [
+    231,
+    232
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.4": {
+   "desc": "Explain the relevance of price and non-price competition in oligopoly",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 5,
+   "pages": [
+    232,
+    233
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.5": {
+   "desc": "Explain collusive oligopoly and draw a diagram (cartels, difficulties of maintaining them, informal collusion and price leadership)",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 14,
+   "pages": [
+    233,
+    234,
+    236
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.6": {
+   "desc": "Distinguish non-collusive oligopoly (strategic behaviour and price rigidity)",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 5,
+   "pages": [
+    235
+   ],
+   "own_knowledge": false
+  },
+  "T7.6.7": {
+   "desc": "Explain market concentration and concentration ratios (and their weaknesses)",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 10,
+   "pages": [
+    235,
+    236
+   ],
+   "own_knowledge": true
+  },
+  "T7.6.8": {
+   "desc": "Explain allocative inefficiency and market failure in oligopoly; discuss its advantages and disadvantages",
+   "section": "7.6",
+   "topic": "oligopoly",
+   "count": 7,
+   "pages": [
+    237
+   ],
+   "own_knowledge": false
+  },
+  "T7.7.1": {
+   "desc": "Discuss advantages of large firms with significant market power (economies of scale, R&D, innovation) and risks to output, price and consumer choice",
+   "section": "7.7",
+   "topic": "abuse_of_market_power",
+   "count": 5,
+   "pages": [
+    239,
+    240,
+    243
+   ],
+   "own_knowledge": false
+  },
+  "T7.7.2": {
+   "desc": "Explain the meaning of abuse of market power (anti-competitive practices) and where it arises",
+   "section": "7.7",
+   "topic": "abuse_of_market_power",
+   "count": 5,
+   "pages": [
+    239,
+    240
+   ],
+   "own_knowledge": true
+  },
+  "T7.7.3": {
+   "desc": "Evaluate legislation and regulation to protect competition (competition policy, mergers)",
+   "section": "7.7",
+   "topic": "abuse_of_market_power",
+   "count": 13,
+   "pages": [
+    240,
+    241,
+    242,
+    243
+   ],
+   "own_knowledge": true
+  },
+  "T7.7.4": {
+   "desc": "Evaluate fines as a response to abuse of market power",
+   "section": "7.7",
+   "topic": "abuse_of_market_power",
+   "count": 6,
+   "pages": [
+    241,
+    244
+   ],
+   "own_knowledge": true
+  },
+  "T7.7.5": {
+   "desc": "Evaluate government ownership and regulation of natural monopolies (marginal cost and average cost pricing)",
+   "section": "7.7",
+   "topic": "abuse_of_market_power",
+   "count": 12,
+   "pages": [
+    243,
+    244,
+    245
+   ],
+   "own_knowledge": true
+  }
+ },
+ "verify_cards": [
+  {
+   "id": "T2.6.4",
+   "front": "What is the Australian Government's nudge unit?",
+   "topic": "behavioural_economics"
+  },
+  {
+   "id": "T2.6.5",
+   "front": "Does Australia use an opt-in or opt-out (default) system for organ donation, and what does choice architecture suggest about this?",
+   "topic": "behavioural_economics"
+  },
+  {
+   "id": "T2.6.5",
+   "front": "How does Australia's superannuation system use default choice?",
+   "topic": "behavioural_economics"
+  },
+  {
+   "id": "T4.2.3",
+   "front": "Give an Australian example of a price ceiling in the electricity market.",
+   "topic": "price_controls"
+  },
+  {
+   "id": "T4.2.3",
+   "front": "What temporary price ceilings did Australian governments impose on energy in December 2022, and why?",
+   "topic": "price_controls"
+  },
+  {
+   "id": "T4.2.5",
+   "front": "What was Australia's Wool Reserve Price Scheme, and why did it collapse?",
+   "topic": "price_controls"
+  },
+  {
+   "id": "T4.2.6",
+   "front": "Who sets Australia's national minimum wage, and how?",
+   "topic": "price_controls"
+  },
+  {
+   "id": "T4.3.1",
+   "front": "What is Australia's GST, and what kind of indirect tax is it?",
+   "topic": "indirect_taxes"
+  },
+  {
+   "id": "T4.3.1",
+   "front": "Give Australian examples of excise taxes that are specific taxes.",
+   "topic": "indirect_taxes"
+  },
+  {
+   "id": "T4.3.2",
+   "front": "Give Australian examples of ad valorem taxes on particular goods, including one aimed at luxuries.",
+   "topic": "indirect_taxes"
+  },
+  {
+   "id": "T4.3.4",
+   "front": "Why is the GST considered regressive, and how is this reduced?",
+   "topic": "indirect_taxes"
+  },
+  {
+   "id": "T5.3.5",
+   "front": "What was Australia's Carbon Pricing Mechanism?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.3.6",
+   "front": "What is Australia's Safeguard Mechanism?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.3.6",
+   "front": "How does the Murray-Darling Basin use tradable permits to manage a common pool resource?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.3.7",
+   "front": "How did Australia's Emissions Reduction Fund ('Direct Action') differ from a carbon tax?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.3.8",
+   "front": "How has government regulation and buyback been used to address overuse of water in the Murray-Darling Basin?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.3.8",
+   "front": "How are Australian Commonwealth fisheries protected from overfishing with tradable quotas?",
+   "topic": "negative_production_externalities"
+  },
+  {
+   "id": "T5.4.6",
+   "front": "What tobacco packaging regulation did Australia pioneer, and what kind of policy is it?",
+   "topic": "negative_consumption_externalities"
+  },
+  {
+   "id": "T5.4.9",
+   "front": "Does Australia have a tax on sugar-sweetened drinks, and what is used instead?",
+   "topic": "negative_consumption_externalities"
+  },
+  {
+   "id": "T6.2.4",
+   "front": "What is Australia's 'No Jab, No Pay' policy, and what type of policy is it?",
+   "topic": "positive_consumption_externalities"
+  },
+  {
+   "id": "T6.2.5",
+   "front": "What is the Pharmaceutical Benefits Scheme (PBS)?",
+   "topic": "positive_consumption_externalities"
+  },
+  {
+   "id": "T6.2.5",
+   "front": "How does HECS-HELP support the consumption of higher education in Australia?",
+   "topic": "positive_consumption_externalities"
+  },
+  {
+   "id": "T6.3.1",
+   "front": "Give Australian examples of public goods provided by government.",
+   "topic": "public_goods"
+  },
+  {
+   "id": "T6.4.4",
+   "front": "How does Medicare address adverse selection in Australian health care?",
+   "topic": "asymmetric_information"
+  },
+  {
+   "id": "T6.4.4",
+   "front": "What Australian rules counter adverse selection in private health insurance?",
+   "topic": "asymmetric_information"
+  },
+  {
+   "id": "T6.5.1",
+   "front": "How is Australia's personal income tax progressive, and how does it promote equity?",
+   "topic": "equity_distribution"
+  },
+  {
+   "id": "T7.6.7",
+   "front": "Give examples of highly concentrated (oligopolistic) markets in Australia.",
+   "topic": "oligopoly"
+  },
+  {
+   "id": "T7.7.2",
+   "front": "How does Australian law define misuse of market power?",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.3",
+   "front": "What is the ACCC?",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.3",
+   "front": "Which Australian law prohibits cartels and misuse of market power, and how are serious cartels punished?",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.3",
+   "front": "How did Australian merger law change from 1 January 2026?",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.4",
+   "front": "Give an example of a large penalty for cartel conduct in Australia.",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.5",
+   "front": "How does Australia regulate natural monopolies such as electricity networks and broadband?",
+   "topic": "abuse_of_market_power"
+  },
+  {
+   "id": "T7.7.5",
+   "front": "Give examples of privatisation in Australia.",
+   "topic": "abuse_of_market_power"
+  }
+ ],
+ "topic_counts": {
+  "competitive_markets": 9,
+  "demand": 45,
+  "supply": 49,
+  "market_equilibrium": 25,
+  "price_mechanism": 44,
+  "behavioural_economics": 92,
+  "PED": 67,
+  "YED": 32,
+  "PES": 29,
+  "govt_intervention": 20,
+  "price_controls": 71,
+  "indirect_taxes": 31,
+  "subsidies": 29,
+  "common_pool_resources": 25,
+  "externalities_intro": 18,
+  "negative_production_externalities": 94,
+  "negative_consumption_externalities": 34,
+  "positive_production_externalities": 10,
+  "positive_consumption_externalities": 43,
+  "public_goods": 30,
+  "asymmetric_information": 37,
+  "equity_distribution": 15,
+  "market_structures": 29,
+  "costs_revenue_profit": 34,
+  "perfect_competition": 29,
+  "monopoly": 42,
+  "monopolistic_competition": 28,
+  "oligopoly": 58,
+  "abuse_of_market_power": 41
+ },
+ "type_counts": {
+  "definition": 232,
+  "explain": 296,
+  "distinguish": 47,
+  "example": 194,
+  "diagram": 140,
+  "chain": 90,
+  "evaluation": 182,
+  "verify": 34,
+  "stakeholders": 43
+ },
+ "untyped": 0,
+ "total": 1110
+}

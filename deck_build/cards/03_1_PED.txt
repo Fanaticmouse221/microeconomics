@@ -1,0 +1,270 @@
+# 3.1 Price elasticity of demand (book p84-97)
+# Excluded: PED formula and all PED / %change / total revenue calculations (p85-87, 94); midpoint formula footnote (p86).
+
+@ T3.1.1 | definition | 84
+Q: In economics, what is elasticity?
+A: A measure of the responsiveness of a variable to changes in price or in any of the variable's determinants.
+
+@ T3.1.1 | definition | 85
+Q: What is price elasticity of demand (PED)?
+A: A measure of the responsiveness of the quantity of a good demanded to changes in its price, measured along a given demand curve.
+
+@ T3.1.1 | distinguish | 85
+Q: In general terms, distinguish between price elastic and price inelastic demand.
+A: <b>Price elastic:</b> quantity demanded is highly responsive to a change in price.<br><b>Price inelastic:</b> quantity demanded is not very responsive to a change in price.
+
+@ T3.1.1 | explain | 86
+Q: Why is PED usually a negative number, and how is the sign treated?
+A: Price and quantity demanded are negatively related, so a price rise brings a fall in quantity demanded. By convention the minus sign is dropped (the absolute value is taken) and PED is treated as positive.
+
+@ T3.1.1 | explain | 86
+Q: Why do economists drop the minus sign from PED?
+A: To avoid confusion when comparing values: treated as positive numbers, a PED of 3 is clearly more elastic than a PED of 2, whereas with signs the more elastic value would look 'smaller'.
+
+@ T3.1.1 | explain | 86
+Q: Why is elasticity measured with percentage changes rather than changes in units or currency?
+A: Percentages give a measure independent of units, so elasticities can be compared across goods measured in different units (oranges vs cars) and across countries with different currencies.
+
+@ T3.1.1 | explain | 86
+Q: Why are absolute changes in price (e.g. a $15 rise) meaningless for measuring responsiveness?
+A: The same absolute rise means very different things for a good costing $100 and one costing $5000; percentage changes put responsiveness into perspective.
+
+@ T3.1.1 | explain | 86
+Q: In what units is price elasticity of demand measured?
+A: None: elasticity is a pure number, not a percentage, and has no units.
+
+@ T3.1.1 | definition | 87
+Q: When is demand price inelastic, in terms of percentage changes and the value of PED?
+A: When the percentage change in quantity demanded is smaller than the percentage change in price: PED is greater than zero but less than one, so quantity demanded is relatively unresponsive to price.
+
+@ T3.1.1 | definition | 87
+Q: When is demand price elastic, in terms of percentage changes and the value of PED?
+A: When the percentage change in quantity demanded is larger than the percentage change in price: PED is greater than one (but less than infinity), so quantity demanded is relatively responsive to price.
+
+@ T3.1.1 | definition | 87
+Q: When is demand unit elastic (unitary PED)?
+A: When the percentage change in quantity demanded equals the percentage change in price, so PED equals one.
+
+@ T3.1.1 | definition example | 87
+Q: What is perfectly inelastic demand? Give an example.
+A: Quantity demanded does not change at all when price changes (PED of zero), e.g. a heroin addict's quantity of heroin demanded.
+
+@ T3.1.1 | definition | 87
+Q: What is perfectly elastic demand?
+A: A change in price causes an infinitely large response in quantity demanded (PED of infinity): at the given price consumers buy any quantity available; if price rises, quantity demanded drops to zero.
+
+@ T3.1.1 | explain | 88
+Q: What is the possible range of PED values, and what does a larger value indicate?
+A: From zero to infinity. The larger the value, the greater the responsiveness of quantity demanded to price.
+
+@ T3.1.1 | explain | 88
+Q: Which PED cases are frequently encountered in practice, and which are mainly important in theory?
+A: <b>Frequent:</b> price inelastic (between 0 and 1) and price elastic (greater than 1).<br><b>Rare but important in theory:</b> unit elastic, perfectly inelastic and perfectly elastic demand.
+
+@ T3.1.2 | diagram | 87
+Q: Describe the demand curve for perfectly inelastic demand.
+A: A vertical line at a fixed quantity: quantity demanded stays the same whatever the price (PED of zero along its whole length).
+
+@ T3.1.2 | diagram | 87
+Q: Describe the demand curve for perfectly elastic demand.
+A: A horizontal line at a given price: consumers buy any quantity at that price, and nothing at a higher price (PED of infinity along its whole length).
+
+@ T3.1.2 | diagram | 87-88
+Q: Describe a unit elastic demand curve.
+A: A curve bowed towards the origin (a rectangular hyperbola) with a PED of one at every point: any percentage price change gives an equal percentage change in quantity.
+
+@ T3.1.2 | diagram | 87-88
+Q: Which three types of demand curve have a constant PED along their entire length?
+A: Unit elastic (PED of one), perfectly inelastic (vertical, PED of zero) and perfectly elastic (horizontal, PED of infinity).
+
+@ T3.1.2 | diagram | 89
+Q: As a rough guide, how is the steepness of a demand curve related to its PED?
+A: The flatter the demand curve, the more elastic the demand (higher PED); the steeper the curve, the less elastic (lower PED).
+
+@ T3.1.2 | evaluation | 89
+Q: Why can't you always compare the PEDs of two demand curves just by looking at their steepness?
+A: Curves drawn on different scales are not comparable: two identical demand curves can look flatter or steeper simply because the axis scales differ.
+
+@ T3.1.2 | diagram | 89
+Q: When is it valid to compare the PEDs of two demand curves by their steepness?
+A: When the curves intersect (or would intersect if drawn on the same diagram): then at any given price the flatter curve is the more elastic.
+
+@ T3.1.3 | diagram | 90
+Q: How does PED vary along a straight-line, downward-sloping demand curve?
+A: Demand is price elastic at high prices and low quantities, unit elastic at the midpoint, and price inelastic at low prices and high quantities: PED falls continuously as you move down the curve.
+
+@ T3.1.3 | explain | 90
+Q: Why is demand price elastic at high prices on a straight-line demand curve?
+A: At high prices and low quantities, a given change in quantity is a large percentage of the small initial quantity, while the price change is a small percentage of the high initial price, so PED is large.
+
+@ T3.1.3 | explain | 90
+Q: Why is demand price inelastic at low prices on a straight-line demand curve?
+A: At low prices and high quantities, a given change in quantity is a small percentage of the large initial quantity, while the price change is a large percentage of the low initial price, so PED is small.
+
+@ T3.1.3 | explain | 90
+Q: Why should 'elastic' and 'inelastic' not be used to describe an entire straight-line demand curve?
+A: PED changes along the curve, so the terms apply only to a portion of it at a particular price or price range (the three constant-PED curves are the exceptions).
+
+@ T3.1.3 | explain | 90
+Q: Using the slope of the demand curve, explain why PED keeps falling as you move down a straight-line demand curve.
+A: The slope of a straight line is constant, so PED depends only on the ratio of price to quantity; moving down the curve price falls and quantity rises, so that ratio, and therefore PED, gets smaller and smaller.
+
+@ T3.1.4 | chain | 91
+Q: How does the number of substitutes affect PED?
+A: More substitutes → when price rises consumers can switch to other products → large fall in quantity demanded → more elastic demand. Few or no substitutes → small fall → inelastic demand.
+
+@ T3.1.4 | example | 91
+Q: Why is the demand for one brand of toothpaste price elastic, while the demand for petrol is price inelastic?
+A: Toothpaste brands are close substitutes, so consumers switch when one brand's price rises. Petrol has no close substitutes, so a price rise reduces quantity demanded only a little.
+
+@ T3.1.4 | explain | 91
+Q: How does the closeness of substitutes affect PED?
+A: The closer the substitutes (greater substitutability, e.g. Coca-Cola and Pepsi rather than Coca-Cola and orange juice), the easier it is to switch, so the greater the PED.
+
+@ T3.1.4 | explain example | 91
+Q: How does the breadth of a good's definition affect its PED?
+A: The more narrowly a good is defined, the more close substitutes it has and the more elastic its demand: apples are more elastic than fruit, fruit more than food; a Honda more than cars in general.
+
+@ T3.1.4 | explain example | 91
+Q: How does whether a good is a necessity or a luxury affect its PED?
+A: Necessities (goods we cannot do without) have less elastic demand than luxuries: medications and food are very inelastic, while diamond rings are elastic.
+
+@ T3.1.4 | explain | 91
+Q: How does addiction affect PED?
+A: Addiction is a special case of necessity: the greater the degree of addiction to a substance (e.g. alcohol, cigarettes), the more inelastic the demand.
+
+@ T3.1.4 | chain | 91
+Q: How does the length of time consumers have to respond affect PED?
+A: Longer time period → consumers can reconsider whether they want the good and find out about alternatives → demand becomes more elastic.
+
+@ T3.1.4 | example | 91
+Q: Why is the demand for heating oil inelastic in the short run but more elastic in the long run?
+A: In the short run consumers can do little to switch heating; over time they can switch to other systems (e.g. gas) or install better insulation.
+
+@ T3.1.4 | explain example | 92
+Q: How does the proportion of income spent on a good affect its PED?
+A: The larger the share of income needed to buy it, the more elastic the demand: the same percentage price rise brings a bigger response for cars than for pens.
+
+@ T3.1.4 | example | 92
+Q: A lemonade seller raises her price by 500% for a diabetic boy whose blood sugar is dangerously low, and he still buys. What does this show about PED?
+A: His demand at that moment is extremely price inelastic, because the drink is an urgent necessity with no substitute available. Other children, for whom it is not a necessity, would cut their quantity demanded sharply.
+
+@ T3.1.5 | definition | 92
+Q: What is total revenue (TR)?
+A: The amount of money a firm receives from selling a good or service: the price of the good multiplied by the quantity sold.
+
+@ T3.1.5 | chain | 93
+Q: Demand is price elastic. What happens to total revenue when the price rises, and why?
+A: Price ↑ → proportionately larger fall in quantity demanded → the quantity effect outweighs the price effect → TR ↓. Price and TR move in opposite directions.
+
+@ T3.1.5 | chain | 93
+Q: Demand is price elastic. What happens to total revenue when the price falls, and why?
+A: Price ↓ → proportionately larger rise in quantity demanded → TR ↑.
+
+@ T3.1.5 | chain | 93
+Q: Demand is price inelastic. What happens to total revenue when the price rises, and why?
+A: Price ↑ → proportionately smaller fall in quantity demanded → the price effect outweighs the quantity effect → TR ↑. Price and TR move in the same direction.
+
+@ T3.1.5 | chain | 93
+Q: Demand is price inelastic. What happens to total revenue when the price falls, and why?
+A: Price ↓ → proportionately smaller rise in quantity demanded → TR ↓.
+
+@ T3.1.5 | explain | 93
+Q: Demand is unit elastic. What happens to total revenue when the price changes?
+A: Nothing: the percentage change in quantity exactly offsets the percentage change in price, so total revenue stays constant.
+
+@ T3.1.5 | distinguish | 94
+Q: Distinguish between total revenue and profit.
+A: <b>Total revenue:</b> the money a firm receives from its sales.<br><b>Profit:</b> total revenue minus total costs.
+
+@ T3.1.6 | diagram | 93
+Q: How is total revenue shown on a demand curve diagram?
+A: As the rectangle under a point on the demand curve: height equal to the price, width equal to the quantity sold.
+
+@ T3.1.6 | diagram | 93
+Q: Diagram: price rises along an elastic section of a demand curve. Describe the change in the total revenue rectangles.
+A: The firm gains a rectangle from the higher price on the units still sold but loses a larger rectangle from the units no longer sold, so total revenue falls.
+
+@ T3.1.6 | diagram | 93
+Q: Diagram: price rises along an inelastic section of a demand curve. Describe the change in the total revenue rectangles.
+A: The rectangle gained from the higher price on units still sold is larger than the rectangle lost from units no longer sold, so total revenue rises.
+
+@ T3.1.6 | diagram | 93
+Q: Diagram: price changes along a unit elastic demand curve. Describe the change in the total revenue rectangles.
+A: The revenue rectangle gained exactly matches the rectangle lost, so total revenue is unchanged.
+
+@ T3.1.7 | explain | 94
+Q: A firm wants to increase its total revenue. How should it change its price?
+A: Lower the price if demand is elastic; raise it if demand is inelastic. If demand is unit elastic, a price change cannot change total revenue.
+
+@ T3.1.7 | explain | 94
+Q: How does PED affect the tax revenue a government receives from an indirect tax?
+A: The lower the PED of the taxed good, the greater the tax revenue: with inelastic demand the tax-induced price rise reduces quantity demanded proportionately less, so more units remain to be taxed.
+
+@ T3.1.7 | diagram | 95
+Q: On an indirect tax diagram, how is the government's tax revenue shown?
+A: As the rectangle whose height is the tax per unit (the vertical distance between the two supply curves) and whose width is the after-tax quantity.
+
+@ T3.1.7 | diagram | 95
+Q: Diagram: compare the tax revenue from the same indirect tax when demand is inelastic and when it is elastic.
+A: Inelastic demand: the after-tax quantity falls only a little, so the tax revenue rectangle is large. Elastic demand: quantity falls a lot, so the rectangle (tax revenue) is smaller.
+
+@ T3.1.7 | example | 95
+Q: Why are indirect taxes usually imposed on goods such as cigarettes and petrol?
+A: They have a low PED, so taxing them raises a lot of revenue: quantity demanded falls proportionately less than the price rises.
+
+@ T3.1.8 | definition | 96
+Q: What are primary commodities?
+A: Goods arising directly from natural resources (the factor of production 'land'): agricultural, fishing and forestry products, and products of extractive industries (oil, coal, minerals).
+
+@ T3.1.8 | definition | 96
+Q: What are manufactured products?
+A: Goods produced by labour usually working with capital and raw materials, e.g. cars, computers, televisions.
+
+@ T3.1.8 | explain | 96
+Q: Why do many primary commodities have a low PED?
+A: They are necessities with no substitutes (e.g. food, oil, minerals), so quantity demanded responds little to price changes.
+
+@ T3.1.8 | explain | 96
+Q: Why do manufactured products usually have a higher PED than primary commodities?
+A: Even when they are necessities, they usually have substitutes, so quantity demanded is more responsive to price.
+
+@ T3.1.8 | example | 96
+Q: Give an exception to the rule that manufactured products have relatively price elastic demand.
+A: Medications: they are manufactured, but their demand is inelastic because they are necessities with no substitutes.
+
+@ T3.1.8 | example | 96
+Q: Roughly what is the estimated PED of food in developed countries?
+A: Between 0.20 and 0.25: highly price inelastic.
+
+@ T3.1.8 | definition | 97
+Q: What is price volatility?
+A: Large price fluctuations over short periods of time (volatility means instability or high variability).
+
+@ T3.1.8 | diagram | 96-97
+Q: Diagram: why do supply shifts cause larger price fluctuations for primary commodities than for manufactured products?
+A: With inelastic demand (steep D), a supply shift causes a large change in price and a small change in quantity; with elastic demand (flatter D) the same shift causes a much smaller price change.
+
+@ T3.1.8 | explain | 97
+Q: Why does the supply of agricultural products shift so often?
+A: Farm output depends on factors beyond farmers' control (drought, pests, floods, frost, other natural disasters, or exceptionally good weather), causing frequent, large supply changes over short periods.
+
+@ T3.1.8 | chain stakeholders | 97
+Q: Bad weather causes a poor crop of a commodity with inelastic demand. What happens to farmers' total revenue?
+A: Supply ↓ → price rises by a larger percentage than quantity falls → farmers' total revenue ↑. Ironically, a poor crop may be good for farmers.
+
+@ T3.1.8 | chain stakeholders | 97
+Q: An exceptionally good harvest increases the supply of a crop with inelastic demand. What happens to farmers' total revenue?
+A: Supply ↑ → price falls by a larger percentage than quantity rises → farmers' total revenue ↓. Ironically, a good crop may be bad for farmers.
+
+@ T3.1.8 | stakeholders | 97
+Q: How does the price volatility of primary commodities affect their producers?
+A: Producers' incomes depend on their revenues from sales, so they fluctuate widely along with commodity prices.
+
+@ T3.1.8 | explain | 97
+Q: What is the link between unstable farm revenues and government intervention in agriculture?
+A: Unstable farmer revenues are an important reason why governments intervene to support farmers' incomes.
+
+@ T3.1.1 | example | 109
+Q: Give examples of goods with price inelastic demand and goods with price elastic demand.
+A: <b>Price inelastic:</b> petrol, cigarettes, food.<br><b>Price elastic:</b> yachts, expensive holidays.

@@ -1,0 +1,42 @@
+# 6.1 Positive production externalities (book p174-177)
+# Excluded: HL welfare loss calculation (p175); supplementary area algebra (p175). Evaluation of policies is in 6.2.
+
+@ T6.1.1 | definition example | 174
+Q: What are positive production externalities? Give an example.
+A: External benefits created by producers, e.g. a firm's research and development produces a new technology that spreads through the economy, benefiting society as well as the firm.
+
+@ T6.1.1 | diagram | 174
+Q: Describe a positive production externality diagram.
+A: D = MPB = MSB slopes down; S = MPC slopes up; MSC lies below MPC (external benefits act as 'negative costs'; the gap is the external benefit). The market produces Qm at Pm (MPB = MPC); the optimum is Qopt at Popt (MSB = MSC), with Qopt greater than Qm and Popt below Pm.
+
+@ T6.1.1 | chain | 174
+Q: Why does a positive production externality lead to an underallocation of resources?
+A: Firms ignore the external benefits of their production → they produce where MPB equals MPC → Qm is less than Qopt → too few resources are allocated and too little is produced; at Qm, MSB exceeds MSC.
+
+@ T6.1.1 | example | 174
+Q: Besides research and development, give examples of positive production externalities.
+A: Firms train workers who later move to other employers (the new employers and society benefit); a firm runs first-aid classes for staff, and the knowledge is also used outside the workplace.
+
+@ T6.1.2 | diagram | 175
+Q: Where is the welfare loss on a positive production externality diagram?
+A: The triangle between MSB (the demand curve) and MSC over the underproduced units from Qm to Qopt, with its point at Qopt.
+
+@ T6.1.2 | explain | 175
+Q: What does the welfare loss from a positive production externality represent?
+A: External benefits that society loses because not enough of the good is produced; if the externality were corrected, society would gain them.
+
+@ T6.1.3 | diagram | 176
+Q: Diagram: how does direct government provision correct a positive production externality?
+A: The government provides the good or service itself (paid for from taxes) → the supply (MPC) curve shifts down, or right, towards MSC → output rises to Qopt and price falls from Pm to Popt.
+
+@ T6.1.3 | example | 176
+Q: Give examples of direct government provision used to correct positive production externalities.
+A: Government research and development (for new technology, medicine and pharmaceuticals and other areas) and government-provided training for workers.
+
+@ T6.1.3 | diagram | 176
+Q: Diagram: how does a subsidy correct a positive production externality?
+A: A per-unit subsidy equal to the external benefit shifts the MPC (supply) curve down until it coincides with MSC → quantity rises to Qopt and price falls from Pm to Popt → underallocation is corrected and allocative efficiency is achieved.
+
+@ T6.1.3 | explain | 176
+Q: Do direct government provision and subsidies have the same market outcome when correcting a positive production externality?
+A: Yes: both shift the MPC curve down towards MSC, raising quantity to Qopt and lowering price to Popt.

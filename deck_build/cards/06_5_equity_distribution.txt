@@ -1,0 +1,58 @@
+# 6.5 Equity in the distribution of income and wealth (HL) (book p191-194)
+# Excluded: TOK 6.1 (p193-194).
+
+@ T6.5.1 | distinguish | 191
+Q: Distinguish between equity and equality.
+A: <b>Equity:</b> the idea of being fair and just.<br><b>Equality:</b> the state of being equal with respect to something, e.g. income equality would mean everyone receives the same income.
+
+@ T6.5.1 | explain | 191
+Q: In most countries, what does the pursuit of equity usually refer to in practice?
+A: Efforts to reduce significant inequalities in income and wealth, because people generally believe the inequalities produced by the free market economy are unfair.
+
+@ T6.5.1 | chain | 191-192
+Q: Why does the free market economy result in an unequal distribution of income?
+A: Household income depends on the factors of production households own and sell, and on the market prices of those factors → ownership of factors is highly unequal and factor prices vary enormously → market-determined incomes are very unequal.
+
+@ T6.5.1 | explain | 192
+Q: Why do wages differ so much between workers in a free market?
+A: Some people earn very high wages thanks to special skills, education or natural talents, while those with fewer skills, less education or talent may earn wages too low to cover their basic needs.
+
+@ T6.5.1 | explain | 192
+Q: Why do some people receive little or no income from the labour market?
+A: They lack the skills firms want to hire, are sick or old, have special needs that prevent them from working, or there are simply not enough jobs for everyone.
+
+@ T6.5.1 | explain | 192
+Q: How does the ownership of land, capital and entrepreneurship add to income inequality?
+A: These factors earn rent, interest and profit income, and their ownership is very unequally distributed.
+
+@ T6.5.1 | explain | 192
+Q: Why do most societies regard the market's distribution of income as a disadvantage of the free market?
+A: Markets cannot ensure that everyone secures enough income to satisfy their basic needs, yet most people believe everyone should be able to meet a minimum of basic needs.
+
+@ T6.5.1 | definition | 192
+Q: What is redistribution (of income)?
+A: Government use of a variety of methods to change the market-determined distribution of income and output to a more socially desirable outcome.
+
+@ T6.5.2 | diagram | 191
+Q: In the simple circular flow of income model (no leakages or injections), what flows between households and firms?
+A: Households sell factors of production to firms in resource markets and receive incomes; firms sell goods and services to households in product markets and receive households' spending as revenue.
+
+@ T6.5.2 | diagram | 191-192
+Q: Using the circular flow of income model, explain why free markets give rise to income inequalities.
+A: The goods and services a household can buy depend on its income, and its income depends on how many factors of production it owns and sells in resource markets and at what prices. Unequal factor ownership and prices therefore give unequal incomes and unequal shares of output.
+
+@ T6.5.3 | distinguish | 192
+Q: Distinguish between income and wealth.
+A: <b>Income:</b> the flow of money received by the owners of factors of production.<br><b>Wealth:</b> the money or things of value people own (savings, stocks, bonds, land, houses, paintings, jewellery) minus their debts.
+
+@ T6.5.3 | explain | 192
+Q: How are income and wealth related, and why are they not always closely linked?
+A: Income makes saving possible, which builds wealth, so higher income generally means more wealth. But high earners who spend heavily may have little wealth, while people with inheritances or pensioners with lifetime savings may have high wealth but low incomes.
+
+@ T6.5.3 | explain | 192
+Q: Why does the free market also produce wealth inequality, and how does it compare with income inequality?
+A: The higher a person's income, the greater their possibilities for saving and accumulating wealth. Wealth inequalities are in fact far greater than income inequalities.
+
+@ T6.5.3 | evaluation | 192-193
+Q: Strictly speaking, is the market's unequal distribution of income a market failure?
+A: No. Market failure is the failure to achieve allocative efficiency (MSB = MSC, maximum social surplus), which has no connection with distribution: allocative efficiency is possible with complete income equality or with extreme inequality.

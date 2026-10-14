@@ -1,0 +1,117 @@
+# 6.3 Market failure and public goods (book p184-187)
+
+@ T6.3.1 | definition | 185
+Q: What two characteristics define a public good?
+A: It is non-rivalrous (one person's consumption does not reduce consumption by someone else) and non-excludable (it is not possible to exclude anyone from using it).
+
+@ T6.3.1 | definition | 185
+Q: What does it mean for a good to be non-rivalrous?
+A: One person's consumption of the good does not reduce its availability for consumption by someone else.
+
+@ T6.3.1 | example | 185
+Q: Why is a lighthouse a public good?
+A: It is non-rivalrous (one ship using its light does not make it less available to others) and non-excludable (no one can be prevented from using it).
+
+@ T6.3.1 | example | 185
+Q: Give examples of public goods.
+A: Police, national defence, flood control, non-toll roads, fire protection, basic research, street lighting and anti-poverty programs.
+
+@ T6.3.1 | distinguish | 185
+Q: Classify private goods, common pool resources, public goods and quasi-public goods by rivalry and excludability.
+A: <b>Private goods:</b> rivalrous, excludable.<br><b>Common pool resources:</b> rivalrous, non-excludable.<br><b>Public goods:</b> non-rivalrous, non-excludable.<br><b>Quasi-public goods:</b> non-rivalrous, excludable.
+
+@ T6.3.1 | definition example | 185-186
+Q: What are quasi-public goods? Give examples.
+A: 'Impure' public goods that are non-rivalrous (like public goods) but excludable (like private goods), e.g. public museums with an entrance fee, uncrowded toll roads, public swimming pools that charge entry, cable TV.
+
+@ T6.3.1 | explain | 186
+Q: Why are quasi-public goods often provided by governments even though private firms could provide them?
+A: Being excludable, they could be sold at a price by firms, but they often have very large positive externalities, which justifies direct government provision.
+
+@ T6.3.1 | explain | 185
+Q: Where do merit and demerit goods fit in the classification of goods by rivalry and excludability?
+A: As long as they are produced and sold by the market, they are private goods (rivalrous and excludable), e.g. education, petrol.
+
+@ T6.3.2 | definition | 185
+Q: What is the free rider problem?
+A: When people can enjoy the use of a good without paying for it. It arises from non-excludability.
+
+@ T6.3.2 | chain | 185
+Q: Why does the free market fail to provide public goods?
+A: Non-excludable → people can use the good without paying (free riders) → firms cannot charge a price to cover costs → no profit-maximising firm will produce it → no resources are allocated to it: market failure.
+
+@ T6.3.2 | explain | 185
+Q: Why do private firms have an incentive to provide excludable goods?
+A: They can charge a price, so people unwilling or unable to pay are excluded, and the firm can cover its costs.
+
+@ T6.3.3 | explain | 186
+Q: How are public goods usually provided and financed?
+A: Directly by the government, financed out of tax revenues, and made available to the public free (or nearly free) of charge.
+
+@ T6.3.3 | evaluation | 186
+Q: What choices does government provision of public goods involve, and why?
+A: Which public goods to provide and in what quantities: limited government funds mean every choice has an opportunity cost in other goods and services forgone.
+
+@ T6.3.3 | evaluation | 186
+Q: Why is it harder to estimate the benefits of public goods than of private goods with positive externalities?
+A: For private goods, the market price reveals their value to consumers; public goods are not produced by private firms and have no price, so this is impossible.
+
+@ T6.3.3 | definition | 186
+Q: What is cost-benefit analysis?
+A: A method that compares the estimated benefits to society of a particular good (or project) with its costs.
+
+@ T6.3.3 | explain | 186
+Q: How can governments estimate the value (demand) of public goods?
+A: Through votes or surveys asking people how much a good would be worth to them; this information is used in cost-benefit analysis.
+
+@ T6.3.3 | explain | 186
+Q: Using cost-benefit analysis, how should a government decide whether to provide a public good, and how much?
+A: Provide it if its total expected benefits exceed its total costs; then provide it up to the point where marginal benefit equals marginal cost.
+
+@ T6.3.3 | evaluation | 186
+Q: Why is cost-benefit analysis of public goods only a rough, approximate method?
+A: Costs are fairly easy to estimate, but benefits are not: people who really want something tend to exaggerate its value in surveys.
+
+@ T6.3.3 | evaluation | 186
+Q: Besides measurement problems, what else can distort government decisions about public goods?
+A: Politics: different groups compete over provision, and governments are sometimes susceptible to political pressure.
+
+@ T6.3.4 | definition example | 186
+Q: What is contracting out to the private sector? Give an example.
+A: When a government makes an agreement (contract) with a private firm to carry out an activity it previously did itself, e.g. hiring a private construction firm to build a new highway system.
+
+@ T6.3.4 | explain | 187
+Q: How are public goods that are contracted out to private firms financed?
+A: Still out of tax revenues, just as with direct government provision.
+
+@ T6.3.4 | evaluation | 187
+Q: How can competitive tendering make contracting out cheaper?
+A: Firms compete to provide the service, so the government can select the provider offering the lowest cost.
+
+@ T6.3.4 | evaluation | 187
+Q: How can contracting out improve quality control?
+A: Contracts usually include detailed specifications of the activity and criteria for measuring the provider's performance.
+
+@ T6.3.4 | evaluation | 187
+Q: What advantages do private firms' skills bring when public goods are contracted out?
+A: Access to a broader range of skills and technology than the government has, and private firms may be more flexible and innovative, so public goods may be better and cheaper.
+
+@ T6.3.4 | evaluation | 187
+Q: How does contracting out affect the government's accountability and control?
+A: The government becomes less accountable for the public goods provided and loses control over the contracted services.
+
+@ T6.3.4 | evaluation | 187
+Q: Why might contracting out end up costing more than direct government provision?
+A: Contracting firms often charge high prices for their services, and the government must also pay to monitor the contract.
+
+@ T6.3.4 | evaluation | 187
+Q: Why might contracting out reduce the quality of public goods?
+A: Competition between firms on cost may lower the quality of services, and a poorly made contract can bring both higher costs and lower quality.
+
+@ T6.3.4 | evaluation | 187
+Q: Which problem of public good provision does contracting out not solve?
+A: Deciding which public goods to produce and in what quantities, which depends on the difficult task of estimating expected benefits and costs.
+
+@ T6.3.4 | evaluation | 187
+Q: Overall, how effective is contracting out as a way of providing public goods?
+A: It is difficult to generalise: it has potential advantages (lower cost, quality control, skills, flexibility) and disadvantages (less accountability and control, possibly higher cost and lower quality).

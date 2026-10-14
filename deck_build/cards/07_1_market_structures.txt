@@ -1,0 +1,118 @@
+# 7.1 Introduction to firms, industries and market structures (HL) (book p196-198)
+# Note: orange key terms on p196-197 are missing from the PDF text layer; recovered by OCR/visual check.
+
+@ T7.1.1 | definition | 196
+Q: What is a firm?
+A: An organisation that employs factors of production to produce and sell a good or service.
+
+@ T7.1.1 | definition example | 196
+Q: What is an industry? Give an example.
+A: A group of one or more firms producing identical or similar goods or services, e.g. the car industry (Ford, Honda, Mercedes) or the banking industry.
+
+@ T7.1.1 | definition | 196
+Q: What are market structures?
+A: Models used to analyse industries, describing the characteristics of a market's organisation that determine the behaviour of firms.
+
+@ T7.1.1 | distinguish | 196
+Q: Compare the market power of a firm in perfect competition with that of a monopolist.
+A: <b>Perfect competition:</b> zero market power, no ability to control the price of its product.<br><b>Monopoly:</b> a single firm with the greatest ability to control its price, so the greatest market power.
+
+@ T7.1.1 | definition | 196
+Q: What is imperfect competition, and which market structures does it include?
+A: Market structures between the two extremes, where firms face some competition but also have some market power (they are price makers): monopolistic competition and oligopoly.
+
+@ T7.1.1 | explain | 196
+Q: Why is market power important for allocative efficiency?
+A: Market power gives rise to market failure: the greater the market power, the greater the allocative inefficiency.
+
+@ T7.1.1 | explain | 196
+Q: Which market structure is the only one where firms achieve allocative efficiency, and which causes the greatest allocative inefficiency?
+A: Perfect competition (zero market power) is the only one achieving allocative efficiency. Monopoly causes the greatest allocative inefficiency.
+
+@ T7.1.1 | explain | 196
+Q: Besides market power, what three characteristics are used to define market structures?
+A: The number of firms in the industry; how similar or different (differentiated) the products are; and how easy it is for new firms to enter (barriers to entry).
+
+@ T7.1.1 | definition | 196-197
+Q: What is product differentiation?
+A: Making products different from each other (not identical), e.g. in quality, servicing or packaging.
+
+@ T7.1.1 | definition | 196
+Q: What are barriers to entry, and what is free entry?
+A: <b>Barriers to entry:</b> anything that can prevent a firm from entering an industry and beginning production.<br><b>Free entry:</b> an industry with no barriers to entry.
+
+@ T7.1.2 | explain | 197
+Q: What are the main characteristics of perfect competition?
+A: A very large number of small firms; homogeneous products (identical, with no brand names); and no barriers to entry (free entry). Each firm has zero market power.
+
+@ T7.1.2 | definition | 197
+Q: What are homogeneous products?
+A: Identical, undifferentiated products, with no brand names.
+
+@ T7.1.2 | example | 197
+Q: Which real-world markets come closest to perfect competition, and why?
+A: International markets for agricultural commodities (wheat, rice, corn, livestock), silver and gold, stock and bond markets, and the foreign exchange market: each firm is small, products are (nearly) identical, and entry is free.
+
+@ T7.1.3 | explain | 197
+Q: What are the main characteristics of monopoly?
+A: A single seller or dominant firm (the firm is the industry); a unique product with no close substitutes; and high barriers to entry.
+
+@ T7.1.3 | explain | 197
+Q: Why must a monopolist's product have no close substitutes?
+A: If close substitutes existed, consumers could switch to buying them, and the firm would no longer have a monopoly.
+
+@ T7.1.3 | explain example | 197
+Q: In the real world, can a firm be a monopoly without being the only seller? Give an example.
+A: Yes: a monopolistic industry may consist of one firm that dominates the market with a very large market share, e.g. Monsanto controlling about 80% of the genetically modified corn market.
+
+@ T7.1.3 | example | 197
+Q: Give examples of monopolies.
+A: Telephone, water and electricity companies where they are the single supplier (natural monopolies, local or national); national postal services; Microsoft Windows (about 75% of laptops and desktops worldwide).
+
+@ T7.1.4 | explain | 197
+Q: What are the main characteristics of monopolistic competition?
+A: A fairly large number of small or medium-sized firms; no barriers to entry; and product differentiation (in quality, servicing, packaging and so on).
+
+@ T7.1.4 | example | 197
+Q: Give examples of monopolistically competitive industries.
+A: Shoes, clothing, detergents, computers, publishing, furniture and restaurants.
+
+@ T7.1.4 | explain example | 197
+Q: In what sense is a firm in monopolistic competition 'a little monopoly', and what limits its power?
+A: Through product differentiation it is the only producer of its own version of the product (e.g. Nike is the monopolist of Nike shoes), giving it some control over price; but similar products (other brands) limit that control.
+
+@ T7.1.4 | distinguish | 197
+Q: How does monopolistic competition differ from perfect competition?
+A: Both have many firms and free entry, but monopolistic competition has product differentiation, which gives each firm some control over its price.
+
+@ T7.1.5 | explain | 197
+Q: What are the main characteristics of oligopoly?
+A: A small number of large, interdependent firms; products that may be differentiated or undifferentiated; and high barriers to entry.
+
+@ T7.1.5 | definition | 197
+Q: What does interdependence mean in an oligopoly?
+A: Because there are few firms, the actions of one firm affect the others, so each firm tries to predict what its rivals will do.
+
+@ T7.1.5 | example | 197
+Q: Give examples of oligopolies with differentiated products and with undifferentiated products.
+A: <b>Differentiated:</b> cars, airlines, electrical appliances, electronic equipment.<br><b>Undifferentiated:</b> oil, steel, aluminium, copper, cement.
+
+@ T7.1.5 | explain | 197
+Q: Which market structures describe most real-world industries?
+A: Monopolistic competition and oligopoly.
+
+@ T7.1.6 | explain | 198
+Q: Rank the four market structures in order of increasing market power.
+A: Perfect competition (none), monopolistic competition (some), oligopoly (significant), monopoly (very significant).
+
+@ T7.1.6 | explain | 198
+Q: Compare the ease of entry into the industry across the four market structures.
+A: <b>Perfect competition and monopolistic competition:</b> very easy.<br><b>Oligopoly:</b> very difficult.<br><b>Monopoly:</b> difficult to impossible.
+
+@ T7.1.6 | explain | 198
+Q: Why do economists study perfect competition even though it is highly unrealistic?
+A: It is the only market structure that achieves allocative efficiency (the market does not fail), it shows the benefits of competition, and it provides a standard against which the other three structures can be evaluated.
+
+@ T7.1.6 | evaluation | 198
+Q: Is perfect competition better than the other market structures in every respect?
+A: No. Perfect competition has important limitations, while the other structures, though not allocatively efficient, often offer advantages that perfect competition cannot provide.

@@ -1,0 +1,197 @@
+# 2.3 Supply (book p49-57)
+
+@ T2.3.1 | definition | 49
+Q: What is the supply of an individual firm?
+A: The various quantities of a good or service a firm is willing and able to produce and supply to the market for sale at different possible prices, during a particular time period, ceteris paribus.
+
+@ T2.3.1 | explain | 49
+Q: Who are the sellers (suppliers) in product markets and in resource markets?
+A: <b>Product markets:</b> firms sell goods and services.<br><b>Resource markets:</b> households sell factors of production.
+
+@ T2.3.1 | definition | 50
+Q: What is a supply schedule?
+A: A table showing the various quantities of a good that a firm (or the market) is willing and able to produce and supply at various prices.
+
+@ T2.3.1 | definition | 50
+Q: State the law of supply.
+A: There is a positive relationship between the quantity of a good supplied over a particular time period and its price, ceteris paribus: price ↑ → quantity supplied ↑; price ↓ → quantity supplied ↓.
+
+@ T2.3.1 | explain | 50
+Q: Why is the relationship described by the law of supply called both 'positive' and 'causal'?
+A: <b>Positive</b> (direct): price and quantity supplied move in the same direction. <b>Causal</b>: changes in price cause the changes in quantity supplied.
+
+@ T2.3.2 | diagram | 50
+Q: Describe a supply curve diagram (axes and slope).
+A: Price on the vertical axis, quantity on the horizontal axis. The supply curve slopes upward from left to right, showing the positive relationship between price and quantity supplied.
+
+@ T2.3.2 | explain | 50
+Q: Does a supply curve tell us how much a firm will actually sell and at what price?
+A: No. It shows only how much the firm would be prepared to produce and sell at each possible price; the actual outcome depends on the interaction of supply with demand.
+
+@ T2.3.2 | diagram | 51
+Q: What does a vertical supply curve show?
+A: Quantity supplied is fixed and independent of price: even if price rises, quantity supplied cannot increase.
+
+@ T2.3.2 | explain example | 51
+Q: Why is the supply curve of theatre tickets for a single show vertical?
+A: The quantity is fixed by the number of seats and there is no time to produce more, so quantity supplied cannot rise however high the price.
+
+@ T2.3.2 | explain example | 51
+Q: Why is the supply curve of original Stradivarius violins (or original paintings by famous artists) vertical?
+A: No more originals can ever be produced (reproductions are possible, originals are not), so quantity supplied cannot respond to price.
+
+@ T2.3.3 | definition | 50
+Q: What is market supply?
+A: The total quantities of a good that all firms are willing and able to supply in a market at different possible prices: the sum of all individual firms' supplies.
+
+@ T2.3.3 | diagram | 50-51
+Q: How is the market supply curve derived from individual firms' supply curves?
+A: At each possible price, add up the quantities supplied by every firm (horizontal summation). Plotting these totals at every price gives the upward-sloping market supply curve.
+
+@ T2.3.4 | definition | 51
+Q: What are the non-price determinants of supply?
+A: The factors other than price that influence supply (e.g. factor costs, technology, prices of related goods, taxes, subsidies, number of firms). Changes in them shift the supply curve.
+
+@ T2.3.4 | diagram | 52
+Q: On a supply diagram, what does a rightward shift of the supply curve show, and what is it called?
+A: More is supplied at every given price. It is called an <b>increase in supply</b>.
+
+@ T2.3.4 | diagram | 52
+Q: On a supply diagram, what does a leftward shift of the supply curve show, and what is it called?
+A: Less is supplied at every given price. It is called a <b>decrease in supply</b>.
+
+@ T2.3.4 | chain | 52
+Q: How does a rise in the price of a factor of production (e.g. wages) affect a firm's supply?
+A: Factor price ↑ → costs of production ↑ → production less profitable → firm produces less → supply ↓ → supply curve shifts left. (Factor price ↓ → shifts right.)
+
+@ T2.3.4 | chain | 52
+Q: How does an improvement in technology affect supply?
+A: Better technology → costs of production ↓ → production more profitable → supply ↑ → supply curve shifts right. (A less productive technology would shift it left.)
+
+@ T2.3.4 | definition example | 52
+Q: What is competitive supply? Give an example.
+A: Production of one good or another, where the goods compete for the same resources, so producing more of one means producing less of the other (e.g. a farmer choosing to grow wheat or corn).
+
+@ T2.3.4 | chain | 52
+Q: A farmer can grow wheat or corn. The price of corn rises. What happens to the supply of wheat?
+A: Competitive supply: price of corn ↑ → corn more profitable → farmer switches resources to corn → supply of wheat ↓ → wheat supply curve shifts left. (Price of corn ↓ → wheat supply shifts right.)
+
+@ T2.3.4 | definition example | 52
+Q: What is joint supply? Give an example.
+A: Production of goods derived from a single product, so more of one cannot be produced without producing more of the other (e.g. butter and skimmed milk from whole milk; petrol, diesel and heating oil from crude oil).
+
+@ T2.3.4 | chain | 52
+Q: Butter and skimmed milk are in joint supply. The price of butter rises. What happens to the supply of skimmed milk?
+A: Price of butter ↑ → quantity of butter supplied ↑ → more whole milk is processed → supply of skimmed milk ↑ → its supply curve shifts right.
+
+@ T2.3.4 | chain | 53
+Q: Firms expect the price of their product to rise in future. How does this affect current supply?
+A: Expected future price ↑ → firms withhold some current output to sell later at the higher price → current supply ↓ → supply curve shifts left. (Expected price fall → current supply ↑ → shifts right.)
+
+@ T2.3.4 | chain | 53
+Q: How does a new or higher tax (indirect tax or tax on profits) affect a firm's supply?
+A: Firms treat taxes like costs of production: tax ↑ → costs ↑ → supply ↓ → supply curve shifts left. Removing or cutting a tax → supply curve shifts right.
+
+@ T2.3.4 | definition | 53
+Q: What is a subsidy (to producers)?
+A: A payment made by the government to a firm, e.g. to raise producers' incomes or to encourage more production of the good. It has the opposite effect to a tax.
+
+@ T2.3.4 | chain | 53
+Q: How does the introduction of a subsidy affect supply?
+A: Subsidy ↑ → equivalent to a fall in production costs → supply ↑ → supply curve shifts right. Removing or cutting a subsidy → supply curve shifts left.
+
+@ T2.3.4 | chain | 53
+Q: How does a change in the number of firms affect market supply?
+A: Number of firms ↑ → market supply ↑ → supply curve shifts right (and vice versa), because market supply is the sum of all individual supplies.
+
+@ T2.3.4 | definition example | 53
+Q: What are supply 'shocks'? Give an example.
+A: Sudden, unpredictable events that affect supply, e.g. weather (for farm products), war, natural or man-made disasters such as the 2010 Louisiana (Gulf of Mexico) oil spill, which cut the supply of local seafood.
+
+@ T2.3.5 | distinguish | 53
+Q: Distinguish between a 'change in quantity supplied' and a 'change in supply'.
+A: <b>Change in quantity supplied:</b> caused only by a change in the good's own price; a movement along the supply curve.<br><b>Change in supply:</b> caused by a change in a non-price determinant; a shift of the whole supply curve.
+
+@ T2.3.5 | diagram | 53
+Q: A good's price rises, ceteris paribus. Describe what happens on its supply diagram and name the change.
+A: A movement up along the same supply curve (e.g. point A to point B) to a larger quantity. This is an <b>increase in quantity supplied</b>; the curve does not shift.
+
+@ T2.3.5 | diagram | 52-53
+Q: The price of a key input (e.g. oil) rises. Describe what happens on the product's supply diagram and name the change.
+A: The whole supply curve shifts left (e.g. S1 to S3): less is supplied at every price. This is a <b>decrease in supply</b>.
+
+@ T2.3.6 | definition | 54
+Q: In microeconomics, what is the short run?
+A: A time period during which at least one input is fixed (unchanging in quantity and quality), e.g. buildings, factories and heavy machinery, while other inputs such as labour and materials are variable.
+
+@ T2.3.6 | definition | 54
+Q: In microeconomics, what is the long run?
+A: A time period in which all inputs can be changed: the firm has no fixed inputs.
+
+@ T2.3.6 | explain | 54
+Q: Do the short run and the long run correspond to particular lengths of time?
+A: No. Some industries can change their fixed inputs within weeks or months, while others take many years.
+
+@ T2.3.6 | distinguish | 54
+Q: Distinguish between total product and marginal product.
+A: <b>Total product:</b> the total quantity of output a firm produces.<br><b>Marginal product:</b> the extra output produced by one additional unit of a variable input (e.g. one more worker).
+
+@ T2.3.6 | definition | 55
+Q: State the law of diminishing marginal returns.
+A: As more and more units of a variable input (e.g. labour) are added to one or more fixed inputs (e.g. land), the marginal product of the variable input at first increases, but eventually begins to decrease. Fixed inputs and technology are held constant.
+
+@ T2.3.6 | explain | 55
+Q: Why does marginal product at first increase as workers are added to a farm of fixed size?
+A: One worker alone must do every task (ploughing, planting, harvesting), so output is low; additional workers share and divide the work, so each adds more output than the one before.
+
+@ T2.3.6 | explain | 55
+Q: Why do diminishing marginal returns eventually set in?
+A: Overcrowding of the fixed input: each additional worker has less land (or fewer machines) to work with, so adds less and less output, eventually none.
+
+@ T2.3.6 | explain | 54-55
+Q: Why does the law of diminishing marginal returns hold only in the short run?
+A: It requires at least one fixed input. In the long run all inputs can be varied, so no input is fixed.
+
+@ T2.3.6 | evaluation | 55
+Q: What would be implied if diminishing marginal returns did not exist?
+A: Output (e.g. food) could be increased indefinitely just by adding variable inputs to a fixed piece of land, which is clearly impossible.
+
+@ T2.3.6 | example | 56
+Q: What did David Ricardo predict about agricultural output, and which concept was it based on?
+A: That agricultural output would eventually stop growing, because adding more labour and capital to a fixed quantity of land gives smaller and smaller additions to output: diminishing marginal returns.
+
+@ T2.3.6 | evaluation | 55-56
+Q: Why has world agricultural output kept growing despite a fixed quantity of land (contrary to Ricardo's fears)?
+A: The law of diminishing returns assumes unchanging technology. Technological change (better seeds, fertilisers, machinery, methods) raises the output obtainable from the same land.
+
+@ T2.3.7 | definition | 55
+Q: What is total cost?
+A: All the costs of production incurred by a firm.
+
+@ T2.3.7 | definition | 56
+Q: What is marginal cost?
+A: The extra cost of producing one more unit of output: how much total cost increases when output rises by one unit.
+
+@ T2.3.7 | explain | 56
+Q: How is the pattern of marginal cost related to the pattern of marginal product?
+A: It is the opposite, and determined entirely by diminishing marginal returns: MP rising → MC falling; MP at its maximum → MC at its minimum; MP falling → MC rising.
+
+@ T2.3.7 | chain | 56
+Q: Why does marginal cost fall at low levels of output?
+A: Marginal product of labour ↑ → each extra worker (who adds to costs) produces more and more output → cost of each additional unit of output ↓.
+
+@ T2.3.7 | chain | 56
+Q: Why does marginal cost rise once diminishing marginal returns set in?
+A: Marginal product ↓ → each extra worker adds less output → the cost of each additional unit of output (marginal cost) ↑.
+
+@ T2.3.7 | definition | 57
+Q: How is a firm's supply curve related to its marginal cost curve?
+A: The supply curve is a portion of the upward-sloping marginal cost curve: it shows the price–quantity combinations where the marginal cost of producing one more unit equals the price of that unit.
+
+@ T2.3.7 | chain | 57
+Q: How does increasing marginal cost explain the upward-sloping supply curve?
+A: Diminishing returns → marginal cost ↑ as output ↑ → firm will produce extra units only if the price rises to cover the extra cost of each extra unit → higher price needed for a larger quantity supplied.
+
+@ T2.3.7 | explain | 57
+Q: Where on the marginal cost curve does a firm's supply curve begin?
+A: At the point where the firm earns enough revenue to be better off producing than shutting down (where it covers all its variable costs); the supply curve is the upward-sloping part of MC above that point.

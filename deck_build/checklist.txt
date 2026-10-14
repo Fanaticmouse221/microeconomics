@@ -1,0 +1,221 @@
+# Checklist = the textbook's own learning objectives for each section, split into the book's sub-topics
+# where one objective covers several (Tragakes, Economics for the
+# IB Diploma, 3rd ed., Chapters 2-7, book pages 41-245). The generic "define all the terms" objective
+# is folded into the objective each term belongs to. Format:
+#   [section | topic tag | section title]
+#   <dot-point ID> | <learning objective>
+
+[2.1 | competitive_markets | Introduction to competitive markets]
+T2.1.1 | Define a market; local, national and international markets; product and resource markets
+T2.1.2 | Outline the meaning of a competitive market (competition vs market power)
+
+[2.2 | demand | Demand]
+T2.2.1 | Explain the law of demand (individual demand, ceteris paribus, demand schedule)
+T2.2.2 | Draw a demand curve
+T2.2.3 | Explain the relationship between individual demand and market demand
+T2.2.4 | Analyse the non-price determinants of demand as causes of demand curve shifts
+T2.2.5 | Using diagrams, distinguish between movements along and shifts of the demand curve
+T2.2.6 | (HL) Assumptions underlying the law of demand: the law of diminishing marginal utility
+T2.2.7 | (HL) Assumptions underlying the law of demand: the income and substitution effects
+
+[2.3 | supply | Supply]
+T2.3.1 | Explain the law of supply (individual supply, supply schedule)
+T2.3.2 | Draw a supply curve (including the vertical supply curve)
+T2.3.3 | Explain the relationship between individual supply and market supply
+T2.3.4 | Analyse the non-price determinants of supply as causes of supply curve shifts
+T2.3.5 | Using diagrams, distinguish between movements along and shifts of the supply curve
+T2.3.6 | (HL) Assumptions underlying the law of supply: the law of diminishing marginal returns
+T2.3.7 | (HL) Assumptions underlying the law of supply: increasing marginal costs and the firm's supply curve
+
+[2.4 | market_equilibrium | Competitive market equilibrium: demand and supply]
+T2.4.1 | Draw a diagram to illustrate how demand and supply interact to determine market equilibrium
+T2.4.2 | Analyse demand and supply curve shifts that give rise to a new equilibrium, using excess demand (shortage) and excess supply (surplus)
+T2.4.3 | Draw diagrams to illustrate how shifts in demand and supply give rise to a new equilibrium (incl. free and economic goods)
+
+[2.5 | price_mechanism | The role of the price mechanism and market efficiency]
+T2.5.1 | Analyse the price mechanism: resource allocation through the signalling and incentive functions of prices
+T2.5.2 | Analyse the price mechanism: rationing (price and non-price rationing)
+T2.5.3 | Explain consumer surplus, producer surplus and social (community) surplus (MB and MC interpretation of demand and supply)
+T2.5.4 | Draw a diagram showing maximum social surplus at competitive market equilibrium
+T2.5.5 | Explain the conditions for allocative efficiency at competitive market equilibrium (MB = MC, maximum social surplus) and why intervention may still be needed
+
+[2.6 | behavioural_economics | Critique of the maximising behaviour of consumers and producers (HL)]
+T2.6.1 | Evaluate the assumptions of consumer rationality, utility maximisation and perfect information
+T2.6.2 | Behavioural critique: biases (rules of thumb, anchoring, framing, availability)
+T2.6.3 | Behavioural critique: bounded rationality, bounded self-control, bounded selfishness, imperfect information
+T2.6.4 | Policies inspired by behavioural economics: nudge theory
+T2.6.5 | Policies inspired by behavioural economics: choice architecture (default, restricted and mandated choice)
+T2.6.6 | Evaluate behavioural economics and its policies (mainstream response, advantages, disadvantages)
+T2.6.7 | Business objectives: profit maximisation
+T2.6.8 | Alternative business objectives: corporate social responsibility, market share, growth, satisficing (and revenue maximisation)
+
+[3.1 | PED | Price elasticity of demand (PED)]
+T3.1.1 | Define PED and identify the various degrees and range of values for PED (sign, use of percentages)
+T3.1.2 | Draw diagrams showing the range of values for PED (relatively elastic and inelastic; perfectly elastic, perfectly inelastic, unitary) and PED versus steepness
+T3.1.3 | (HL) Explain and illustrate changing PED along a straight-line downward-sloping demand curve
+T3.1.4 | Analyse the determinants of PED
+T3.1.5 | Explain the relationship between PED and total revenue
+T3.1.6 | Draw a diagram to show how total revenue changes in response to a price change with elastic, inelastic or unit elastic demand
+T3.1.7 | Apply PED: its importance for firms (pricing) and government decision-making (indirect taxes)
+T3.1.8 | (HL) Analyse why primary commodities generally have a lower PED than manufactured products (and the consequences for prices and producer revenues)
+
+[3.2 | YED | Income elasticity of demand (YED)]
+T3.2.1 | Define YED and, depending on the sign of YED, distinguish between normal and inferior goods
+T3.2.2 | Depending on the value of YED (less than or greater than one), distinguish between necessities, luxuries and services
+T3.2.3 | Draw an Engel curve diagram to show income elastic, income inelastic and inferior goods
+T3.2.4 | (HL) Apply YED: discuss its relevance to firms
+T3.2.5 | (HL) Apply YED: discuss changes in the sectoral structure of an economy
+
+[3.3 | PES | Price elasticity of supply (PES)]
+T3.3.1 | Define PES and identify the various degrees and range of values for PES
+T3.3.2 | Draw diagrams showing the range of values for PES (relatively elastic and inelastic; perfectly elastic, perfectly inelastic, unitary)
+T3.3.3 | Analyse the determinants of PES
+T3.3.4 | (HL) Apply PES: why primary commodities generally have a lower PES than manufactured products (and the consequences)
+
+[4.1 | govt_intervention | Government intervention in markets]
+T4.1.1 | Outline key reasons why governments intervene in markets (incl. the Real world issue 2 overview)
+T4.1.2 | Outline the forms government intervention takes at the microeconomic level
+
+[4.2 | price_controls | Price controls]
+T4.2.1 | Price controls: meaning, and why they cause persistent market disequilibrium
+T4.2.2 | Price ceilings: explain and draw the consequences for markets (shortage, non-price rationing, underground markets, underallocation, welfare loss)
+T4.2.3 | Price ceilings: consequences for stakeholders and evaluation (incl. rent controls and food price controls)
+T4.2.4 | Price floors for agricultural products: explain and draw the consequences for markets (surplus, government purchases, firm inefficiency, overallocation, welfare loss)
+T4.2.5 | Price floors for agricultural products: consequences for stakeholders and evaluation
+T4.2.6 | Minimum wages: explain and draw the consequences for the economy and stakeholders, and evaluate
+T4.2.7 | Fixed prices (e.g. event tickets)
+
+[4.3 | indirect_taxes | Indirect taxes]
+T4.3.1 | The meaning of indirect taxes: excise and general taxes, indirect versus direct, specific versus ad valorem
+T4.3.2 | Indirect taxes and resource allocation; why governments impose indirect taxes
+T4.3.3 | Draw diagrams and explain the impacts of a specific tax on market outcomes
+T4.3.4 | Explain the consequences of indirect taxes for stakeholders
+T4.3.5 | Evaluate indirect taxes: consumer and producer surplus, welfare loss and allocative inefficiency
+
+[4.4 | subsidies | Subsidies]
+T4.4.1 | The meaning of subsidies; subsidies and the allocation of resources
+T4.4.2 | Why governments grant subsidies (and why subsidies are controversial)
+T4.4.3 | Draw diagrams and explain the impacts of a subsidy on market outcomes
+T4.4.4 | Explain the consequences of subsidies for stakeholders
+T4.4.5 | Evaluate subsidies: consumer and producer surplus, welfare loss and allocative inefficiency
+
+[5.1 | common_pool_resources | The meaning of common pool resources]
+T5.1.1 | Explain the meaning of common pool resources in terms of rivalry and non-excludability
+T5.1.2 | Explain the tragedy of the commons
+T5.1.3 | Explain the meaning of sustainable and unsustainable production (maximum sustainable yield; renewable and non-renewable resources)
+
+[5.2 | externalities_intro | Market failure and externalities: diverging private and social benefits and costs]
+T5.2.1 | Explain market failure as the failure of the market to achieve allocative efficiency
+T5.2.2 | Explain that socially optimum output is produced when MSC = MSB and social surplus is maximum (MPB, MSB, MPC, MSC)
+T5.2.3 | Draw a diagram illustrating allocative efficiency and socially optimum output
+T5.2.4 | Explain the meaning of externalities as an example of market failure
+
+[5.3 | negative_production_externalities | Negative production externalities]
+T5.3.1 | Explain negative externalities of production (MSC above MPC) and the resulting overallocation
+T5.3.2 | Explain and draw the welfare loss from negative production externalities
+T5.3.3 | Explain that negative production externalities can illustrate the overuse of common pool resources
+T5.3.4 | Government responses: indirect (Pigouvian) taxes (explain, diagram)
+T5.3.5 | Government responses: carbon taxes (explain, diagram)
+T5.3.6 | Government responses: tradable permits / cap and trade (explain, diagram)
+T5.3.7 | Evaluate market-based policies (measurement difficulties, effectiveness, stakeholders; carbon taxes versus tradable permits)
+T5.3.8 | Government responses: legislation and regulation (explain, diagram, evaluate)
+T5.3.9 | Government responses: collective self-governance (Ostrom) (explain, evaluate)
+T5.3.10 | Government responses: education and awareness creation (explain, evaluate)
+T5.3.11 | Government responses: international agreements (explain, evaluate)
+
+[5.4 | negative_consumption_externalities | Negative consumption externalities]
+T5.4.1 | Explain negative externalities of consumption (MSB below MPB) and the resulting overallocation
+T5.4.2 | Explain and draw the welfare loss from negative consumption externalities
+T5.4.3 | Negative consumption externalities and the overuse of common pool resources
+T5.4.4 | Explain the meaning of demerit goods
+T5.4.5 | Government responses: indirect (Pigouvian) taxes (explain, diagram, evaluate)
+T5.4.6 | Government responses: legislation and regulation (explain, diagram, evaluate)
+T5.4.7 | Government responses: education and awareness creation (explain, evaluate)
+T5.4.8 | (HL) Government responses: nudges (explain, evaluate)
+T5.4.9 | Evaluate policies for negative consumption externalities overall (combining policies; sugar taxes)
+
+[6.1 | positive_production_externalities | Positive production externalities]
+T6.1.1 | Explain positive externalities of production (MSC below MPC) and the resulting underallocation
+T6.1.2 | Explain and draw the welfare loss from positive production externalities
+T6.1.3 | Government responses: direct government provision and subsidies (explain, diagram)
+
+[6.2 | positive_consumption_externalities | Positive consumption externalities]
+T6.2.1 | Explain positive externalities of consumption (MSB above MPB) and the resulting underallocation
+T6.2.2 | Explain and draw the welfare loss from positive consumption externalities
+T6.2.3 | Explain the meaning of merit goods (reasons for underprovision)
+T6.2.4 | Government responses that raise demand: legislation and regulation, education and awareness creation, nudges (explain, diagram)
+T6.2.5 | Government responses that raise supply: direct government provision and subsidies (explain, diagram)
+T6.2.6 | Evaluate policies to correct positive production and consumption externalities
+T6.2.7 | Summary of externalities and rules for drawing externality diagrams
+
+[6.3 | public_goods | Market failure and public goods]
+T6.3.1 | Explain public goods as non-rivalrous and non-excludable (and classify private goods, common pool resources, public and quasi-public goods)
+T6.3.2 | Explain the free rider problem and why the market fails to provide public goods
+T6.3.3 | Evaluate direct government provision of public goods (incl. cost-benefit analysis)
+T6.3.4 | Evaluate contracting out the provision of public goods to the private sector
+
+[6.4 | asymmetric_information | Asymmetric information (HL)]
+T6.4.1 | Explain asymmetric information and distinguish between adverse selection and moral hazard
+T6.4.2 | Adverse selection (sellers know more): evaluate government responses (regulation, provision of information, licensure)
+T6.4.3 | Adverse selection (sellers know more): evaluate private responses (screening and signalling)
+T6.4.4 | Adverse selection (buyers know more, e.g. health insurance): private and government responses
+T6.4.5 | Moral hazard: examples and responses
+
+[6.5 | equity_distribution | Equity in the distribution of income and wealth (HL)]
+T6.5.1 | Explain why the free market results in an unequal distribution of income (equity and equality; factor ownership and factor prices)
+T6.5.2 | Draw a circular flow of income diagram to show why free markets give rise to income inequalities
+T6.5.3 | Explain inequalities in wealth (income versus wealth) and how inequality relates to market failure
+
+[7.1 | market_structures | Introduction to firms, industries and market structures (HL)]
+T7.1.1 | Explain the meaning of market power and its link to market failure (firms, industries, market structures)
+T7.1.2 | Explain the main characteristics of perfect competition (many firms, free entry, homogeneous products)
+T7.1.3 | Explain the main characteristics of monopoly (single or dominant firm, high barriers to entry, no close substitutes)
+T7.1.4 | Explain the characteristics of imperfect competition: monopolistic competition (many firms, free entry, product differentiation)
+T7.1.5 | Explain the characteristics of imperfect competition: oligopoly (few large firms, high barriers to entry, interdependence)
+T7.1.6 | Compare the four market structures (market power versus competition) and explain why perfect competition is studied
+
+[7.2 | costs_revenue_profit | Profit maximisation by the rational producer (HL)]
+T7.2.1 | Explain revenue concepts: total, average and marginal revenue (price takers versus price makers)
+T7.2.2 | Explain cost concepts: economic (explicit and implicit) costs; total, average and marginal cost in the short run
+T7.2.3 | Explain long-run costs: the long-run average cost curve, economies and diseconomies of scale
+T7.2.4 | Explain profit concepts: economic profit, abnormal profit, normal profit, loss
+T7.2.5 | Explain profit maximisation (MR = MC; total revenue minus total cost)
+
+[7.3 | perfect_competition | Perfect competition (HL)]
+T7.3.1 | Explain firms in perfect competition as price takers with no market power (P = D = AR = MR)
+T7.3.2 | Explain and draw short-run profit maximisation (abnormal profit, normal profit, loss)
+T7.3.3 | Explain and draw long-run profit maximisation and equilibrium (normal profit through entry and exit)
+T7.3.4 | Explain allocative efficiency in perfect competition (P = MC, MB = MC, maximum social surplus)
+T7.3.5 | Discuss the advantages and disadvantages of perfect competition
+
+[7.4 | monopoly | Monopoly (HL)]
+T7.4.1 | Explain barriers to entry (economies of scale, natural monopoly, branding, legal barriers, control of essential resources, aggressive tactics)
+T7.4.2 | Explain the monopolist's demand and revenue curves and market power (AR above MC; P greater than MC)
+T7.4.3 | Explain and draw profit maximisation by the monopolist (abnormal profit, normal profit, loss)
+T7.4.4 | Explain and draw natural monopoly
+T7.4.5 | Explain the monopolist's allocative inefficiency and welfare loss compared with perfect competition (higher price, lower output)
+T7.4.6 | Discuss the advantages and disadvantages of monopoly
+
+[7.5 | monopolistic_competition | Monopolistic competition (HL)]
+T7.5.1 | Explain the assumptions of monopolistic competition and the methods of product differentiation
+T7.5.2 | Explain that monopolistic competition has less market power than monopoly (more elastic demand curve); price and non-price competition
+T7.5.3 | Explain and draw profit maximisation in the short run and long run (abnormal profit, normal profit, loss)
+T7.5.4 | Explain allocative inefficiency and market failure; more product variety in exchange for less efficiency
+T7.5.5 | Discuss the advantages and disadvantages of monopolistic competition (compared with perfect competition and monopoly)
+
+[7.6 | oligopoly | Oligopoly (HL)]
+T7.6.1 | Explain the characteristics of oligopoly (few large firms, high barriers to entry, interdependence)
+T7.6.2 | Explain features of oligopoly: interdependence, strategic behaviour, incentive to collude versus incentive to cheat, risk of price war
+T7.6.3 | Explain the simple game theory payoff matrix (prisoner's dilemma, Nash equilibrium)
+T7.6.4 | Explain the relevance of price and non-price competition in oligopoly
+T7.6.5 | Explain collusive oligopoly and draw a diagram (cartels, difficulties of maintaining them, informal collusion and price leadership)
+T7.6.6 | Distinguish non-collusive oligopoly (strategic behaviour and price rigidity)
+T7.6.7 | Explain market concentration and concentration ratios (and their weaknesses)
+T7.6.8 | Explain allocative inefficiency and market failure in oligopoly; discuss its advantages and disadvantages
+
+[7.7 | abuse_of_market_power | Government intervention in response to abuse of market power (HL)]
+T7.7.1 | Discuss advantages of large firms with significant market power (economies of scale, R&D, innovation) and risks to output, price and consumer choice
+T7.7.2 | Explain the meaning of abuse of market power (anti-competitive practices) and where it arises
+T7.7.3 | Evaluate legislation and regulation to protect competition (competition policy, mergers)
+T7.7.4 | Evaluate fines as a response to abuse of market power
+T7.7.5 | Evaluate government ownership and regulation of natural monopolies (marginal cost and average cost pricing)

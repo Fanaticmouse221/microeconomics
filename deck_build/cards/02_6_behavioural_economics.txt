@@ -1,0 +1,358 @@
+# 2.6 Critique of the maximising behaviour of consumers and producers (HL) (book p72-83)
+# Excluded: TOK 2.2 (p74-75), TOK 2.3 (p82); pizza profit arithmetic (p79); market share arithmetic (p80).
+
+@ T2.6.1 | definition | 72
+Q: What is the assumption of rational self-interest (rational economic decision-making)?
+A: Individuals act in their best self-interest, trying to maximise the satisfaction they expect to receive from their economic decisions.
+
+@ T2.6.1 | explain | 72
+Q: Under the assumption of rational self-interest, what are consumers, firms, workers and investors each assumed to maximise?
+A: <b>Consumers:</b> satisfaction (utility) from purchases.<br><b>Firms:</b> profit.<br><b>Workers:</b> wages.<br><b>Investors:</b> returns on investments.
+
+@ T2.6.1 | definition | 72
+Q: What is the completeness assumption of rational consumer choice?
+A: The consumer can rank any two goods (or groups of goods) A and B with certainty: she prefers A to B, prefers B to A, or is indifferent between them.
+
+@ T2.6.1 | definition | 72
+Q: What is the transitivity assumption of rational consumer choice?
+A: Preferences are consistent: if the consumer prefers A to B, and B to C, she must prefer A to C.
+
+@ T2.6.1 | definition | 72
+Q: What is the non-satiation assumption of rational consumer choice?
+A: The consumer always prefers more of a good to less.
+
+@ T2.6.1 | definition | 73
+Q: What does the assumption of perfect information mean in the theory of consumer behaviour?
+A: Consumers have complete knowledge of all their alternatives (all possible products, product qualities and prices), so there is no uncertainty about what they choose.
+
+@ T2.6.1 | definition | 73
+Q: What does utility maximisation mean?
+A: Consumers make their utility as large as possible by buying the combination of goods and services that gives the greatest total utility for a given amount of money spent (their budget or income).
+
+@ T2.6.1 | explain | 73
+Q: Which assumptions does the idea of utility maximisation rest on?
+A: Consumer rationality (completeness, transitivity and non-satiation of preferences) and perfect information.
+
+@ T2.6.1 | definition | 73
+Q: What is behavioural economics?
+A: A branch of economics, influenced mainly by psychology (also sociology and neuroscience), based on the idea that human behaviour is far more complex than consumer rationality assumes. It began to flourish around the start of the 21st century.
+
+@ T2.6.1 | distinguish | 75
+Q: How does behavioural economics study decision-making differently from the standard theory of consumer behaviour?
+A: The standard theory relies on assumptions about human behaviour; behavioural economics relies extensively on experiments that observe how people actually behave and react in different situations.
+
+@ T2.6.2 | definition | 73
+Q: What is a bias (cognitive bias)?
+A: A term from psychology for a systematic error in thinking or evaluating: a departure from normal standards of thought or judgement.
+
+@ T2.6.2 | definition example | 73
+Q: What is a rule of thumb (as a consumer bias)? Give an example.
+A: A simple guideline based on experience and common sense that simplifies a complicated decision, e.g. 'one serving of fruit is the size of a fist' or 'a portion of salad is two handfuls'.
+
+@ T2.6.2 | evaluation | 73
+Q: Why do rules of thumb conflict with the assumption of consumer rationality?
+A: Rational choice requires complex consideration of every possible alternative; rules of thumb replace measurement and calculation with simple shortcuts, so choices need not maximise utility.
+
+@ T2.6.2 | definition example | 73
+Q: What is anchoring? Give an example.
+A: Using irrelevant information to make a decision, often simply the first piece of information encountered, e.g. seeing jeans at $150 makes a similar $100 pair seem a bargain, though the same jeans sell for $50 elsewhere.
+
+@ T2.6.2 | definition example | 73
+Q: What is framing? Give an example.
+A: The way choices are presented (framed) affects decisions, e.g. consumers prefer beef described as '80% lean' to beef described as '20% fat', although the information is identical.
+
+@ T2.6.2 | example | 73
+Q: Give an example of a purchase framed by the seller's environment rather than by language.
+A: Consumers may pay more for a faded pair of jeans in a boutique than for an identical pair in a discount store.
+
+@ T2.6.2 | explain | 73
+Q: Why would a perfectly rational consumer be unaffected by framing?
+A: The information is exactly the same, only presented differently, so a rational consumer would be indifferent between the two presentations.
+
+@ T2.6.2 | definition example | 73
+Q: What is the availability bias? Give an example.
+A: Relying more heavily on the most recently available information (because it is remembered more easily), though it is no more reliable than older information, e.g. choosing a brand after recently seeing a lot of advertising for it.
+
+@ T2.6.3 | definition | 74
+Q: What is bounded rationality?
+A: Herbert Simon's idea that consumers are rational only within limits, because of insufficient information, the cost of obtaining information, and the limited capacity of the human mind to process large amounts of information.
+
+@ T2.6.3 | definition | 74
+Q: In behavioural economics, what does it mean to 'satisfice'?
+A: To seek a satisfactory outcome rather than an optimal (best) one. Simon argued consumers satisfice rather than maximise.
+
+@ T2.6.3 | example | 74
+Q: Which economist developed the idea of bounded rationality, and what argument was it based on?
+A: Herbert Simon (Nobel Prize winner for work on economic decision-making): people have a limited capacity to process information, and searching for the information needed to maximise utility is itself costly.
+
+@ T2.6.3 | definition example | 74
+Q: What is bounded self-control? Give an example.
+A: The idea that people exercise self-control only within limits, so they often lack the self-control rational decisions require, e.g. eating or spending too much, saving or working too little.
+
+@ T2.6.3 | definition | 74
+Q: What is bounded selfishness?
+A: The idea that people are selfish only within limits: self-interested maximisation cannot explain the many cases of selfless behaviour and willingness to contribute to the public good at a cost to personal welfare.
+
+@ T2.6.3 | evaluation | 74
+Q: How does imperfect information undermine the assumption of utility maximisation?
+A: Consumers do not and cannot have full information on prices, products and product quality, so they choose using faulty and incomplete information and are unable to maximise utility.
+
+@ T2.6.3 | distinguish | 74
+Q: Distinguish between bounded rationality, bounded self-control and bounded selfishness.
+A: <b>Bounded rationality:</b> limited ability to obtain and process information.<br><b>Bounded self-control:</b> limited willpower to act on rational decisions.<br><b>Bounded selfishness:</b> self-interest is limited; people also act selflessly.
+
+@ T2.6.4 | definition | 75
+Q: In economics, what is a nudge?
+A: A method designed to influence consumers' choices in a predictable way, without offering financial incentives or imposing sanctions, and without limiting choice.
+
+@ T2.6.4 | example | 75-76
+Q: Who coined the economic term 'nudge', and where?
+A: Richard Thaler and Cass Sunstein, in their 2008 book 'Nudge: Improving Decisions about Health, Wealth and Happiness'. Thaler received the 2017 Nobel Prize in Economics partly for his work on behavioural economics.
+
+@ T2.6.4 | explain | 76
+Q: What is the aim of nudges?
+A: To influence people to behave in socially desirable ways without imposing any constraints on their behaviour, so freedom of choice is maintained.
+
+@ T2.6.4 | explain | 76
+Q: Who uses nudges in practice?
+A: Governments in many countries (some have set up 'nudge units' for public policy) and the private sector.
+
+@ T2.6.4 | example | 76
+Q: Give an example of a nudge using social norms to raise tax payments.
+A: In the UK, payments by late taxpayers rose 15% when they were told most people in their area had already paid: they were made to feel the exception to the community norm.
+
+@ T2.6.4 | example | 76
+Q: Give an example of a nudge used to reduce household electricity consumption.
+A: In a Danish municipality, streetlights turn red when solar panels can no longer power them, making residents more aware of their electricity use.
+
+@ T2.6.4 | example | 76
+Q: Give an example of a nudge used to promote healthy eating.
+A: Placing healthy foods in more visible and accessible positions in stores (and painting colourful footsteps leading to them) has increased their sales.
+
+@ T2.6.4 | example | 76
+Q: How did personalised messages work as a nudge for vehicle tax non-payers?
+A: Personalised messages instead of warning letters doubled the number of payers; adding a photo of the car tripled it.
+
+@ T2.6.4 | example | 76
+Q: How did the design of tax notices act as a nudge?
+A: Sending notices in white rather than brown envelopes, with handwritten rather than typed names, increased the number of people paying their tax by 16%.
+
+@ T2.6.4 | explain | 76
+Q: In which field has behavioural economics been most successful, and where else is it making headway?
+A: Most successful in finance; also making headway in development, health, law and economics, public economics, organisational economics and wage determination.
+
+@ T2.6.4 | definition | 83
+Q: What is 'libertarian paternalism'?
+A: Thaler and Sunstein's description of nudges as government intervention: steering people towards choices judged to be in their best interests (paternalism) while preserving their freedom of choice (libertarian).
+
+@ T2.6.5 | definition | 76
+Q: What is choice architecture?
+A: The design of the ways or environments in which people make choices, based on the idea that decisions are influenced by the context and by how options are presented.
+
+@ T2.6.5 | definition | 76
+Q: Who are choice architects?
+A: Individuals or organisations that arrange the context in which choices are made.
+
+@ T2.6.5 | explain | 76
+Q: Why is framing an important part of choice architecture?
+A: Framing defines the context in which choices are presented to decision-makers, so it is used to influence their decisions.
+
+@ T2.6.5 | definition | 76
+Q: What is a default choice, and why can it be used as a nudge?
+A: The option that results if a person does nothing. People often stick with defaults out of habit, lack of interest or comfort in not choosing, so making an option the default induces people to follow it.
+
+@ T2.6.5 | example | 77
+Q: How does default choice affect organ donation rates?
+A: Where being a donor is the default (e.g. Austria, Belgium, France), participation is very high, sometimes 90% or more; where being a non-donor is the default (e.g. Denmark, Germany, the US), it is much lower.
+
+@ T2.6.5 | definition example | 76
+Q: What is a restricted choice? Give examples.
+A: A choice limited by the government or another authority, e.g. speed limits, voting age, recycling regulations, smoking prohibitions (or social norms).
+
+@ T2.6.5 | explain | 76
+Q: Why is it argued that restricted choices are necessary?
+A: People have too many choices and, lacking good information or through poor judgement, often choose badly; restrictions encourage choices with socially desirable outcomes.
+
+@ T2.6.5 | definition | 78
+Q: What is a mandated choice?
+A: A choice between alternatives that the government or another authority makes compulsory: the choice itself is free, but making it is required.
+
+@ T2.6.5 | example | 77
+Q: Give an example of mandated choice and its effect.
+A: In Illinois (US), renewing a driver's licence requires answering whether you wish to be an organ donor: 60% sign up, compared with 38% nationally where the choice is not mandated.
+
+@ T2.6.5 | evaluation example | 77
+Q: How did an organ donation nudge backfire in the Netherlands?
+A: A 2016 law made being a donor the default, but in a drive soon after there were six times as many non-donors as donors, probably because people (after heavy press coverage) rebelled against the government choosing for them.
+
+@ T2.6.5 | explain | 78
+Q: What do default, restricted and mandated choice have in common?
+A: They are different types of nudge within choice architecture, intended to steer people's choices in a direction held to be socially desirable.
+
+@ T2.6.6 | evaluation | 78
+Q: How do mainstream economists defend the rational theory of consumer behaviour against behavioural critiques?
+A: It explains and predicts behaviour reasonably well: consumers do respond rationally to monetary factors (e.g. a higher petrol tax lowers quantity demanded) and many tests confirm downward-sloping demand curves, so on average behaviour fits utility theory.
+
+@ T2.6.6 | evaluation | 78
+Q: Why do some economists argue that choice architecture and nudges are manipulative?
+A: They try to control consumer choices, often at a subconscious level, by exploiting incomplete information and selectively providing information, so free choice becomes an illusion.
+
+@ T2.6.6 | evaluation | 78
+Q: What safeguard is proposed for the use of nudges in economic policy?
+A: Transparency and open discussion of the nudges being used.
+
+@ T2.6.6 | evaluation | 78
+Q: Evaluation: what is the cost advantage of policies based on behavioural economics?
+A: They may be a relatively simple and low-cost way to influence people to act in socially desirable ways.
+
+@ T2.6.6 | evaluation | 78
+Q: Evaluation: what does the past success of nudges suggest about their potential?
+A: Nudges and choice architecture have worked in a number of areas, suggesting many possible applications in areas not yet explored.
+
+@ T2.6.6 | evaluation | 78
+Q: Evaluation: how do nudges compare with other policies in terms of freedom of choice?
+A: They preserve freedom of choice: people are not forced to do anything or prevented from doing anything.
+
+@ T2.6.6 | evaluation | 78
+Q: Evaluation: what advantage does behavioural economics have over the standard theory of consumer behaviour?
+A: It may be able to explain the inconsistencies and seeming irrationality of actual consumer behaviour that the standard theory cannot.
+
+@ T2.6.6 | evaluation | 78
+Q: Evaluation: why does the psychological basis of behavioural policies count as an advantage?
+A: They draw on principles of psychology, such as framing, many of which have been tested over many years.
+
+@ T2.6.6 | evaluation | 78
+Q: Evaluation: what is the advantage of behavioural policies being developed through trials?
+A: Trials give a flexible trial-and-error way of discovering policy measures that actually achieve the desired results.
+
+@ T2.6.6 | evaluation | 78
+Q: Evaluation: why is the lack of a unifying theory a weakness of behavioural economics?
+A: Its body of knowledge is not based on an understanding of human behaviour, so it cannot produce a systematic theory of consumer behaviour with general applicability.
+
+@ T2.6.6 | evaluation | 78
+Q: Evaluation: why might behavioural policies fail to work across time, groups or cultures?
+A: The unsystematic approach (different policies for different situations) may not hold over time or across income, social or cultural groups, which limits the policies' applicability.
+
+@ T2.6.6 | evaluation | 78-79
+Q: Evaluation: how could the psychological principles behind nudges be misused?
+A: To manipulate consumers into acting against their best interests, as advertising and marketing have long done (e.g. advertising unhealthy sugary and fatty foods).
+
+@ T2.6.6 | evaluation | 79
+Q: Evaluation: why is there a risk in governments using nudges instead of traditional policies?
+A: Nudges may be used as substitutes for necessary but politically costly policies, such as taxes on demerit goods or on goods causing negative externalities, and traditional policies (indirect taxes, subsidies) may be more effective.
+
+@ T2.6.6 | evaluation | 79
+Q: Evaluation: why might nudging be a dangerous 'camouflaged' form of regulation?
+A: It may be government regulation disguised as freedom of choice, so people may not be aware of it or of its effects on their choices.
+
+@ T2.6.6 | evaluation | 79
+Q: Evaluation: even when nudges successfully change choices, what is the remaining concern?
+A: The choices people make may not reflect their true preferences.
+
+@ T2.6.7 | definition | 79
+Q: What is profit maximisation as a business objective?
+A: The standard assumption of rational producer behaviour: the firm chooses the level of output that makes profit as large as possible.
+
+@ T2.6.7 | definition | 79
+Q: In general terms, what is a firm's profit?
+A: The total revenue earned by the firm minus the total costs it incurs in producing its output.
+
+@ T2.6.8 | explain | 79
+Q: What is the common theme of theories of alternative business objectives?
+A: Profit maximisation may not be the overriding objective of firms: they may have other goals that are more important.
+
+@ T2.6.8 | example | 79-80
+Q: Give examples of firm behaviour where self-interest conflicts with the well-being of society.
+A: Polluting the environment; employing poorly paid children forced to work long hours; using labour in unhealthy or dangerous conditions (where laws protecting workers are missing or poorly enforced).
+
+@ T2.6.8 | definition | 80
+Q: What is corporate social responsibility (CSR)?
+A: Firms engaging in socially beneficial activities, e.g. avoiding pollution, environmentally sound practices, supporting human rights (avoiding exploited or child labour), arts and sports sponsorships, donations to charity.
+
+@ T2.6.8 | chain | 80
+Q: How can a negative public image give firms an incentive to adopt corporate social responsibility?
+A: Unethical behaviour → negative image among workers and buyers → lower worker productivity, lost sales and even boycotts → lower revenue and profit.
+
+@ T2.6.8 | chain | 80
+Q: How can corporate social responsibility affect the government regulation a firm faces?
+A: Socially irresponsible behaviour → government regulation to limit the harm to society; socially responsible behaviour → less government regulation.
+
+@ T2.6.8 | explain | 80
+Q: What has driven the growth of corporate social responsibility practices?
+A: Greater consumer awareness and concern about the social, ethical and environmental aspects of business, consumer activism (boycotts), and rapidly growing interest in investing in firms that meet social, ethical and ecological criteria.
+
+@ T2.6.8 | evaluation | 80
+Q: Does corporate social responsibility reduce firms' profits?
+A: Economists used to think so, looking only at costs (e.g. cheap child labour lowers costs). But profit also depends on revenue, which falls if consumers shun offending firms. Studies are inconclusive, but firms often avoid risking consumer displeasure.
+
+@ T2.6.8 | definition | 80
+Q: What is market share?
+A: The percentage of total sales in a market that is earned by a single firm.
+
+@ T2.6.8 | explain | 80
+Q: Why is a large market share likely to increase a firm's profitability?
+A: A large market share means the firm is probably achieving economies of scale (falling costs per unit of output as it grows).
+
+@ T2.6.8 | explain | 80
+Q: Why is market share used as a key indicator of a firm's performance?
+A: It shows how well the firm is doing relative to its competitors; multinational corporations often measure their performance by market share in specific countries.
+
+@ T2.6.8 | explain | 80
+Q: What does a stable, growing or falling market share tell a firm?
+A: <b>Stable:</b> revenues growing at the same rate as the market.<br><b>Growing:</b> doing better than competitors (revenues growing faster).<br><b>Falling:</b> doing worse than competitors in sales.
+
+@ T2.6.8 | explain | 80
+Q: What strategies can a firm use to increase its market share?
+A: Lowering its prices, introducing new or innovative products, and advertising.
+
+@ T2.6.8 | evaluation | 80
+Q: Why may pursuing market share lower profits, and when is it still worthwhile?
+A: Lower prices may reduce revenue, while R&amp;D and advertising raise costs. It is worthwhile as long as the firm remains profitable and earns a satisfactory level of profit.
+
+@ T2.6.8 | definition | 81
+Q: What is growth maximisation as a business objective?
+A: Aiming to maximise the growth (size) of the firm rather than its profits.
+
+@ T2.6.8 | explain | 81
+Q: How can growth maximisation increase a firm's profitability through lower costs?
+A: A growing firm can achieve economies of scale, lowering its average costs.
+
+@ T2.6.8 | explain | 81
+Q: How does growth reduce a firm's dependence on a single product or market?
+A: As it grows, the firm can diversify into producing different products for different markets.
+
+@ T2.6.8 | explain | 81
+Q: How does growth increase a firm's ability to influence prices?
+A: A larger firm has greater market power, which can increase its profitability.
+
+@ T2.6.8 | explain | 81
+Q: How does growth reduce the risks a firm faces?
+A: A larger firm may be less affected in an economic downturn (recession) and is less likely to be taken over (bought) by another firm.
+
+@ T2.6.8 | stakeholders | 81
+Q: Why does growth maximisation reconcile the interests of a firm's owners and managers?
+A: Both groups gain from a growing firm, whereas other objectives can set them against each other (owners tend to favour profit maximisation, managers revenue maximisation).
+
+@ T2.6.8 | definition | 81
+Q: What is revenue maximisation, and why is it linked to the separation of ownership from management?
+A: Aiming to maximise sales revenue. Hired managers (unlike owner-managers) may be more interested in increasing sales and revenue than in maximising profit.
+
+@ T2.6.8 | explain | 81
+Q: Why are sales targets more practical than profit targets for managing a firm?
+A: Sales can be identified and measured more easily over the short term than profits, and sales targets can be used to motivate employees.
+
+@ T2.6.8 | explain | 81
+Q: How do reward systems within firms encourage revenue maximisation?
+A: Rewards for managers and employees are often linked to increased sales rather than to increased profits.
+
+@ T2.6.8 | explain | 81
+Q: Why might maximising revenue also raise profit?
+A: It is often assumed that revenue from extra sales rises faster than costs, in which case profit also increases.
+
+@ T2.6.8 | definition | 81
+Q: What is satisficing as a business objective?
+A: Herbert Simon's idea that firms aim for a satisfactory level of profit together with satisfactory results on many other objectives, rather than the best result for any one objective.
+
+@ T2.6.8 | explain | 81
+Q: Why, according to Herbert Simon, can a large modern firm not pursue a single maximising objective?
+A: It is made up of many separate groups with their own overlapping or conflicting objectives, so it reaches compromises and pursues many objectives arranged in a hierarchy.

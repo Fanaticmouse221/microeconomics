@@ -1,0 +1,181 @@
+# 2.2 Demand (book p43-49)
+
+@ T2.2.1 | definition | 43
+Q: What is the demand of an individual consumer for a good?
+A: The various quantities of the good (or service) the consumer is willing and able to buy at different possible prices during a particular time period, ceteris paribus.
+
+@ T2.2.1 | explain | 43
+Q: In the definition of demand, what do 'willing' and 'able' mean?
+A: <b>Willing:</b> the consumer wants to buy the good. <b>Able:</b> the consumer can afford it. Both are needed: wanting a Ferrari you cannot afford (or affording one you do not want) is not demand.
+
+@ T2.2.1 | definition | 44
+Q: In demand analysis, what does ceteris paribus mean?
+A: All things other than price that can affect how much consumers are willing and able to buy (e.g. income, tastes, prices of related goods) are assumed to stay constant.
+
+@ T2.2.1 | definition | 43
+Q: What is a demand schedule?
+A: A table listing the quantities of a good that a consumer (or the market) is willing and able to buy at various prices.
+
+@ T2.2.1 | definition | 44
+Q: State the law of demand.
+A: There is a negative relationship between the price of a good and its quantity demanded over a particular time period, ceteris paribus: price ↑ → quantity demanded ↓; price ↓ → quantity demanded ↑.
+
+@ T2.2.1 | explain | 44
+Q: Why is the relationship described by the law of demand called both 'negative' and 'causal'?
+A: <b>Negative</b> (indirect): price and quantity demanded move in opposite directions. <b>Causal</b>: changes in price cause the changes in quantity demanded.
+
+@ T2.2.2 | diagram | 44
+Q: Describe a demand curve diagram (axes and slope).
+A: Price (P) on the vertical axis, quantity (Q) on the horizontal axis. The demand curve slopes downward from left to right, showing the negative relationship between price and quantity demanded. It is called a 'curve' even when drawn as a straight line.
+
+@ T2.2.2 | explain | 44
+Q: Does a demand curve tell us how much consumers will actually buy and at what price?
+A: No. It only shows how much consumers would be willing and able to buy at each possible price; the actual price and quantity are determined by the interaction of demand with supply.
+
+@ T2.2.3 | definition | 44
+Q: What is market demand?
+A: The total quantities of a good that all consumers in a market are willing and able to buy at different prices over a period of time, ceteris paribus: the sum of all individual demands.
+
+@ T2.2.3 | diagram | 44-45
+Q: How is the market demand curve derived from individual demand curves?
+A: At each possible price, add up the quantities demanded by every individual consumer (horizontal summation). Plotting these totals at every price gives the market demand curve.
+
+@ T2.2.3 | explain | 44
+Q: Why can two consumers have different demand curves for the same good?
+A: They have different preferences, so they are willing and able to buy different quantities at each price.
+
+@ T2.2.4 | definition | 45
+Q: What are the non-price determinants of demand?
+A: The variables other than price that influence demand (e.g. income, tastes, prices of related goods, number of consumers). They are the variables held constant by the ceteris paribus assumption.
+
+@ T2.2.4 | diagram | 45
+Q: On a demand diagram, what does a rightward shift of the demand curve show, and what is it called?
+A: More is demanded at every given price. It is called an <b>increase in demand</b>.
+
+@ T2.2.4 | diagram | 45
+Q: On a demand diagram, what does a leftward shift of the demand curve show, and what is it called?
+A: Less is demanded at every given price. It is called a <b>decrease in demand</b>.
+
+@ T2.2.4 | definition | 45
+Q: What is a normal good?
+A: A good whose demand increases when consumer income increases (demand varies directly with income). Most goods are normal goods.
+
+@ T2.2.4 | chain | 45
+Q: Consumer income rises. What happens to the demand for a normal good?
+A: Income ↑ → consumers willing and able to buy more at every price → demand ↑ → demand curve shifts right. (Income ↓ → shifts left.)
+
+@ T2.2.4 | definition example | 45
+Q: What is an inferior good? Give an example.
+A: A good whose demand falls when consumer income increases (demand varies inversely with income), e.g. second-hand clothes, used cars, bus tickets.
+
+@ T2.2.4 | chain | 45
+Q: Consumer income rises. What happens to the demand for an inferior good, and why?
+A: Income ↑ → consumers switch to more expensive alternatives (e.g. new clothes, cars instead of buses) → demand for the inferior good ↓ → demand curve shifts left. (Income ↓ → shifts right.)
+
+@ T2.2.4 | chain | 45
+Q: How do changes in tastes and preferences shift the demand curve for a product?
+A: Tastes change in favour of the product (it becomes more popular) → demand ↑ → curve shifts right.<br>Tastes change against it (e.g. a report that it harms health) → demand ↓ → curve shifts left.
+
+@ T2.2.4 | definition example | 45
+Q: What are substitute goods? Give an example.
+A: Two goods that satisfy a similar need, so one can be used in place of the other, e.g. Coca-Cola and Pepsi, apples and oranges, milk and yoghurt.
+
+@ T2.2.4 | chain | 45-46
+Q: The price of Coca-Cola falls. What happens to the demand for Pepsi?
+A: They are substitutes: price of Coca-Cola ↓ → some consumers switch from Pepsi to Coca-Cola → demand for Pepsi ↓ → Pepsi's demand curve shifts left.
+
+@ T2.2.4 | explain | 46
+Q: For substitute goods X and Y, in which direction do the price of X and the demand for Y move?
+A: In the same direction: price of X ↑ → demand for Y ↑ (shifts right); price of X ↓ → demand for Y ↓ (shifts left).
+
+@ T2.2.4 | definition example | 46
+Q: What are complementary goods? Give an example.
+A: Goods that tend to be used together, e.g. computers and software, shoes and shoelaces, tennis balls and tennis rackets.
+
+@ T2.2.4 | chain | 46
+Q: The price of computers falls. What happens to the demand for computer software?
+A: They are complements: price of computers ↓ → more computers bought → demand for software ↑ → software's demand curve shifts right.
+
+@ T2.2.4 | explain | 46
+Q: For complementary goods X and Y, in which direction do the price of X and the demand for Y move?
+A: In opposite directions: price of X ↓ → demand for Y ↑ (shifts right); price of X ↑ → demand for Y ↓ (shifts left).
+
+@ T2.2.4 | definition example | 46
+Q: What are independent goods? Give an example.
+A: Goods that are unrelated, so a change in the price of one has little or no effect on demand for the other (e.g. pencils and apples, cars and ice cream). Most goods are independent of each other.
+
+@ T2.2.4 | chain | 46
+Q: How does a change in the number of consumers affect market demand?
+A: Number of consumers ↑ → market demand ↑ → demand curve shifts right (and vice versa), because market demand is the sum of all individual demands.
+
+@ T2.2.5 | distinguish | 47
+Q: Distinguish between a 'change in quantity demanded' and a 'change in demand'.
+A: <b>Change in quantity demanded:</b> caused by a change in the good's own price; shown as a movement along the demand curve.<br><b>Change in demand:</b> caused by a change in a non-price determinant; shown as a shift of the whole demand curve.
+
+@ T2.2.5 | diagram | 47
+Q: A good's price falls, ceteris paribus. Describe what happens on its demand diagram and name the change.
+A: A movement down along the same demand curve (e.g. point A to point B) to a larger quantity. This is an <b>increase in quantity demanded</b>; the curve does not shift.
+
+@ T2.2.5 | diagram | 47
+Q: A good's price rises, ceteris paribus. Describe what happens on its demand diagram and name the change.
+A: A movement up along the same demand curve (e.g. point B to point A) to a smaller quantity. This is a <b>decrease in quantity demanded</b>; the curve does not shift.
+
+@ T2.2.5 | diagram | 47
+Q: The number of buyers of a good falls. Describe what happens on its demand diagram and name the change.
+A: The entire demand curve shifts left (e.g. D1 to D3): less is demanded at every price. This is a <b>decrease in demand</b>.
+
+@ T2.2.5 | explain | 47
+Q: Why does a change in a good's own price not shift its demand curve?
+A: The demand curve already shows how quantity demanded responds to every possible price, so a price change is a movement along it. Only changes in non-price determinants (held constant under ceteris paribus) shift the curve.
+
+@ T2.2.6 | definition | 47
+Q: What is utility?
+A: The satisfaction consumers gain from consuming something. It is subjective, since it depends on personal tastes and preferences.
+
+@ T2.2.6 | explain | 47-48
+Q: How is utility measured in the theory of consumer behaviour?
+A: It cannot really be measured, but for building the theory it is assumed to be quantifiable in imaginary units called utils.
+
+@ T2.2.6 | distinguish | 48
+Q: Distinguish between total utility and marginal utility.
+A: <b>Total utility:</b> the total satisfaction from consuming a good.<br><b>Marginal utility:</b> the extra satisfaction from consuming one more unit of it.
+
+@ T2.2.6 | definition | 48
+Q: State the law of diminishing marginal utility.
+A: As consumption of a good increases, the marginal utility (extra satisfaction) from each additional unit consumed decreases.
+
+@ T2.2.6 | explain | 48
+Q: As a consumer buys more units of a good, what happens to total utility while marginal utility is falling but positive, at zero, and negative?
+A: Positive but falling MU: total utility still rises, but by less each time.<br>MU of zero: total utility is at its maximum.<br>Negative MU: total utility falls.
+
+@ T2.2.6 | chain | 48
+Q: How does the law of diminishing marginal utility explain the law of demand?
+A: Each extra unit gives less utility → the consumer will buy additional units only if the price falls → lower prices are associated with larger quantities demanded → the demand curve slopes downward.
+
+@ T2.2.6 | explain | 48
+Q: According to the theory of consumer behaviour, how do consumers arrange their purchases of different goods?
+A: In a way that maximises the total utility they derive. Marginal utility is the basic building block of this theory.
+
+@ T2.2.7 | explain | 48
+Q: How do the substitution and income effects relate to the total effect of a price change on quantity demanded?
+A: The total effect of a price change (a movement along the demand curve) is the sum of the substitution effect and the income effect.
+
+@ T2.2.7 | chain | 48
+Q: Explain the substitution effect of a fall in a good's price.
+A: Price ↓ → the good is now cheaper relative to alternatives → the consumer substitutes towards it (buys more) → quantity demanded ↑. The substitution effect always gives a negative price–quantity relationship.
+
+@ T2.2.7 | definition | 49
+Q: What is real income (purchasing power)?
+A: The quantity of goods and services a sum of money can buy. It rises when prices fall and falls when prices rise, even if money income is unchanged.
+
+@ T2.2.7 | chain | 49
+Q: Explain the income effect of a fall in the price of a normal good.
+A: Price ↓ → consumer's real income (purchasing power) ↑ → consumer can afford and wants more of the normal good → quantity demanded ↑.
+
+@ T2.2.7 | explain | 49
+Q: For a normal good, how do the substitution and income effects of a price fall combine?
+A: They reinforce each other: both increase quantity demanded, which explains the downward-sloping demand curve.
+
+@ T2.2.7 | evaluation | 49
+Q: For most goods, is the substitution effect or the income effect more important in explaining the law of demand? Why?
+A: The substitution effect. Most goods cost a small fraction of income, so a price change has only a tiny effect on real income. The income effect matters only for goods that take up a large share of income.

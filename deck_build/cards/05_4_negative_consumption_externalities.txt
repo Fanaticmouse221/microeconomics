@@ -1,0 +1,130 @@
+# 5.4 Negative consumption externalities (book p164-172)
+# Excluded: HL welfare loss calculation (p165); supplementary area algebra (p165-166); TOK 5.2 (p170-171).
+
+@ T5.4.1 | definition example | 164
+Q: What are negative consumption externalities? Give an example.
+A: External costs created by consumers, e.g. smoking in public places imposes passive-smoking costs on non-smokers, and smoking-related diseases add to society's health care costs.
+
+@ T5.4.1 | diagram | 164-165
+Q: Describe a negative consumption externality diagram.
+A: S = MPC = MSC slopes up; D = MPB slopes down; MSB lies below MPB (external costs act as 'negative benefits'; the vertical gap is the external cost). The market produces Qm at Pm (MPB = MPC); the optimum is Qopt at Popt (MSB = MSC), with Qopt less than Qm.
+
+@ T5.4.1 | diagram | 165
+Q: On a negative consumption externality diagram, why is the supply curve labelled S = MPC = MSC?
+A: The externality involves only consumption (the demand side), so producers' private costs equal the costs to society.
+
+@ T5.4.1 | example | 165
+Q: Besides smoking, give examples of negative consumption externalities.
+A: Heating homes and driving cars using fossil fuels that pollute the atmosphere; air travel.
+
+@ T5.4.1 | chain | 165
+Q: Why does a negative consumption externality lead to an overallocation of resources?
+A: Consumers ignore the external costs of their consumption → demand reflects MPB, not MSB → market output Qm exceeds Qopt → too much is produced and consumed; at Qm, MSC exceeds MSB.
+
+@ T5.4.1 | explain | 165
+Q: What do all negative externalities, whether from production or consumption, have in common?
+A: They cause allocative inefficiency through an overallocation of resources to the good and its overprovision.
+
+@ T5.4.2 | diagram | 165
+Q: Where is the welfare loss on a negative consumption externality diagram?
+A: The triangle between MSC (the supply curve) and MSB over the overproduced units from Qopt to Qm, with its point at Qopt.
+
+@ T5.4.2 | explain | 165
+Q: What does the welfare loss from a negative consumption externality represent?
+A: The reduction in benefits to society from overallocating resources to the good: each unit beyond Qopt costs society more (MSC) than it is worth to society (MSB). Correcting the externality would regain these benefits.
+
+@ T5.4.3 | explain example | 166
+Q: Is the overuse of common pool resources linked more to production or to consumption externalities?
+A: More to production activities, but consumption also contributes: heating oil, petrol-driven cars and especially air travel overuse clean air and threaten the stability of the global climate.
+
+@ T5.4.3 | example | 166, 172
+Q: Why is air travel a growing concern as a negative consumption externality?
+A: It is the fastest-growing contributor to carbon emissions, producing significant and rapidly increasing greenhouse gases that cause global warming.
+
+@ T5.4.3 | example evaluation | 172
+Q: What is CORSIA, and why is it criticised?
+A: The Carbon Offsetting and Reduction Scheme for International Aviation, which the airline industry chose instead of carbon pricing or government regulation of aviation emissions. It has been criticised as ineffective.
+
+@ T5.4.4 | definition example | 166
+Q: In market failure terms, what are demerit goods? Give examples.
+A: Goods considered undesirable for consumers that are overprovided by the market, e.g. cigarettes, alcohol and gambling.
+
+@ T5.4.4 | explain | 166
+Q: Why does the market overprovide demerit goods?
+A: They may create negative consumption externalities, and consumers may be ignorant of the harmful effects of their actions on others, or indifferent to them.
+
+@ T5.4.5 | diagram | 167
+Q: Diagram: how does a Pigouvian tax correct a negative consumption externality?
+A: A tax on the good (e.g. cigarettes, petrol) shifts supply up from MPC to MPC + tax; if the tax equals the external cost, MPC + tax meets MPB at Qopt. Quantity falls to Qopt and the price paid rises from Pm to Pc; demand does not shift.
+
+@ T5.4.5 | evaluation | 167
+Q: Why are indirect taxes the preferred policy for negative consumption externalities?
+A: As a market-based policy they internalise the externality: by making the taxed good relatively more expensive, they give consumers an incentive to change their consumption patterns.
+
+@ T5.4.5 | evaluation | 167
+Q: Why is it difficult to set the right Pigouvian tax on goods such as cigarettes or petrol?
+A: It is technically very difficult to assess who and what is affected by the external costs (e.g. passive smoking, pollution) and to put a value on those costs.
+
+@ T5.4.5 | evaluation chain | 167
+Q: Why may a Pigouvian tax on a good with inelastic demand (e.g. petrol, cigarettes) fail to reach the social optimum?
+A: Inelastic demand → the tax raises the price by a larger percentage than quantity falls → revenue rises but consumption falls little → reaching Qopt would need a very high tax, which is likely to be politically unacceptable.
+
+@ T5.4.5 | evaluation | 167
+Q: What is a benefit of the large revenues from taxing goods with inelastic demand, such as cigarettes?
+A: The revenue can be used to finance education programs that discourage consumption of these goods.
+
+@ T5.4.6 | explain example | 168
+Q: How can legislation and regulation correct negative consumption externalities? Give examples.
+A: By preventing or limiting consumer activities that impose costs on third parties, e.g. bans on smoking in public places, age restrictions so sellers deal only with adults, and restrictions on cars entering city centres.
+
+@ T5.4.6 | diagram | 168
+Q: Diagram: how does a regulation such as a public smoking ban correct a negative consumption externality?
+A: It reduces demand: the MPB curve shifts left until it coincides with MSB, so quantity falls to Qopt and price falls from Pm to Popt.
+
+@ T5.4.6 | distinguish diagram | 167-168
+Q: How does the price outcome differ when a negative consumption externality is corrected by a tax rather than by policies that reduce demand?
+A: <b>Tax:</b> supply shifts up, so the price paid by consumers rises.<br><b>Regulation, education, nudges:</b> demand shifts left, so the price falls.<br>Both bring quantity down to Qopt.
+
+@ T5.4.6 | evaluation | 168
+Q: What are the strengths and limitations of regulation for correcting negative consumption externalities?
+A: <b>Strength:</b> very effective for some activities (public smoking bans, limits on cars in city centres).<br><b>Limitation:</b> unsuitable for others, e.g. petrol consumption is very hard to regulate, so taxes may work better.
+
+@ T5.4.7 | example | 168
+Q: Give examples of education and awareness campaigns against negative consumption externalities.
+A: Anti-smoking campaigns; campaigns against unhealthy foods; promoting public transport to save petrol and home insulation to cut heating oil use; informing consumers about the carbon produced by air travel.
+
+@ T5.4.7 | explain | 168
+Q: What is the aim of education and awareness creation in dealing with negative consumption externalities?
+A: To persuade consumers to buy fewer goods with negative externalities, reducing demand towards the socially optimum quantity.
+
+@ T5.4.7 | evaluation | 168
+Q: What are the strengths and limitations of education and awareness creation for negative consumption externalities?
+A: <b>Strength:</b> simpler than other methods.<br><b>Limitations:</b> campaigns are funded from taxes, leaving less for other uses (opportunity cost), and they may not reduce the externality enough.
+
+@ T5.4.8 | explain example | 168
+Q: How can nudges reduce negative consumption externalities? Give examples.
+A: By steering consumers away from harmful goods without banning them, e.g. putting unhealthy foods in less accessible places in shops, graphic pictures on cigarette packs, and bicycle lanes to encourage cycling instead of driving.
+
+@ T5.4.8 | evaluation | 169
+Q: What are the limitations of nudges as a policy against negative consumption externalities?
+A: They are still new, so not enough is known about how consumers respond to particular nudges and choice architecture, and their effects may differ across income or cultural groups.
+
+@ T5.4.9 | evaluation | 169
+Q: Can government policies precisely achieve the socially optimum quantity for a negative consumption externality?
+A: Usually not: given each policy's limitations, they can only move the market in the direction of correcting the externality.
+
+@ T5.4.9 | evaluation | 169
+Q: Why may a combination of policies be the best way to address a negative consumption externality?
+A: Each policy has limits, so they can complement each other, e.g. Pigouvian tax revenue can fund education, awareness creation and nudges. Governments must choose methods selectively, depending on the good.
+
+@ T5.4.9 | example | 169
+Q: How have many countries responded to the World Health Organization's 2015 report on sugar?
+A: By taxing the sugar content of foods and drinks (more sugar, more tax) to reduce obesity and diabetes; these taxes have generally met little public opposition.
+
+@ T5.4.9 | example stakeholders | 169
+Q: How have food producers responded to sugar taxes?
+A: By creating no-added-sugar or reduced-sugar products (sometimes cutting sugar enough to avoid the tax altogether); some have made voluntary agreements with governments to lower sugar content.
+
+@ T5.4.9 | example | 169
+Q: Besides taxes, what other policies are used to reduce sugar consumption?
+A: Banning advertising of unhealthy foods when children watch television (regulation), and electronic ordering systems that offer healthy goods as the default option (a nudge).

@@ -1,0 +1,113 @@
+# 7.5 Monopolistic competition (HL) (book p225-230)
+
+@ T7.5.1 | explain example | 225
+Q: Which features of monopolistic competition resemble perfect competition, and which resemble monopoly?
+A: <b>Like perfect competition:</b> many firms and free entry.<br><b>Like monopoly:</b> product differentiation makes each firm a 'mini-monopoly' in its own version of the good (e.g. Adidas, Nike and Puma shoes), so it faces a downward-sloping demand curve.
+
+@ T7.5.1 | explain example | 225
+Q: How can firms differentiate their products through physical and quality differences?
+A: <b>Physical:</b> size, shape, materials, texture, taste, packaging (e.g. clothes, shoes, processed foods, furniture).<br><b>Quality:</b> offering products of different quality.
+
+@ T7.5.1 | explain example | 225
+Q: How can firms differentiate their products through location?
+A: By locating where customers have easy access, e.g. hotels near airports and convenience stores in residential areas.
+
+@ T7.5.1 | explain example | 225
+Q: How can firms differentiate their products through services?
+A: By offering home delivery, product demonstrations, free support, warranties and attractive purchase terms.
+
+@ T7.5.1 | explain example | 225
+Q: How can firms differentiate their products through product image?
+A: By celebrity advertising or endorsements, brand names and attractive packaging.
+
+@ T7.5.2 | diagram | 225-226
+Q: Compare the demand curves facing a firm in perfect competition, monopolistic competition and monopoly.
+A: <b>Perfect competition:</b> perfectly elastic (horizontal).<br><b>Monopolistic competition:</b> downward-sloping and relatively elastic (flatter).<br><b>Monopoly:</b> downward-sloping and less elastic (steeper).
+
+@ T7.5.2 | explain | 225
+Q: If a firm raises its price, how do its lost sales compare in perfect competition, monopoly and monopolistic competition?
+A: <b>Perfect competition:</b> it loses all sales.<br><b>Monopoly:</b> it loses only some, as there is no alternative product.<br><b>Monopolistic competition:</b> it loses more than a monopolist (substitutes exist) but fewer than a perfectly competitive firm (substitutes are not perfect).
+
+@ T7.5.2 | explain | 225-226
+Q: Why does a firm in monopolistic competition have less market power than a monopolist?
+A: Its product has many close (though imperfect) substitutes that consumers can switch to, so its demand curve is more elastic.
+
+@ T7.5.2 | distinguish | 226
+Q: Distinguish between price competition and non-price competition.
+A: <b>Price competition:</b> lowering the price to attract customers away from rivals.<br><b>Non-price competition:</b> attracting customers by other means, mainly product differentiation, advertising and branding.
+
+@ T7.5.2 | chain | 226
+Q: How do successful product differentiation, advertising and branding affect a monopolistically competitive firm?
+A: Consumers are convinced the product is superior → demand shifts right and becomes steeper (less elastic) → more market power, so the firm can raise its price without losing many buyers → larger potential short-run profits.
+
+@ T7.5.2 | explain | 226
+Q: Which monopolistically competitive firms have to rely more on price competition?
+A: Firms less able to build consumer loyalty, whose products are less differentiated from substitutes.
+
+@ T7.5.3 | diagram | 227
+Q: How does the short-run equilibrium of a firm in monopolistic competition compare with that of a monopolist?
+A: The analysis is identical (output where MR = MC; compare the price on the demand curve with AC), except that the demand curve is flatter (more elastic). The firm can make abnormal profit, normal profit or a loss.
+
+@ T7.5.3 | chain | 227-228
+Q: Firms in monopolistic competition earn abnormal profits in the short run. Explain the long-run adjustment.
+A: Abnormal profits → new firms enter and attract customers away → demand facing each existing firm falls (shifts left) → until demand is just tangent to AC → price equals AC: normal profit.
+
+@ T7.5.3 | chain | 228
+Q: Firms in monopolistic competition make losses in the short run. Explain the long-run adjustment.
+A: Losses → some firms leave the industry → their customers switch to the remaining firms → each remaining firm's demand rises (shifts right) → until losses disappear and price equals AC: normal profit.
+
+@ T7.5.3 | diagram | 227-228
+Q: Describe the long-run equilibrium diagram of a firm in monopolistic competition.
+A: The downward-sloping demand curve is tangent to (just touches) the AC curve at the output where MR = MC, so price equals AC (normal profit), while price is above MC.
+
+@ T7.5.3 | distinguish | 227-228
+Q: How does long-run adjustment to normal profit differ between perfect competition and monopolistic competition?
+A: <b>Perfect competition:</b> entry and exit shift industry supply and change the market price each firm takes.<br><b>Monopolistic competition:</b> entry and exit shift each firm's own downward-sloping demand curve until it is tangent to AC.
+
+@ T7.5.4 | explain | 228
+Q: Why does monopolistic competition fail to achieve allocative efficiency?
+A: In long-run equilibrium, price is above MC at the profit-maximising output, so resources are underallocated to the good (society would like more of it): market failure.
+
+@ T7.5.4 | evaluation | 228
+Q: What is meant by saying that some inefficiency is the 'price' of product variety in monopolistic competition?
+A: Consumers gain product variety but give up some allocative efficiency, whereas perfect competition achieves efficiency at the cost of zero product variety.
+
+@ T7.5.4 | evaluation | 228
+Q: Why do some economists argue that monopolistic competition produces too much product variety?
+A: Too many brands (e.g. of breakfast cereals, detergents or cars) confuse consumers, and the high costs of advertising and new product development lead to higher prices; consumers might be better off with less variety and lower prices.
+
+@ T7.5.5 | distinguish | 228
+Q: What do monopolistic competition and perfect competition have in common?
+A: A large number of firms; free entry (no barriers); and abnormal profit or loss in the short run but only normal profit in the long run.
+
+@ T7.5.5 | distinguish | 228
+Q: Compare monopolistic competition and perfect competition in terms of market power and allocative efficiency.
+A: <b>Perfect competition:</b> no market power (horizontal demand curve) and allocatively efficient in the long run.<br><b>Monopolistic competition:</b> some market power (downward-sloping demand), price above MC, so consumers pay more: market failure.
+
+@ T7.5.5 | distinguish | 228
+Q: Compare monopolistic competition and perfect competition in terms of product variety and economies of scale.
+A: <b>Variety:</b> none in perfect competition (identical products); plenty in monopolistic competition, usually an advantage to consumers.<br><b>Economies of scale:</b> none in perfect competition (tiny firms); only small ones in monopolistic competition (firms relatively small).
+
+@ T7.5.5 | distinguish | 229
+Q: What do monopolistic competition and monopoly have in common?
+A: Both face downward-sloping demand curves with MR below demand, so at the profit-maximising output price exceeds MC: neither is allocatively efficient (market failure).
+
+@ T7.5.5 | distinguish | 229
+Q: Compare monopolistic competition and monopoly in terms of the number and size of firms, barriers to entry and long-run profit.
+A: <b>Monopolistic competition:</b> many small firms, free entry, normal profit in the long run.<br><b>Monopoly:</b> one (or one dominant) very large firm, high barriers to entry, abnormal profit possible in the long run.
+
+@ T7.5.5 | evaluation stakeholders | 229
+Q: Why are prices likely to be lower, and output higher, in monopolistic competition than in monopoly?
+A: Free entry and exit drive abnormal profits to zero in the long run, and the availability of substitutes reduces each firm's market power; a monopoly's barriers to entry let it keep abnormal profits and a higher price.
+
+@ T7.5.5 | evaluation | 229
+Q: Compare monopolistic competition and monopoly in terms of pressure on costs.
+A: Competition among firms in monopolistic competition puts downward pressure on costs and may force less efficient firms out; a monopoly faces no such pressure.
+
+@ T7.5.5 | evaluation | 229
+Q: Compare monopolistic competition and monopoly in terms of research and development.
+A: Monopolies' long-run abnormal profits make it easier to finance R&amp;D, but competitive pressure may push monopolistically competitive firms to pursue R&amp;D for product development to keep or increase their sales.
+
+@ T7.5.5 | evaluation | 229
+Q: Compare monopolistic competition and monopoly in terms of economies of scale and product variety.
+A: <b>Economies of scale:</b> much greater potential in monopoly (even natural monopoly), which can lower prices; only small ones in monopolistic competition.<br><b>Variety:</b> far greater in monopolistic competition, with many firms producing substitutes.

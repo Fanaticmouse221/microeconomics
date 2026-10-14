@@ -1,0 +1,73 @@
+# 5.2 Market failure and externalities (book p147-149)
+
+@ T5.2.1 | distinguish | 148
+Q: In market failure analysis, distinguish between overprovision (overallocation) and underprovision (underallocation) of a good.
+A: <b>Overprovision:</b> too many resources are allocated to producing the good, so too much is produced relative to the social optimum.<br><b>Underprovision:</b> too few resources are allocated, so too little is produced.
+
+@ T5.2.1 | evaluation | 147
+Q: Does market failure mean markets are not a useful mechanism for advancing the well-being of societies?
+A: No. It suggests that, for markets to realise their potential, they must be supported by appropriate government policies.
+
+@ T5.2.1 | explain | 147
+Q: How do economists use the concept of allocative efficiency when studying market failure?
+A: As an ideal benchmark: it identifies real-world situations that differ from a perfect allocation of resources, so that government policies can be designed to reduce those inefficiencies.
+
+@ T5.2.2 | definition | 148
+Q: What is marginal private benefit (MPB), and which curve shows it?
+A: The benefit to consumers from consuming one more unit of a good. It is shown by the demand curve.
+
+@ T5.2.2 | definition | 148
+Q: What is marginal private cost (MPC), and which curve shows it?
+A: The cost to producers of producing one more unit of a good. It is shown by the supply curve.
+
+@ T5.2.2 | definition | 149
+Q: What is marginal social benefit (MSB)?
+A: The benefit to society as a whole (including any third parties) from consuming one more unit of a good.
+
+@ T5.2.2 | definition | 149
+Q: What is marginal social cost (MSC)?
+A: The cost to society as a whole (including any third parties) of producing one more unit of a good.
+
+@ T5.2.2 | definition | 149
+Q: What are the 'social optimum' and 'socially optimum output'?
+A: The social optimum is the 'best' situation from the point of view of allocative efficiency; socially optimum output (Qopt) is the quantity at which MSB equals MSC.
+
+@ T5.2.2 | explain | 149
+Q: What is the condition for allocative efficiency once externalities are considered, and how does it relate to MB = MC?
+A: MSC = MSB. When there are no externalities it is the same as MB = MC, because MPB equals MSB and MPC equals MSC.
+
+@ T5.2.2 | explain | 149
+Q: Why is a competitive free market with no externalities allocatively efficient?
+A: With no externalities, MPB equals MSB and MPC equals MSC, so the market equilibrium (where MPB equals MPC) is also where MSB equals MSC.
+
+@ T5.2.2 | explain | 149
+Q: Why does a free market with an externality produce an allocatively inefficient outcome?
+A: The market produces where MPB equals MPC, but the externality makes MSB differ from MPB (or MSC differ from MPC), so at the market output MSB does not equal MSC: too much or too little is produced.
+
+@ T5.2.3 | diagram | 148-149
+Q: Describe a diagram showing allocative efficiency and socially optimum output with no externalities.
+A: Demand (D = MPB = MSB) slopes down and supply (S = MPC = MSC) slopes up; they intersect at Popt and Qopt, the socially optimum output where MSB equals MSC and social surplus is maximum.
+
+@ T5.2.3 | diagram | 149
+Q: On an allocative efficiency diagram with no externalities, why can the demand curve be labelled D = MPB = MSB and the supply curve S = MPC = MSC?
+A: With no external benefits or costs, the benefits to consumers are the full benefits to society and the costs to producers are the full costs to society, so private and social curves coincide.
+
+@ T5.2.4 | definition | 148
+Q: What is an externality?
+A: A positive or negative side-effect of the actions of consumers or producers on other people who are not part of those actions, and whose interests are not taken into consideration.
+
+@ T5.2.4 | definition | 148
+Q: Who are 'third parties' in the context of externalities?
+A: People who feel the effects of an externality without being part of the consumption or production activity that caused it.
+
+@ T5.2.4 | distinguish | 148
+Q: Distinguish between a positive externality and a negative externality.
+A: <b>Positive externality</b> (external or spillover benefit): the side-effects on third parties are benefits.<br><b>Negative externality</b> (external or spillover cost): the side-effects are costs.
+
+@ T5.2.4 | distinguish | 148
+Q: Distinguish between consumption externalities and production externalities.
+A: <b>Consumption externalities</b> result from consumption activities.<br><b>Production externalities</b> result from production activities.
+
+@ T5.2.4 | explain | 149
+Q: What are the four types of externality?
+A: Negative production externalities, negative consumption externalities, positive production externalities and positive consumption externalities.
